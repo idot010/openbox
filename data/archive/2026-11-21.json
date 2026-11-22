@@ -1,0 +1,328 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-21",
+  "dateLabel": "2026年11月21日 · 星期六",
+  "issue": "VOL. 003",
+  "edition": "第 003 期",
+  "coverage": "2026-11-20 08:00 — 2026-11-21 08:00 · 北京时间（UTC+8）",
+  "updatedAt": "2026-11-21T08:00:00+08:00",
+  "headline": "全球每日新闻简报｜2026年11月21日",
+  "dek": "Reuters × Bloomberg｜北京时间 08:00 截稿",
+  "spotlight": [
+    [
+      "−5.28%",
+      "纳斯达克"
+    ],
+    [
+      "−3.70%",
+      "标普500"
+    ],
+    [
+      "−1.93%",
+      "道琼斯"
+    ]
+  ],
+  "stories": [
+    {
+      "id": "2026-11-21-1",
+      "section": "top",
+      "title": "全球 AI 股灾加剧：纳指单日跌5.28%，标普与道指进入回调",
+      "category": "市场",
+      "fullBody": "11月20日，美国科技股遭遇猛烈抛售，标普500和道指较近期高点下跌超过10%，进入技术性回调区间。纳斯达克抹去2026年以来的累计涨幅，英伟达单日跌约13.8%，半导体和云计算企业普遍承压。\n\n补发核查：原稿所列三大股指收盘跌幅获交叉印证；英伟达的精确跌幅在本次复核所见报道中口径不一，13.8% 保留为原稿数值。",
+      "summary": "11月20日，美国科技股遭遇猛烈抛售，标普500和道指较近期高点下跌超过10%，进入技术性回调区间。纳斯达克抹去2026年以来的累计涨幅，英伟达单日跌约13.8%，半导体和云计算企业普遍承压。",
+      "why": "这已不是单一科技企业的估值调整，而是波及全球股票、债券、外汇和风险偏好的市场事件。投资者重新审视 AI 基础设施的融资成本、商业回报及利率环境。",
+      "source": "Reuters",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "url": "https://www.reuters.com/legal/transactional/wall-st-futures-slip-anthropic-debut-fails-reassure-ai-investors-2026-11-20/",
+          "label": "Reuters｜11月20日"
+        },
+        {
+          "label": "美联社｜指数收盘",
+          "url": "https://apnews.com/article/c10b797a17c2acf37924d834efebe135"
+        },
+        {
+          "label": "华尔街日报｜市场收盘",
+          "url": "https://www.wsj.com/finance/stocks/u-s-stocks-extend-plunge-as-ai-boom-turns-to-bust-a2d324e7"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-2",
+      "section": "top",
+      "title": "Anthropic 上市第二日下跌9.1%，创纪录 IPO 未能阻止科技股抛售",
+      "category": "科技与资本市场",
+      "fullBody": "Anthropic 11月19日上市首日收涨约17%，但11月20日第二个交易日股价跌约9.1%，收于88.30美元，接近83美元的IPO发行价。其下跌与英伟达及其他AI基础设施企业的股价回调同步。\n\n新进展：昨天已经报道过 Anthropic 的上市和首日表现，今天真正值得关注的是公开市场第二日的重新定价。813亿美元IPO募资是旧事实，不重复算作新融资。",
+      "summary": "Anthropic 11月19日上市首日收涨约17%，但11月20日第二个交易日股价跌约9.1%，收于88.30美元，接近83美元的IPO发行价。其下跌与英伟达及其他AI基础设施企业的股价回调同步。",
+      "source": "Reuters",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "url": "https://www.reuters.com/business/view-nasdaq-plunges-5-day-after-anthropic-debut-investors-still-believe-ai-2026-11-20/",
+          "label": "Reuters｜11月20日"
+        },
+        {
+          "label": "卫报｜上市次日收盘",
+          "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-3",
+      "section": "top",
+      "title": "俄罗斯大规模空袭乌克兰：超过400架无人机、110多枚导弹",
+      "category": "国际安全",
+      "fullBody": "乌克兰官员称，俄罗斯11月20日向乌克兰发射400多架无人机和110多枚导弹，袭击能源、交通及其他基础设施。基辅部分桥梁和供水设施受损，基辅与利沃夫报告至少8人死亡。波兰还报告疑似导弹和无人机进入其领空。\n\n俄罗斯国防部声称打击了军事运输相关设施，但军事目标性质与乌方报告的损害需要分别看待。",
+      "summary": "乌克兰官员称，俄罗斯11月20日向乌克兰发射400多架无人机和110多枚导弹，袭击能源、交通及其他基础设施。基辅部分桥梁和供水设施受损，基辅与利沃夫报告至少8人死亡。波兰还报告疑似导弹和无人机进入其领空。",
+      "why": "这是前一天俄罗斯威胁报复之后的实质性军事升级。大国会晤没有直接转化为战场降温，且基础设施破坏可能进一步影响乌克兰冬季民生。",
+      "source": "Reuters",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "url": "https://www.reuters.com/world/europe/fire-broke-out-ukraines-kyiv-after-missile-strike-mayor-says-2026-11-20/",
+          "label": "Reuters｜11月20日"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-4",
+      "section": "top",
+      "title": "特朗普提出对海外建设数据中心的美国企业施加高额惩罚",
+      "category": "科技政策",
+      "fullBody": "特朗普11月20日表示，美国将对在海外建设数据中心的本国企业施加高额税收或惩罚，目的是维护美国AI产业竞争力。此举可能影响云计算公司、数据中心运营商和跨境算力服务。\n\n关键不确定性：目前检索到的是总统的政策表态，而不是已经实施的正式税法。税率、适用企业、实施时间及法律依据尚不能确定。",
+      "summary": "特朗普11月20日表示，美国将对在海外建设数据中心的本国企业施加高额税收或惩罚，目的是维护美国AI产业竞争力。此举可能影响云计算公司、数据中心运营商和跨境算力服务。",
+      "source": "Reuters",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "url": "https://www.reuters.com/technology/trump-says-us-penalize-firms-building-data-centers-abroad-2026-11-20/",
+          "label": "Reuters｜11月20日"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-5",
+      "section": "top",
+      "title": "伊朗愿以外交结束战争，特朗普称现有条件不可接受",
+      "category": "中东外交",
+      "fullBody": "伊朗外长阿拉格齐表示，德黑兰仍愿通过外交结束与美国的战争，但要求美方认真谈判，并将浓缩铀保留在伊朗境内视为底线。特朗普则表示，伊朗希望达成协议，但目前的条件不能接受。\n\n这意味着双方仍存在外交接触，却没有形成已获确认的停火或核问题协议。中东航运、油价及海湾国家安全仍受到谈判前景影响。",
+      "summary": "伊朗外长阿拉格齐表示，德黑兰仍愿通过外交结束与美国的战争，但要求美方认真谈判，并将浓缩铀保留在伊朗境内视为底线。特朗普则表示，伊朗希望达成协议，但目前的条件不能接受。",
+      "source": "Reuters",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "url": "https://www.reuters.com/world/middle-east/araqchi-says-iran-wants-diplomacy-end-war-trump-says-terms-unacceptable-2026-11-20/",
+          "label": "Reuters｜11月20日"
+        },
+        {
+          "label": "Reuters 转载｜谈判表态",
+          "url": "https://www.investing.com/news/world-news/araqchi-says-iran-wants-diplomacy-to-end-war-trump-says-terms-unacceptable-5042853"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-6",
+      "section": "top",
+      "title": "欧洲央行行长拉加德警告 AI 可能放大金融网络攻击",
+      "category": "金融稳定",
+      "fullBody": "拉加德在法兰克福欧洲银行业大会表示，越来越复杂的AI代理可能增强网络攻击能力，构成令金融监管者担忧的重大风险。匿名攻击者、跨境金融基础设施和难以追踪的攻击来源，使监管更为复杂。\n\n这是一项金融稳定风险警告，不代表欧洲央行已经确认发生新的重大网络攻击。",
+      "summary": "拉加德在法兰克福欧洲银行业大会表示，越来越复杂的AI代理可能增强网络攻击能力，构成令金融监管者担忧的重大风险。匿名攻击者、跨境金融基础设施和难以追踪的攻击来源，使监管更为复杂。",
+      "source": "Reuters",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "url": "https://www.reuters.com/legal/government/ecbs-lagarde-cyber-threat-boosted-by-ai-is-my-top-worry-2026-11-20/",
+          "label": "Reuters｜11月20日"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-7",
+      "section": "reuters",
+      "title": "美国芯片限制冲击中国科技企业",
+      "category": "半导体",
+      "fullBody": "美国对先进AI芯片和境外算力租用的限制继续影响中国科技股、云服务商及模型开发企业。阿里巴巴、腾讯等企业评估新规影响，国产芯片替代的重要性进一步上升。",
+      "summary": "美国对先进AI芯片和境外算力租用的限制继续影响中国科技股、云服务商及模型开发企业。阿里巴巴、腾讯等企业评估新规影响，国产芯片替代的重要性进一步上升。",
+      "source": "Reuters",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "url": "https://www.reuters.com/business/retail-consumer/us-ai-chip-curbs-hit-china-tech-stocks-spur-self-sufficiency-push-2026-11-20/",
+          "label": "Reuters｜11月20日"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-8",
+      "section": "reuters",
+      "title": "Alphabet 发行60亿加元债券",
+      "category": "债券融资",
+      "fullBody": "Alphabet 通过四批加拿大债券筹集60亿加元，约合41.9亿美元，11月19日定价、11月20日报道。这是债券融资，不是IPO，也不能将其全部认定为专门用于AI建设。",
+      "summary": "Alphabet 通过四批加拿大债券筹集60亿加元，约合41.9亿美元，11月19日定价、11月20日报道。这是债券融资，不是IPO，也不能将其全部认定为专门用于AI建设。",
+      "source": "Reuters",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "url": "https://www.reuters.com/business/alphabet-aims-raise-419-billion-canadian-debt-offering-2026-11-20/",
+          "label": "Reuters｜11月20日"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-9",
+      "section": "reuters",
+      "title": "两笔超大型IPO为华尔街投行创造超过10亿美元承销费",
+      "category": "投行业务",
+      "fullBody": "Anthropic和SpaceX的上市交易合计带来超过10亿美元承销费用。Anthropic一笔的承销费用约5.5亿美元，揭示超大型发行人议价能力和投行业务收益结构。",
+      "summary": "Anthropic和SpaceX的上市交易合计带来超过10亿美元承销费用。Anthropic一笔的承销费用约5.5亿美元，揭示超大型发行人议价能力和投行业务收益结构。",
+      "source": "Reuters",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "url": "https://www.reuters.com/legal/government/wall-street-banks-set-banner-year-anthropic-spacex-ipos-generate-1-billion-fees-2026-11-20/",
+          "label": "Reuters｜11月20日"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-10",
+      "section": "reuters",
+      "title": "印度股市逆势连续第四周上涨",
+      "category": "印度市场",
+      "fullBody": "Nifty 50和Sensex当周分别上涨约2.6%与2.9%，外资流入和企业盈利预期提供支持。全球AI相关股票抛售并未造成所有国家股市同步下跌。",
+      "summary": "Nifty 50和Sensex当周分别上涨约2.6%与2.9%，外资流入和企业盈利预期提供支持。全球AI相关股票抛售并未造成所有国家股市同步下跌。",
+      "source": "Reuters",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "url": "https://www.reuters.com/world/india/indian-stocks-seen-falling-nine-month-highs-asia-market-rout-deepens-2026-11-20/",
+          "label": "Reuters｜11月20日"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-11",
+      "section": "bloomberg",
+      "title": "彭博社全球市场综述",
+      "category": "全球市场",
+      "fullBody": "本期找到一篇经 Swissinfo 转载、明确署名 Bloomberg 的11月20日全球市场综述。该报道指出，全球股票连续下跌，MSCI亚太股市承压，资金转向美国国债和美元。\n\n由于彭博社原站当日页面访问受限，无法可靠核实另外8—12条当日报道的原始链接与更新时间，因此没有拿历史报道填充本期栏目。这是本期最明显的覆盖缺口。",
+      "summary": "本期找到一篇经 Swissinfo 转载、明确署名 Bloomberg 的11月20日全球市场综述。该报道指出，全球股票连续下跌，MSCI亚太股市承压，资金转向美国国债和美元。",
+      "source": "Bloomberg（Swissinfo 转载）",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "url": "https://www.swissinfo.ch/eng/stocks-sell-off-as-ai-trade-falters%2C-bonds-gain%3A-markets-wrap/92410554",
+          "label": "Bloomberg 转载｜11月20日"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-12",
+      "section": "brief",
+      "title": "美国国债上涨",
+      "category": "宏观经济",
+      "fullBody": "股市抛售推动避险买盘，美国10年期国债收益率降至约4.9%附近。\n\n补发核查：已查到美债收益率回落的报道。原稿给出的约4.9%及观察时点未获独立核实。",
+      "summary": "股市抛售推动避险买盘，美国10年期国债收益率降至约4.9%附近。",
+      "source": "原稿快讯",
+      "date": "2026-11-20",
+      "links": [
+        {
+          "label": "Reuters 转载｜美债收益率回落",
+          "url": "https://www.fidelity.com/news/article/international/202611201733RTRSNEWSCOMBINED_L6N4710ZL_1"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-21-13",
+      "section": "brief",
+      "title": "比特币跌破6万美元",
+      "category": "加密资产",
+      "fullBody": "风险资产抛售扩展至加密资产市场。",
+      "summary": "风险资产抛售扩展至加密资产市场。",
+      "source": "原稿快讯",
+      "date": "2026-11-20",
+      "links": []
+    },
+    {
+      "id": "2026-11-21-14",
+      "section": "brief",
+      "title": "海湾股市分化",
+      "category": "海湾市场",
+      "fullBody": "阿布扎比股指下跌约0.4%，迪拜股指微涨；布伦特原油在91美元附近波动。\n\n补发核查：海湾股指和油价的精确数值及观察时点未获独立核实，保留为原稿数值。",
+      "summary": "阿布扎比股指下跌约0.4%，迪拜股指微涨；布伦特原油在91美元附近波动。",
+      "source": "原稿快讯",
+      "date": "2026-11-20",
+      "links": []
+    },
+    {
+      "id": "2026-11-21-15",
+      "section": "brief",
+      "title": "黑色星期五消费数据成为观察焦点",
+      "category": "零售",
+      "fullBody": "投资者希望通过美国零售表现判断消费能否为股市提供支撑；销售预测并非已实现结果。",
+      "summary": "投资者希望通过美国零售表现判断消费能否为股市提供支撑；销售预测并非已实现结果。",
+      "source": "原稿快讯",
+      "date": "2026-11-20",
+      "links": []
+    }
+  ],
+  "trends": [
+    {
+      "title": "AI资本市场进入重新定价阶段",
+      "body": "事实：AI股票大幅下跌、Anthropic上市第二日走弱、大型科技企业继续债券融资。\n\n分析：市场更重视算力投资回报和融资成本。",
+      "watch": "企业现金流、资本开支及信用利差。"
+    },
+    {
+      "title": "全球市场风险偏好正在分化",
+      "body": "事实：美国科技股重挫、国债收益率下降，印度股市却保持周度上涨。",
+      "watch": "美元、美债、新兴市场资金流和市场波动率。"
+    },
+    {
+      "title": "外交对话尚未阻止军事升级",
+      "body": "事实：深圳三方会晤后，俄乌战场出现新一轮大规模空袭，美伊谈判条件仍有分歧。",
+      "watch": "停火机制、乌克兰基础设施和海湾航运安全。"
+    },
+    {
+      "title": "AI政策影响范围进一步扩大",
+      "body": "事实：美国总统提出海外数据中心惩罚措施，欧洲央行行长强调AI网络安全风险。",
+      "watch": "正式政策文本、企业投资布局及金融安全监管。"
+    }
+  ],
+  "disclaimer": "本期为 11 月 21 日原稿归档补发。重点报道已做交叉核对；部分行情、快讯和报道更新时间仍有核验缺口。",
+  "coverageChecklist": [
+    [
+      "上一期归档",
+      "已读取11月20日完整JSON"
+    ],
+    [
+      "跨期去重",
+      "已排除无新进展的旧IPO和深圳会晤报道"
+    ],
+    [
+      "重大市场事件",
+      "已纳入"
+    ],
+    [
+      "重大IPO与融资",
+      "已区分新旧事实和融资类型"
+    ],
+    [
+      "Reuters",
+      "已整理多条重要报道，不能保证首页全覆盖"
+    ],
+    [
+      "Bloomberg",
+      "当日完整首页与原文核验不足"
+    ],
+    [
+      "精确发布时间",
+      "部分只能确认发布日期，未取得逐条更新时间"
+    ],
+    [
+      "气候、科学、公共卫生",
+      "本期未找到足够可靠的新报道"
+    ]
+  ],
+  "editorNote": "原稿编辑说明：本稿为此前生成的11月21日版本，未在本次转发时重新验证来源真实性、市场数据和报道发布时间。网站发布前应重新核查，不能将本稿直接视为已完成事实核查的正式新闻版本。\n\n补发说明：本次对美股指数、Anthropic、俄乌空袭等重点报道补做了交叉核对。部分精确行情和快讯保留原稿，并注明核验范围。"
+}
