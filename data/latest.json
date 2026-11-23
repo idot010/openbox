@@ -1,261 +1,450 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-22",
-  "dateLabel": "2026年11月22日 · 星期日",
-  "issue": "VOL. 004",
-  "edition": "第 004 期",
-  "coverage": "2026-11-21 08:00 — 2026-11-22 08:00 · 北京时间（UTC+8）",
-  "updatedAt": "2026-11-22T00:02:14.613409Z",
-  "headline": "全球每日新闻简报｜2026年11月22日",
-  "dek": "今天是周日。相较于前一日的全球 AI 股票暴跌，过去24小时可核实的新增重大事件集中在欧洲与俄罗斯的安全冲突、美国行政权与国会监督权的争议、中美峰会后续，以及霍尔木兹海峡航运安全。\n\n本期没有将 Anthropic IPO、纳斯达克大跌等已经报道的事件重新当作新闻。彭博社当日原始报道的检索结果不足，以下明确区分了新报道、评论分析和其他媒体补充。",
+  "date": "2026-11-23",
+  "dateLabel": "2026年11月23日 · 星期一",
+  "issue": "VOL. 005",
+  "edition": "第 005 期",
+  "coverage": "2026-11-22 08:00 — 2026-11-23 08:00 · 北京时间（UTC+8）",
+  "updatedAt": "2026-11-23T08:00:00+08:00",
+  "headline": "全球每日新闻简报｜2026年11月23日",
+  "dek": "Reuters × Bloomberg。COP31 未达总体协议、亚洲多地应对股市下跌、美国追问英伟达出口合规，刚果（金）埃博拉应对受交火干扰。",
   "spotlight": [
     [
-      "4 条",
-      "今日最重要的新闻"
+      "80%",
+      "中国融资买入最低保证金比例，将自 11 月 30 日实施"
     ],
     [
-      "3 艘",
-      "霍尔木兹海峡周边遇袭或受损油轮"
+      "16 人",
+      "芬兰湾遇袭货轮已撤离船员"
     ],
     [
-      "24 小时",
-      "本期报道窗口"
+      "超过 24 小时",
+      "刚果（金）医护与援助人员避险时间"
     ]
   ],
   "stories": [
     {
-      "id": "2026-11-22-top-1",
+      "id": "2026-11-23-1",
+      "section": "top",
+      "category": "气候外交",
+      "title": "COP31 未能达成总体政治协议",
+      "summary": "11 月 22 日，土耳其安塔利亚的联合国气候大会结束，东道主土耳其与澳大利亚提出的文本未获共识。欧盟及部分国家认为草案对化石燃料和减排缺乏足够力度。",
+      "fullBody": "11 月 22 日，土耳其安塔利亚的联合国气候大会结束，东道主土耳其与澳大利亚提出的文本未获共识。欧盟及部分国家认为草案对化石燃料和减排缺乏足够力度。\n\n分歧集中在是否以及如何明确写入化石燃料转型。未能达成的是总体政治协议，不能由此推断整个气候公约框架失效。\n\n原文标题：COP31 climate talks collapse as EU and others reject deal\n报道及可核对时间：主稿 11 月 21 日首发、22 日更新；转载标注 22 日 16:21 UTC\n核验：会议结果与各方立场。未注明的精确更新时间未取得。",
+      "why": "全球减排和气候融资仍需各方在后续谈判中协调。",
+      "tag": "会议结果与各方立场",
+      "source": "Reuters",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-climate-talks-close-final-deal-says-summit-president-2026-11-21/"
+        },
+        {
+          "label": "Reuters｜各方反应",
+          "url": "https://www.reuters.com/sustainability/cop/cop31-climate-deal-balance-after-fractious-talks-2026-11-22/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-2",
+      "section": "top",
+      "category": "亚洲市场",
+      "title": "中国下调融资保证金门槛，韩国备妥稳市资金",
+      "summary": "彭博社报道，沪深北交易所于 11 月 22 日公告，计划自 11 月 30 日把融资买入最低保证金比例由 100% 下调到 80%。路透社报道，韩国财政部门同日表示，若股市继续下跌，可立即动用市场稳定资金。",
+      "fullBody": "彭博社报道，沪深北交易所于 11 月 22 日公告，计划自 11 月 30 日把融资买入最低保证金比例由 100% 下调到 80%。路透社报道，韩国财政部门同日表示，若股市继续下跌，可立即动用市场稳定资金。\n\n台湾收紧部分卖空措施，并研究下调融资保证金。各地工具的生效条件不同，韩国备用资金及台湾讨论中的措施尚不能计为实际增量资金。\n\n原文标题：Asia’s Stock Rescue Efforts Gather Pace After Wall Street Plunge\n报道及可核对时间：Bloomberg 11 月 22 日；Reuters 市场综述 22 日 23:44 UTC\n核验：彭博署名转载、 Reuters 及公开摘要。未注明的精确更新时间未取得。",
+      "why": "本期新增的是各地政策响应。放宽融资门槛可能增加交易资金，也会提高杠杆暴露。",
+      "tag": "彭博署名转载、 Reuters 及公开摘要",
+      "source": "Reuters · Bloomberg",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Bloomberg 署名转载｜亚洲稳市措施",
+          "url": "https://www.livemint.com/market/asias-stock-rescue-efforts-gather-pace-after-wall-street-plunge-11795351882145.html?openSearch=true"
+        },
+        {
+          "label": "Bloomberg 原文｜台湾融资保证金",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/taiwan-mulls-lowering-margin-requirement-to-support-stock-market"
+        },
+        {
+          "label": "Reuters｜韩国备用资金",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-3",
+      "section": "top",
+      "category": "芯片出口与监管",
+      "title": "贝森特称美国要求英伟达说明对华芯片销售合规情况",
+      "summary": "美国财长贝森特 11 月 22 日接受采访时说，美方正要求英伟达说明对华芯片销售情况，以及公司内由谁负责合规。彭博社另报道称，美国情报负责人谈及与英伟达前首席执行官相关的涉嫌间谍活动调查。",
+      "fullBody": "美国财长贝森特 11 月 22 日接受采访时说，美方正要求英伟达说明对华芯片销售情况，以及公司内由谁负责合规。彭博社另报道称，美国情报负责人谈及与英伟达前首席执行官相关的涉嫌间谍活动调查。\n\n政府官员的公开表态可以核对。调查涉及的指控和可能责任没有定论，两条调查线索不能相互替代。\n\n原文标题：US seeks answers on Nvidia's sale of chips to China, Bessent says\n报道及可核对时间：11 月 22 日 17:48、18:06 UTC\n核验：官员表态；指控尚待核实。未注明的精确更新时间未取得。",
+      "why": "投资者和客户需要区分现行出口管制、公司内部合规调查和可能进一步采取的监管措施。",
+      "tag": "官员表态；指控尚待核实",
+      "source": "Reuters · Bloomberg",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/china/us-seeks-answers-nvidias-sale-chips-china-bessent-says-2026-11-22/"
+        },
+        {
+          "label": "Bloomberg 原文",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/spy-chief-says-us-probing-alleged-spy-tied-to-former-nvidia-ceo"
+        },
+        {
+          "label": "Bloomberg Law 版",
+          "url": "https://news.bloomberglaw.com/artificial-intelligence/us-probing-alleged-spy-tied-to-ex-nvidia-ceo-spy-chief-says-2"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-4",
+      "section": "top",
+      "category": "公共卫生",
+      "title": "刚果（金）医院附近交火，埃博拉应对受阻",
+      "summary": "世卫组织总干事谭德塞 11 月 22 日表示，伊图里省一所医院附近发生激烈交火，妨碍埃博拉防控。卫生工作人员和援助伙伴在产科病区避险超过 24 小时。",
+      "fullBody": "世卫组织总干事谭德塞 11 月 22 日表示，伊图里省一所医院附近发生激烈交火，妨碍埃博拉防控。卫生工作人员和援助伙伴在产科病区避险超过 24 小时。\n\n当期能确认的是世卫组织通报的工作中断，未据此推断新增感染或死亡人数。\n\n原文标题：WHO chief says fighting near Congo Ebola outbreak area disrupts response efforts\n报道及可核对时间：11 月 22 日 20:17 UTC\n核验：世卫组织公开通报经 Reuters 报道。未注明的精确更新时间未取得。",
+      "why": "隔离、接触者追踪和医护安全依赖稳定的现场通行条件。",
+      "tag": "世卫组织公开通报经 Reuters 报道",
+      "source": "Reuters",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/who-chief-says-fighting-near-congo-ebola-outbreak-area-disrupts-response-efforts-2026-11-22/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-5",
       "section": "top",
       "category": "欧洲安全",
-      "tag": "Reuters 独家",
-      "title": "丹麦要求欧盟收紧俄罗斯公民入境限制",
-      "summary": "丹麦政府在指控俄罗斯情报部门策划于丹麦境内刺杀一名美乌背景艺人后，敦促欧盟采取统一的俄罗斯公民旅行限制措施。",
-      "fullBody": "丹麦政府在指控俄罗斯情报部门策划于丹麦境内刺杀一名美乌背景艺人后，敦促欧盟采取统一的俄罗斯公民旅行限制措施。\n\n路透社取得的外交文件显示，丹麦提出暂停向俄罗斯公民发放旅游签证、在整个申根区拒绝承认俄罗斯非生物识别护照，并对曾参加俄乌战争的人员施加更严格的入境限制。丹麦已决定驱逐俄罗斯驻当地的国防武官，俄罗斯驻丹麦使馆则否认相关指控有充分证据。\n\n不确定性： 俄罗斯参与暗杀阴谋属于丹麦当局的指控；旅行限制目前属于政策提案，尚不是欧盟已经实施的法律。",
-      "why": "俄罗斯与欧洲的安全冲突正从传统外交和军事领域扩展到签证、人员流动和内部安全政策。若欧盟最终统一采取限制措施，将影响整个申根区，而不只是丹麦。",
+      "title": "芬兰称波罗的海遇袭俄货轮已开始拖离，16 名船员撤出",
+      "summary": "芬兰海岸警卫队说，俄方救援船于 11 月 22 日开始拖离受损的 Sparta II 货轮。16 名船员已转移，一人轻伤。消防行动有芬兰、爱沙尼亚和俄罗斯船只参与。",
+      "fullBody": "芬兰海岸警卫队说，俄方救援船于 11 月 22 日开始拖离受损的 Sparta II 货轮。16 名船员已转移，一人轻伤。消防行动有芬兰、爱沙尼亚和俄罗斯船只参与。\n\n芬兰军方认为 21 日袭击可能由乌方实施，责任归属尚无独立定论。\n\n原文标题：Russia starts towing ship hit by drones in Baltic, Finland says\n报道及可核对时间：11 月 22 日 08:30 UTC\n核验：海岸警卫队确认救援；袭击归属为军方判断。未注明的精确更新时间未取得。",
+      "why": "事故从火情处置进入拖带阶段。军方对袭击的判断与海岸警卫队确认的救援结果需要区分。",
+      "tag": "海岸警卫队确认救援；袭击归属为军方判断",
       "source": "Reuters",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "links": [
         {
-          "url": "https://www.reuters.com/world/europe/denmark-pushes-eu-tighten-curbs-russians-after-foiled-plot-message-member-states-2026-11-21/",
-          "label": "Reuters 原文｜2026-11-21"
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/europe/russian-cargo-ship-still-fire-off-finland-after-attack-2026-11-22/"
         }
       ]
     },
     {
-      "id": "2026-11-22-top-2",
+      "id": "2026-11-23-6",
       "section": "top",
-      "category": "美国政治",
-      "tag": "Reuters",
-      "title": "特朗普要求联邦承包商向国会提供资料前通知白宫",
-      "summary": "特朗普签署行政命令，要求联邦政府承包商和分包商在向国会提供信息前通知白宫，并限制披露政府认定为机密的材料。违反规定的企业可能失去现有合同，或被排除在未来政府采购之外。",
-      "fullBody": "特朗普签署行政命令，要求联邦政府承包商和分包商在向国会提供信息前通知白宫，并限制披露政府认定为机密的材料。违反规定的企业可能失去现有合同，或被排除在未来政府采购之外。\n\n这项命令出台时，民主党正准备在2027年1月取得国会两院控制权，并可能对行政部门、政府合同及特朗普相关商业活动开展更广泛的调查。\n\n不确定性： 行政命令已经签署，但其与国会传票权、行政特权之间的法律边界可能受到法院审查。",
-      "why": "美国国会拥有监督行政部门和调查政府支出的权力。新命令可能使依赖联邦合同的企业面临两难：遵守白宫限制，还是回应国会调查要求。",
+      "category": "东南亚灾害",
+      "title": "印尼爪哇糖果厂火灾搜救继续，死亡人数待确认",
+      "summary": "印尼万丹省一间糖果工厂 11 月 21 日晚发生火灾。警方 22 日移出 24 个遗体袋，并安排 23 日上午恢复搜索。厂方后续声明说，29 人仍失踪，另外 8 人的下落待确认。",
+      "fullBody": "印尼万丹省一间糖果工厂 11 月 21 日晚发生火灾。警方 22 日移出 24 个遗体袋，并安排 23 日上午恢复搜索。厂方后续声明说，29 人仍失踪，另外 8 人的下落待确认。\n\n警方说遗体袋数量不能直接换算成死亡人数，火灾原因仍在调查。\n\n原文标题：Search for Indonesia factory fire missing to resume Monday, police remove 24 body bags\n报道及可核对时间：11 月 22 日 03:56 UTC\n核验：警方、厂方口径；人数仍在核查。未注明的精确更新时间未取得。",
+      "why": "在身份和人数确认前，应将搜救数字与最终伤亡统计分开。",
+      "tag": "警方、厂方口径；人数仍在核查",
       "source": "Reuters",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "links": [
         {
-          "url": "https://www.reuters.com/world/trump-order-says-contractors-must-notify-white-house-congressional-probes-2026-11-21/",
-          "label": "Reuters 原文｜2026-11-21"
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/asia-pacific/indonesia-rescuers-search-36-missing-after-factory-fire-kills-3-2026-11-22/"
         }
       ]
     },
     {
-      "id": "2026-11-22-top-3",
-      "section": "top",
-      "category": "中美关系",
-      "tag": "Reuters 分析",
-      "title": "中美深圳峰会后续：外交场面热烈，但核心贸易分歧仍在",
-      "summary": "路透社11月21日刊发会后分析，指出特朗普与习近平的会晤虽然受到高度关注，但双方并未宣布重大、可执行的新贸易协议。",
-      "fullBody": "路透社11月21日刊发会后分析，指出特朗普与习近平的会晤虽然受到高度关注，但双方并未宣布重大、可执行的新贸易协议。\n\n报道关注中国采购美国农产品、稀土出口、先进 AI 芯片限制和台湾议题。分析人士认为，北京仍保留了重要的谈判筹码，而美国对中国先进计算能力的限制也在继续。\n\n报道性质： 这是一篇会后分析，不是新签署的中美协议。其关于双方谈判地位的判断属于记者和分析人士的评估。",
-      "why": "中美贸易休战安排接近2027年1月的关键节点。真正影响全球产业链的，不只是领导人会晤是否友好，而是出口限制、实际采购量和贸易承诺能否落实。",
+      "id": "2026-11-23-7",
+      "section": "reuters",
+      "category": "中东与能源",
+      "title": "胡塞武装宣称以沙特拉比格炼油厂为目标",
+      "summary": "胡塞武装于 11 月 22 日声称在红海沿岸针对沙特拉比格炼油厂发起行动。暂未确认炼厂是否受损或停产。这起事态与上一期的霍尔木兹油轮事件地点、对象不同。",
+      "fullBody": "胡塞武装于 11 月 22 日声称在红海沿岸针对沙特拉比格炼油厂发起行动。暂未确认炼厂是否受损或停产。这起事态与上一期的霍尔木兹油轮事件地点、对象不同。\n\n原文标题：Yemen's Houthis say they attacked Saudi Rabigh oil refinery\n报道及可核对时间：11 月 22 日 17:52 UTC\n核验：冲突一方声明；损害未核实。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "冲突一方声明；损害未核实",
       "source": "Reuters",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "links": [
         {
-          "url": "https://www.reuters.com/world/china/trump-basks-summit-pomp-chinas-xi-strengthens-his-hand-2026-11-21/",
-          "label": "Reuters 分析｜2026-11-21"
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/middle-east/yemens-houthis-say-they-attacked-saudi-rabigh-oil-refinery-2026-11-22/"
         }
       ]
     },
     {
-      "id": "2026-11-22-top-4",
-      "section": "top",
-      "category": "中东战争",
-      "tag": "能源运输",
-      "title": "霍尔木兹海峡周边至少三艘油轮遇袭或受损",
-      "summary": "美联社报道，11月21日霍尔木兹海峡附近至少三艘油轮遭到袭击或发生损坏。英国海事安全机构报告两起投射物袭击；伊朗国家媒体则称另一艘油轮触及水雷并起火。伊朗还展示了新的地下导弹发射设施，同时表示正与卡塔尔调解方讨论恢复外交接触。",
-      "fullBody": "美联社报道，11月21日霍尔木兹海峡附近至少三艘油轮遭到袭击或发生损坏。英国海事安全机构报告两起投射物袭击；伊朗国家媒体则称另一艘油轮触及水雷并起火。伊朗还展示了新的地下导弹发射设施，同时表示正与卡塔尔调解方讨论恢复外交接触。\n\n不确定性： 三起事件的责任归属、损失规模及是否相互关联尚未全部得到独立确认。本轮未找到对应的 Reuters 或 Bloomberg 当日原文，因此作为其他可信媒体的重要补充，不冒充两家报道。",
-      "why": "霍尔木兹海峡是全球重要石油运输通道。多艘商船发生安全事件，可能提高航运保险成本，并增加能源供应中断的风险。",
-      "source": "Associated Press",
-      "date": "2026-11-21",
-      "links": [
-        {
-          "url": "https://apnews.com/article/29159a6f3365ff447c0ccbd1d7260f75",
-          "label": "Associated Press｜2026-11-21"
-        }
-      ]
-    },
-    {
-      "id": "2026-11-22-reuters-1",
+      "id": "2026-11-23-8",
       "section": "reuters",
-      "category": "俄罗斯电商",
-      "title": "俄罗斯大型电商 Wildberries 首席执行官卸任",
-      "summary": "路透社11月21日援引俄罗斯媒体和公司登记资料报道，塔季扬娜·金卸任首席执行官，由阿列克谢·库利科夫接任。欧盟此前于11月16日将金列入制裁名单；公司表示日常业务不会受到影响，金仍将负责控股集团战略。不能仅凭时间接近就断定人事变动由制裁直接导致。",
-      "fullBody": "路透社11月21日援引俄罗斯媒体和公司登记资料报道，塔季扬娜·金卸任首席执行官，由阿列克谢·库利科夫接任。欧盟此前于11月16日将金列入制裁名单；公司表示日常业务不会受到影响，金仍将负责控股集团战略。不能仅凭时间接近就断定人事变动由制裁直接导致。",
+      "category": "北非与海上安全",
+      "title": "利比亚东部当局称班加西一艘俄船爆炸疑涉无人机",
+      "summary": "利比亚东部当局 11 月 22 日通报，停靠班加西的一艘俄方船只发生爆炸，怀疑遭无人机袭击。事件发生在地中海，与芬兰湾货轮事故是两宗事件。袭击归属仍待核实。",
+      "fullBody": "利比亚东部当局 11 月 22 日通报，停靠班加西的一艘俄方船只发生爆炸，怀疑遭无人机袭击。事件发生在地中海，与芬兰湾货轮事故是两宗事件。袭击归属仍待核实。\n\n原文标题：Libya's eastern government suspects drone attack caused explosion on Russian ship\n报道及可核对时间：11 月 22 日 14:25 UTC\n核验：地方当局初步判断。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "地方当局初步判断",
       "source": "Reuters",
-      "date": "2026-11-21",
+      "date": "2026-11-22",
       "links": [
         {
-          "url": "https://www.reuters.com/business/retail-consumer/russias-wildberries-ceo-steps-down-days-after-eu-sanctions-media-report-2026-11-21/",
-          "label": "Reuters｜11月21日"
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/middle-east/libyas-eastern-government-suspects-drone-attack-caused-explosion-russian-ship-2026-11-22/"
         }
       ]
     },
     {
-      "id": "2026-11-22-reuters-2",
+      "id": "2026-11-23-9",
       "section": "reuters",
-      "category": "欧洲安全",
-      "title": "欧盟委员会主席谴责丹麦境内涉嫌俄罗斯情报活动",
-      "summary": "冯德莱恩表示支持丹麦，并提到欧盟将提出新的欧洲安全战略。这是前述丹麦事件的外交后续，而非另一宗独立暗杀事件。",
-      "fullBody": "冯德莱恩表示支持丹麦，并提到欧盟将提出新的欧洲安全战略。这是前述丹麦事件的外交后续，而非另一宗独立暗杀事件。",
-      "source": "欧盟委员会",
-      "date": "2026-11-21",
-      "links": []
-    },
-    {
-      "id": "2026-11-22-reuters-3",
-      "section": "reuters",
-      "category": "科技政策",
-      "title": "美国 AI 芯片出口管制可能提高全球数据中心合规成本",
-      "summary": "路透社11月21日 Breakingviews 周度专栏讨论，美国限制中国获取先进 AI 芯片的措施，可能使芯片出口商和数据中心运营商承担更多终端客户审查义务。该稿属于评论与政策分析，不能据此认定相关新规已经正式生效。",
-      "fullBody": "路透社11月21日 Breakingviews 周度专栏讨论，美国限制中国获取先进 AI 芯片的措施，可能使芯片出口商和数据中心运营商承担更多终端客户审查义务。该稿属于评论与政策分析，不能据此认定相关新规已经正式生效。",
-      "source": "Reuters Breakingviews",
-      "date": "2026-11-21",
+      "category": "资本市场与独家",
+      "title": "路透独家披露 Anthropic 上市过程中承销商的分歧",
+      "summary": "路透社 11 月 22 日援引知情人士报道，Anthropic 上市过程中，发行方对流程及信息披露的控制让部分银行家感到不满。本期新增的是承销过程报道，已公布的发行规模和上市后涨跌不重复计入。",
+      "fullBody": "路透社 11 月 22 日援引知情人士报道，Anthropic 上市过程中，发行方对流程及信息披露的控制让部分银行家感到不满。本期新增的是承销过程报道，已公布的发行规模和上市后涨跌不重复计入。\n\n原文标题：Like SpaceX, Anthropic ran an unusual IPO process, chafing some bankers\n报道及可核对时间：11 月 22 日 11:03 UTC\n核验：记者采访；部分细节来自匿名信源。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "记者采访；部分细节来自匿名信源",
+      "source": "Reuters",
+      "date": "2026-11-22",
       "links": [
         {
-          "url": "https://www.reuters.com/commentary/breakingviews/global-markets-breakingviews-2026-11-21/",
-          "label": "Reuters Breakingviews｜11月21日"
+          "label": "Reuters 独家",
+          "url": "https://www.reuters.com/world/like-spacex-anthropic-ran-an-unusual-ipo-process-chafing-some-bankers-2026-11-22/"
         }
       ]
     },
     {
-      "id": "2026-11-22-bloomberg",
+      "id": "2026-11-23-10",
+      "section": "reuters",
+      "category": "环境与司法",
+      "title": "美军拟援引紧急例外处理艾奥瓦州叠氮化铅",
+      "summary": "路透社查阅法院文件后报道，美国政府称军方拟援引紧急弹药处置例外，对艾奥瓦州的 68 桶叠氮化铅进行处置。上诉法院此前冻结了相关环境许可。政府的主张和后续司法结果仍需分别观察。",
+      "fullBody": "路透社查阅法院文件后报道，美国政府称军方拟援引紧急弹药处置例外，对艾奥瓦州的 68 桶叠氮化铅进行处置。上诉法院此前冻结了相关环境许可。政府的主张和后续司法结果仍需分别观察。\n\n原文标题：Iowa detonation of lead will proceed under emergency powers, Army says, bypassing court order\n报道及可核对时间：11 月 22 日 16:36 UTC\n核验：法院文件所述计划。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "法院文件所述计划",
+      "source": "Reuters",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/legal/government/iowa-detonation-lead-will-proceed-under-emergency-powers-army-says-bypassing-2026-11-22/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-11",
       "section": "bloomberg",
-      "category": "节目索引",
-      "tag": "核验范围有限",
-      "title": "彭博社重点补充",
-      "summary": "本轮无法可靠核实 Bloomberg 11月21日的完整首页及8—12篇当日原始报道，因此不以旧文章充数。\n\n能够找到的当日线索是 Bloomberg Businessweek 节目索引，涉及英伟达股价下跌、Anthropic 上市后的市场反应，以及苹果开发智能代理产品的讨论。由于目前取得的是第三方节目整理，而非彭博官方完整报道，苹果产品的具体发布日期、功能和研发状态均不作为已确认事实。",
-      "fullBody": "本轮无法可靠核实 Bloomberg 11月21日的完整首页及8—12篇当日原始报道，因此不以旧文章充数。\n\n能够找到的当日线索是 Bloomberg Businessweek 节目索引，涉及英伟达股价下跌、Anthropic 上市后的市场反应，以及苹果开发智能代理产品的讨论。由于目前取得的是第三方节目整理，而非彭博官方完整报道，苹果产品的具体发布日期、功能和研发状态均不作为已确认事实。",
-      "source": "Bloomberg Businessweek 第三方节目索引",
-      "date": "2026-11-21",
+      "category": "银行监管",
+      "title": "瑞士议员将继续审议 UBS 资本要求",
+      "summary": "彭博报道的公开转载显示，瑞士议会委员会将继续审议 UBS 海外子公司的资本要求。报道所述重点方案拟将母行资本支持比例由 45% 提高至 90%。政府与 UBS 对新增资本量的估算不同，议案尚未定案。",
+      "fullBody": "彭博报道的公开转载显示，瑞士议会委员会将继续审议 UBS 海外子公司的资本要求。报道所述重点方案拟将母行资本支持比例由 45% 提高至 90%。政府与 UBS 对新增资本量的估算不同，议案尚未定案。\n\n原文标题：UBS Capital Fight Enters Final Round as Lawmakers Resume Debate\n报道及可核对时间：11 月 22 日，索引标注 10:00 UTC\n核验：公开索引及转载；仍是立法提案。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "公开索引及转载；仍是立法提案",
+      "source": "Bloomberg",
+      "date": "2026-11-22",
       "links": [
         {
-          "url": "https://nilecast.anlamani.com/podcasts/bloomberg-businessweek/bloomberg-businessweek-2026-11-21-1200/",
-          "label": "Bloomberg Businessweek 第三方节目索引｜11月21日"
+          "label": "Bloomberg 原文",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate"
+        },
+        {
+          "label": "署名转载",
+          "url": "https://www.advisorhub.com/ubs-capital-fight-enters-final-round-as-lawmakers-resume-debate/"
         }
       ]
     },
     {
-      "id": "2026-11-22-brief-1",
+      "id": "2026-11-23-12",
+      "section": "bloomberg",
+      "category": "AI 安全治理",
+      "title": "OpenAI 首席科学家提议设行业研发门槛",
+      "summary": "OpenAI 首席科学家 Jakub Pachocki 11 月 22 日提出，开发商可共同约定能力阈值，在达到明确的安全理解与监测里程碑前限制跨越阈值。该建议尚未成为行业共同承诺或法规。",
+      "fullBody": "OpenAI 首席科学家 Jakub Pachocki 11 月 22 日提出，开发商可共同约定能力阈值，在达到明确的安全理解与监测里程碑前限制跨越阈值。该建议尚未成为行业共同承诺或法规。\n\n原文标题：OpenAI Chief Scientist Urges Industry Limits on AI Development\n报道及可核对时间：11 月 22 日 19:40 UTC\n核验：公开提议，由彭博报道。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "公开提议，由彭博报道",
+      "source": "Bloomberg",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Bloomberg 原文",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/openai-chief-scientist-urges-industry-limits-on-ai-development"
+        },
+        {
+          "label": "Bloomberg Law 版",
+          "url": "https://news.bloomberglaw.com/tech-and-telecom-law/openai-chief-scientist-urges-industry-limits-on-ai-development"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-13",
+      "section": "bloomberg",
+      "category": "股票策略",
+      "title": "高盛交易团队认为抛售后出现买入机会，同时提示风险",
+      "summary": "彭博首页与公开索引显示，高盛交易团队把近期抛售视为可能的入场机会，同时提示风险。此为交易团队判断，全文访问受限，未据此推断具体仓位、目标点位或风险条件。",
+      "fullBody": "彭博首页与公开索引显示，高盛交易团队把近期抛售视为可能的入场机会，同时提示风险。此为交易团队判断，全文访问受限，未据此推断具体仓位、目标点位或风险条件。\n\n原文标题：Goldman Traders See Entry Point in US Stocks But Warn of Risks\n报道及可核对时间：11 月 22 日，索引标注 20:00 UTC\n核验：公开标题与摘要；市场观点。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "公开标题与摘要；市场观点",
+      "source": "Bloomberg",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Bloomberg 原文",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/goldman-traders-see-entry-point-in-us-stocks-but-warn-of-risks"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-14",
+      "section": "bloomberg",
+      "category": "利率与债券",
+      "title": "股市回落扰动围绕美联储加息的债市交易",
+      "summary": "彭博首页和索引显示，部分交易者仍围绕美联储维持抗通胀立场配置债券，股市下跌却令增长前景承压。这是市场交易预期，尚无新的美联储利率决定。",
+      "fullBody": "彭博首页和索引显示，部分交易者仍围绕美联储维持抗通胀立场配置债券，股市下跌却令增长前景承压。这是市场交易预期，尚无新的美联储利率决定。\n\n原文标题：Bond Market’s Go-To Trade for Fed Hikes Roiled by Stocks Retreat\n报道及可核对时间：11 月 22 日，索引标注 21:16 UTC\n核验：公开标题与摘要；具体仓位未核实。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "公开标题与摘要；具体仓位未核实",
+      "source": "Bloomberg",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Bloomberg 原文",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/bond-market-s-go-to-trade-for-fed-hikes-roiled-by-stocks-retreat"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-15",
       "section": "brief",
-      "category": "市场 · 持续关注",
-      "title": "全球股市抛售的累计规模",
-      "summary": "路透社11月20日的市场复盘估计，全球股票市值较8月高点减少近9万亿美元。注意，这是相对峰值的累计变化，不是单日蒸发9万亿美元，也不是11月21日的新交易数据。",
-      "fullBody": "路透社11月20日的市场复盘估计，全球股票市值较8月高点减少近9万亿美元。注意，这是相对峰值的累计变化，不是单日蒸发9万亿美元，也不是11月21日的新交易数据。",
+      "category": "金融市场",
+      "title": "美股股指期货早盘反弹",
+      "summary": "截至截稿前，路透社市场稿称纳斯达克 100 期货早盘涨约 2%，标普 500 期货涨约 1%。这是亚洲周一早盘的期货变动，不能当作美国现货收盘。",
+      "fullBody": "截至截稿前，路透社市场稿称纳斯达克 100 期货早盘涨约 2%，标普 500 期货涨约 1%。这是亚洲周一早盘的期货变动，不能当作美国现货收盘。\n\n原文标题：US futures bounce while Asia markets brace for AI wipeout\n报道及可核对时间：11 月 22 日 23:44 UTC（Reuters）；彭博署名转载 23:02 UTC\n核验：早盘快照。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "早盘快照",
+      "source": "Reuters · Bloomberg",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-22/"
+        },
+        {
+          "label": "Bloomberg 原文",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-22/asia-braces-for-more-volatility-after-us-selloff-markets-wrap"
+        },
+        {
+          "label": "Bloomberg 署名转载",
+          "url": "https://www.swissinfo.ch/eng/asia-braces-for-more-volatility-after-us-selloff%3A-markets-wrap/92421262"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-16",
+      "section": "brief",
+      "category": "航天",
+      "title": "贝皮科伦坡号进入水星轨道，推力器燃烧时间偏短",
+      "summary": "欧日联合探测器完成入轨。欧洲航天局 11 月 22 日称，软件问题令推力器燃烧短于计划，探测器处于安全状态，工程团队正在评估。",
+      "fullBody": "欧日联合探测器完成入轨。欧洲航天局 11 月 22 日称，软件问题令推力器燃烧短于计划，探测器处于安全状态，工程团队正在评估。\n\n原文标题：Spacecraft begins orbit of Mercury, with a glitch reported\n报道及可核对时间：11 月 22 日 21:00 UTC\n核验：欧空局确认入轨及故障。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "欧空局确认入轨及故障",
       "source": "Reuters",
-      "date": "2026-11-20",
-      "links": []
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/science/spacecraft-begins-orbit-mercury-with-glitch-reported-2026-11-22/"
+        }
+      ]
     },
     {
-      "id": "2026-11-22-brief-2",
+      "id": "2026-11-23-17",
       "section": "brief",
-      "category": "加密资产",
-      "title": "比特币周六进一步下跌",
-      "summary": "挪威财经媒体 E24 报道，比特币11月21日跌至约55,533美元，为2024年9月以来低位，市场分析将其与风险偏好下降和杠杆头寸平仓联系起来。该数字尚未取得路透或彭博交叉核实。",
-      "fullBody": "挪威财经媒体 E24 报道，比特币11月21日跌至约55,533美元，为2024年9月以来低位，市场分析将其与风险偏好下降和杠杆头寸平仓联系起来。该数字尚未取得路透或彭博交叉核实。",
-      "source": "E24",
-      "date": "2026-11-21",
-      "links": []
+      "category": "欧洲外交与安全",
+      "title": "波兰披露遭丹麦案指涉的艺人也可能曾在波兰被针对",
+      "summary": "美联社报道，波兰当局 11 月 22 日披露，丹麦案件涉及的同一名美乌背景说唱艺人此前也可能在波兰遭俄方情报机构针对。新增事实是波兰方面的公开披露，相关指控尚待证实。",
+      "fullBody": "美联社报道，波兰当局 11 月 22 日披露，丹麦案件涉及的同一名美乌背景说唱艺人此前也可能在波兰遭俄方情报机构针对。新增事实是波兰方面的公开披露，相关指控尚待证实。\n\n原文标题：Poland says Russia allegedly twice tried to kill a Ukrainian American rapper\n报道及可核对时间：11 月 22 日 18:12 UTC\n核验：波兰当局指控。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "波兰当局指控",
+      "source": "Associated Press",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "美联社原文",
+          "url": "https://apnews.com/article/291d2e6c33441c06963c4807c32eb7cd"
+        }
+      ]
     },
     {
-      "id": "2026-11-22-brief-3",
+      "id": "2026-11-23-18",
       "section": "brief",
-      "category": "科技政策",
-      "title": "中美 AI 供应链竞争",
-      "summary": "《金融时报》11月21日分析指出，随着中美贸易休战临近到期，先进芯片制造设备、稀土和海外算力设施可能成为新的贸易谈判焦点。这是分析判断，不是新政策公告。",
-      "fullBody": "《金融时报》11月21日分析指出，随着中美贸易休战临近到期，先进芯片制造设备、稀土和海外算力设施可能成为新的贸易谈判焦点。这是分析判断，不是新政策公告。",
-      "source": "金融时报",
-      "date": "2026-11-21",
-      "links": []
+      "category": "海湾股市",
+      "title": "多数海湾股市回落",
+      "summary": "路透社报道，11 月 22 日多数海湾股市下跌。地区冲突仍是投资者关注因素。本期记录的是周日市场变化。",
+      "fullBody": "路透社报道，11 月 22 日多数海湾股市下跌。地区冲突仍是投资者关注因素。本期记录的是周日市场变化。\n\n原文标题：Most Gulf bourses retreat as regional flare-ups continue\n报道及可核对时间：11 月 22 日 08:27 UTC\n核验：Reuters 市场报道。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "Reuters 市场报道",
+      "source": "Reuters",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/middle-east/most-gulf-bourses-retreat-sporadic-attacks-continue-2026-11-22/"
+        }
+      ]
     },
     {
-      "id": "2026-11-22-brief-4",
+      "id": "2026-11-23-19",
       "section": "brief",
-      "category": "科学与 AI",
-      "title": "AI 数学突破传闻仍需审查",
-      "summary": "Axios 当日简报提到一名 Anthropic 数学研究人员宣称与 Claude 证明了黎曼猜想。这一极重大数学命题尚缺独立同行验证，不能将其写为已解决的学术突破。",
-      "fullBody": "Axios 当日简报提到一名 Anthropic 数学研究人员宣称与 Claude 证明了黎曼猜想。这一极重大数学命题尚缺独立同行验证，不能将其写为已解决的学术突破。",
-      "source": "Axios",
-      "date": "2026-11-21",
-      "links": []
+      "category": "外交表态",
+      "title": "美国情报负责人称俄方在乌克兰问题上并非美国伙伴",
+      "summary": "美国国家情报负责人 11 月 22 日接受采访时将美俄领导人之间的外交用语与乌克兰议题上的利益判断分开。未见这次表态伴随新的行政决定或和谈协议。",
+      "fullBody": "美国国家情报负责人 11 月 22 日接受采访时将美俄领导人之间的外交用语与乌克兰议题上的利益判断分开。未见这次表态伴随新的行政决定或和谈协议。\n\n原文标题：US intelligence chief says Putin is 'not America's friend in Ukraine'\n报道及可核对时间：11 月 22 日 16:46 UTC\n核验：公开采访表态。未注明的精确更新时间未取得。",
+      "why": "",
+      "tag": "公开采访表态",
+      "source": "Reuters",
+      "date": "2026-11-22",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/china/us-intelligence-chief-says-putin-is-not-americas-friend-ukraine-2026-11-22/"
+        }
+      ]
     }
   ],
   "trends": [
     {
-      "title": "欧洲与俄罗斯的冲突正在影响人员流动政策",
-      "body": "已知事实：丹麦提出欧盟统一签证限制。影响分析：安全政策可能进一步影响申根区的跨境流动。",
-      "watch": "欧盟是否正式提出并通过相关法规。"
+      "title": "气候外交的争议进入后续谈判",
+      "body": "事实：COP31 未通过总体文本。影响：化石燃料转型和减排承诺可能需要在后续政治谈判中重新协调。",
+      "watch": "跟踪各方是否重提文本，以及融资谈判的后续安排。"
     },
     {
-      "title": "美国行政权与国会监督权的争议可能升级",
-      "body": "已知事实：联邦承包商信息披露行政命令已经签署。影响分析：国会调查和政府采购之间可能产生法律冲突。",
-      "watch": "国会传票、企业合规选择及法院裁决。"
+      "title": "市场纾困和企业基本面出现分化",
+      "body": "事实：中国交易所降低融资门槛，韩国准备稳市资金，美股期货早盘反弹。影响：政策可能改善流动性，企业盈利预期仍可能承压。",
+      "watch": "看资金实际投放、措施生效后的成交与现货市场走势。"
     },
     {
-      "title": "AI 资本市场风险尚未解除",
-      "body": "已知事实：前一交易日科技股大幅下跌，周末市场仍在讨论估值、债务融资和监管问题。",
-      "watch": "下一个交易日的股债表现、科技企业融资成本和现金流预期。"
-    },
-    {
-      "title": "中东航运安全与外交谈判并行",
-      "body": "已知事实：海事安全事件持续，伊朗与调解方仍有接触。",
-      "watch": "船舶通行、能源价格、海事机构调查，以及美伊是否提出新的正式谈判条件。"
+      "title": "安全风险对民用系统的影响更直接",
+      "body": "事实：芬兰湾救援涉及三国船只，伊图里省医院附近交火中断埃博拉应对。影响：冲突会增加海事救援和医疗响应难度。",
+      "watch": "关注船舶事故事实调查、医护安全及卫生机构能否恢复作业。"
     }
   ],
-  "disclaimer": "本期原稿标注「部分核验」。彭博社覆盖和精确发布时间等限制见下。保留原稿中可移植的网页链接。",
+  "disclaimer": "本刊为独立中文摘要，截稿为北京时间 08:00。两家首页均有检查，部分彭博正文受限，仅用可确认的公开资料。",
   "coverageChecklist": [
     [
-      "已发布上一期",
-      "读取到2026年11月20日"
+      "路透社",
+      "首页显著的 COP31、芬兰湾救援、印尼火灾等已纳入"
     ],
     [
-      "11月21日归档",
-      "仓库中不存在，无法作为已发布期对照"
+      "彭博社",
+      "纳入亚洲市场、期货、英伟达调查与 AI 治理等；部分正文受限"
     ],
     [
-      "Reuters",
-      "找到并核实部分11月21日新报道"
+      "跨期去重",
+      "对照 11 月 22 日已发布稿全栏目。排除仅重复的旧 IPO 数字、股市跌幅和深圳会晤背景"
     ],
     [
-      "Bloomberg",
-      "当日原站覆盖不足"
+      "企业与市场",
+      "检索了重大 IPO、融资、并购、财报、市场和货币政策；未把窗外并购传闻写成当日新交易"
     ],
     [
-      "重大 IPO、融资、并购",
-      "未发现足够核实的全新超大型交易"
+      "安全、卫生与科学",
+      "纳入冲突、疫情响应、工厂火灾与探测器入轨"
     ],
     [
-      "国际政治、安全",
-      "已覆盖本轮可核实的主要新增事件"
-    ],
-    [
-      "科学、公共卫生、气候",
-      "没有找到足够可靠的当日重大新进展"
-    ],
-    [
-      "精确发布时间",
-      "部分仅能确认发布日期，未能逐篇核实具体更新时间"
+      "精确时间",
+      "仅标注来源可核对的时间，部分精确更新时间无法取得"
     ]
   ],
-  "editorNote": "本期实际取得8条报道、评论或补充线索，其中并非全部属于两家媒体当日新增硬新闻。没有为满足数量要求而重复前一天的股市暴跌和 IPO 新闻，也不能声称已完成两家媒体的全量头条覆盖。 原稿的自动发布记录：仓库读取成功、新闻 JSON 准备完成；GitHub 提交因 403 Forbidden（Resource not accessible by integration）失败，当时没有提交、没有更改归档和首页，也未执行线上部署验证。"
+  "editorNote": "核验以 11 月 23 日北京时间 08:00 为截点。部分市场稿为盘中数据，机构表态和政策提案保留其原有证据级别。"
 }
