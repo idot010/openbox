@@ -4,11 +4,23 @@
   "dateLabel": "2026年11月23日 · 星期一",
   "issue": "VOL. 005",
   "edition": "第 005 期",
-  "coverage": "2026-11-22 08:00 — 2026-11-23 08:00 · 北京时间（UTC+8）",
-  "updatedAt": "2026-11-23T08:00:00+08:00",
-  "headline": "全球每日新闻简报｜2026年11月23日",
-  "dek": "Reuters × Bloomberg。COP31 未达总体协议、亚洲多地应对股市下跌、美国追问英伟达出口合规，刚果（金）埃博拉应对受交火干扰。",
+  "coverage": "晨报截至北京时间 08:00 · 增补覆盖 08:00—23:15（纽约时间 11 月 22 日 19:00 至 23 日 10:15）",
+  "updatedAt": "2026-11-23T23:15:00+08:00",
+  "headline": "全球每日新闻简报｜2026年11月23日 · 盘中增补",
+  "dek": "Reuters × Bloomberg。黄仁勋回任英伟达，科技股从期货反弹转为现货大涨；CrowdStrike 正式签约收购 Zscaler。乌克兰首次承认袭击停靠利比亚的俄罗斯军舰，伊朗重申反对美国海上封锁，欧元区德国企业活动加速、法国制造业走弱。下方也保留本日晨报全文。",
   "spotlight": [
+    [
+      "5.87%",
+      "纳指美东 09:43 盘中涨幅"
+    ],
+    [
+      "439 亿美元",
+      "CrowdStrike 收购 Zscaler 企业价值"
+    ],
+    [
+      "51.7",
+      "欧元区 11 月综合 PMI 初值"
+    ],
     [
       "80%",
       "中国融资买入最低保证金比例，将自 11 月 30 日实施"
@@ -23,6 +35,352 @@
     ]
   ],
   "stories": [
+    {
+      "id": "2026-11-23-intraday-nvidia",
+      "section": "top",
+      "category": "科技与市场",
+      "title": "黄仁勋回任英伟达，纳指开盘后涨近 6%",
+      "summary": "英伟达董事会一致同意恢复黄仁勋的总裁、CEO 和董事职务，即时生效。他此前辞去 CEO 一职，公司曾由首席财务官科莱特·克雷斯代理掌舵。董事会表示，作出回任决定前听取了美国政府高层的意见，独立董事委员会的调查仍会继续。",
+      "fullBody": "英伟达董事会一致同意恢复黄仁勋的总裁、CEO 和董事职务，即时生效。他此前辞去 CEO 一职，公司曾由首席财务官科莱特·克雷斯代理掌舵。董事会表示，作出回任决定前听取了美国政府高层的意见，独立董事委员会的调查仍会继续。\n\n上周 AI 股票大幅下跌，今天晨报里的回升还只发生在股指期货。回任消息公布后，美东时间 09:43，芯片股带动美股现货市场大涨。\n\n接下来关注：先看反弹能否维持到收盘，再看独立调查进展，以及英伟达下一次披露的订单和业绩指引。\n\n报道时间（11 月 23 日 UTC）：Bloomberg 14:05，Reuters 行情快照为美东 09:43，即 14:43 UTC。",
+      "why": "市场的一种解读是，回任降低了投资者对英伟达短期领导层和战略变动的担忧，买盘随后扩展到其他芯片股。仅凭早盘涨幅，尚难判断投资者是否也改变了对整个 AI 行业盈利前景的看法。",
+      "tag": "盘中增补",
+      "source": "Reuters · Bloomberg",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters｜盘中行情",
+          "url": "https://www.reuters.com/business/wall-street-futures-rebound-after-rough-week-ai-linked-shares-2026-11-23/"
+        },
+        {
+          "label": "Bloomberg｜回任报道",
+          "url": "https://news.bloomberglaw.com/tech-and-telecom-law/nvidia-board-reinstates-jensen-huang-as-ceo-1"
+        },
+        {
+          "label": "英伟达公告",
+          "url": "https://investor.nvidia.com/news/press-release-details/2026/NVIDIA-Board-Reinstates-Jensen-Huang-as-President-CEO-and-Board-Director/default.aspx"
+        }
+      ],
+      "stats": [
+        [
+          "逾 28%",
+          "英伟达盘中涨幅"
+        ],
+        [
+          "5.87%",
+          "纳斯达克综合指数"
+        ],
+        [
+          "4.04%",
+          "标普 500"
+        ],
+        [
+          "2.20%",
+          "道琼斯工业平均指数"
+        ]
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-crowdstrike",
+      "section": "top",
+      "category": "并购与网络安全",
+      "title": "CrowdStrike 签约收购 Zscaler，交易企业价值约 439 亿美元",
+      "summary": "两家公司宣布签署最终协议，CrowdStrike 将以全股票方式收购 Zscaler。这是此前洽谈消息之后的实质进展。CrowdStrike 的产品主要保护电脑、服务器等设备并检测入侵。Zscaler 则帮助企业控制员工和设备能访问哪些应用与数据。路透称，这是迄今规模最大的网络安全收购。",
+      "fullBody": "两家公司宣布签署最终协议，CrowdStrike 将以全股票方式收购 Zscaler。这是此前洽谈消息之后的实质进展。CrowdStrike 的产品主要保护电脑、服务器等设备并检测入侵。Zscaler 则帮助企业控制员工和设备能访问哪些应用与数据。路透称，这是迄今规模最大的网络安全收购。\n\n股价基准为 11 月 20 日收盘。交易仍需 Zscaler 股东和监管机构批准。换股比例已经确定，美元计价的隐含对价会随 CrowdStrike 股价变化。\n\n报道时间（11 月 23 日 UTC）：Reuters 10:36，Bloomberg 12:54。",
+      "why": "企业通常分别采购设备防护和网络访问控制。合并若获批，CrowdStrike 就能在同一平台销售两类产品，客户也可能把原本分散的采购集中给一家供应商。产品能否顺利整合值得观察。",
+      "tag": "盘中增补",
+      "source": "Reuters · Bloomberg",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/legal/transactional/crowdstrike-buy-zscaler-439-billion-2026-11-23/"
+        },
+        {
+          "label": "Bloomberg 报道",
+          "url": "https://news.bloomberglaw.com/business-and-practice/crowdstrike-reaches-44-billion-cybersecurity-deal-for-zscaler"
+        },
+        {
+          "label": "公司联合公告",
+          "url": "https://ir.crowdstrike.com/news-releases/news-release-details/crowdstrike-acquire-zscaler-bringing-network-security-and-zero"
+        }
+      ],
+      "stats": [
+        [
+          "439 亿美元",
+          "交易企业价值"
+        ],
+        [
+          "1.135 股",
+          "每股 Zscaler 可换取的 CrowdStrike 股票"
+        ],
+        [
+          "260.41 美元",
+          "每股隐含对价"
+        ],
+        [
+          "约 34%",
+          "相较 Zscaler 11 月 20 日收盘价的溢价"
+        ]
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-libya",
+      "section": "top",
+      "category": "国际安全",
+      "title": "乌克兰首次公开承认在利比亚发动袭击，称俄军舰沉没",
+      "summary": "晨报报道了利比亚东部当局通报班加西一艘俄方船只爆炸。11 月 23 日，乌克兰总统泽连斯基公开承认由乌方实施前一天的袭击，并称俄军舰 Merkury 沉没。利比亚东部当局确认该舰当时停靠班加西海军基地。",
+      "fullBody": "晨报报道了利比亚东部当局通报班加西一艘俄方船只爆炸。11 月 23 日，乌克兰总统泽连斯基公开承认由乌方实施前一天的袭击，并称俄军舰 Merkury 沉没。利比亚东部当局确认该舰当时停靠班加西海军基地。\n\n路透核验的视频显示船只起火冒烟，沉没说法仍来自乌方，俄罗斯国防部当时未回应。船只最终状态和各方回应待进一步确认。\n\n报道时间（11 月 23 日 UTC）：07:53。",
+      "why": "俄乌的海上交锋多见于黑海。乌方公开认领发生在利比亚港口的行动，使俄乌战争的海上风险延伸至地中海。",
+      "tag": "盘中增补 · 持续关注",
+      "source": "Reuters",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/europe/zelenskiy-says-ukraine-sank-russian-corvette-near-libyas-coast-hit-cargo-ship-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-iran",
+      "section": "top",
+      "category": "中东与能源",
+      "title": "伊朗重申将应对美国海上封锁，原油能否恢复外运仍待核实",
+      "summary": "伊朗外交部发言人巴加埃 11 月 23 日表示，将动用可用手段应对美国海上封锁。海运追踪机构此前报告一艘油轮可能正在装载伊朗原油，巴加埃称相关消息属于推测。路透报道，美国于 7 月恢复封锁后，可追踪的伊朗原油出口近几个月降至接近零。",
+      "fullBody": "伊朗外交部发言人巴加埃 11 月 23 日表示，将动用可用手段应对美国海上封锁。海运追踪机构此前报告一艘油轮可能正在装载伊朗原油，巴加埃称相关消息属于推测。路透报道，美国于 7 月恢复封锁后，可追踪的伊朗原油出口近几个月降至接近零。\n\n接下来应看实际装船、离港和抵达记录，以及是否出现新的通行安排。\n\n报道时间（11 月 23 日 UTC）：08:03。",
+      "why": "实际交付可检验伊朗原油是否开始重新进入市场。霍尔木兹海峡的通行风险也会影响其他海湾出口国的运输。",
+      "tag": "盘中增补 · 持续关注",
+      "source": "Reuters",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/middle-east/iran-says-it-will-use-all-available-tools-confront-us-naval-blockade-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-pmi",
+      "section": "top",
+      "category": "欧洲宏观经济",
+      "title": "欧元区企业活动总体扩张，德国加速，法国收缩加深",
+      "summary": "标普全球公布的 11 月初值显示，欧元区综合采购经理指数（PMI）持平于 51.7，连续第五个月处于扩张区间。PMI 根据企业对订单、产出和用工等情况的回答编制，通常以 50 区分扩张和收缩。德国综合 PMI 升至 55.0，创 2022 年 3 月以来最高。法国制造业产出的降幅则是 2025 年 2 月以来最大。",
+      "fullBody": "标普全球公布的 11 月初值显示，欧元区综合采购经理指数（PMI）持平于 51.7，连续第五个月处于扩张区间。PMI 根据企业对订单、产出和用工等情况的回答编制，通常以 50 区分扩张和收缩。德国综合 PMI 升至 55.0，创 2022 年 3 月以来最高。法国制造业产出的降幅则是 2025 年 2 月以来最大。\n\n欧元区企业对未来一年的信心已连续第四个月回落。关注订单、用工和调查终值，初值仍可能修订。\n\n报道时间（11 月 23 日 UTC）：09:08。",
+      "why": "总指标持平掩盖了各国差异。德国的加速在总量上抵消了法国的部分疲弱，后续需要看更多成员国的订单及用工能否回暖。",
+      "tag": "盘中增补",
+      "source": "Reuters",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/europe/euro-zone-growth-holds-steady-frances-deepening-downturn-clouds-outlook-pmi-shows-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-indonesia",
+      "section": "top",
+      "category": "亚洲与公共安全",
+      "title": "印尼工厂火灾搜救继续，总统劳工顾问通报 24 人死亡",
+      "summary": "印尼万丹省一间工厂周末起火。11 月 23 日，印尼总统劳工事务顾问通报 24 人死亡，约 30 人仍失踪。现场搜救负责人称，29 人已确认安全，其中 5 人住院。火场结构仍不稳定，搜救人员继续寻找失踪者。",
+      "fullBody": "印尼万丹省一间工厂周末起火。11 月 23 日，印尼总统劳工事务顾问通报 24 人死亡，约 30 人仍失踪。现场搜救负责人称，29 人已确认安全，其中 5 人住院。火场结构仍不稳定，搜救人员继续寻找失踪者。\n\n晨报掌握的是现场移出了 24 个遗体袋，袋数与死亡人数的统计口径不同。本期新增的是总统顾问公开通报的死亡数字，现场搜救部门当时仍未独立确认最终数字。后续关注遇难者身份核对和搜救部门更新。\n\n报道时间（11 月 23 日 UTC）：03:49。",
+      "why": "",
+      "tag": "盘中增补 · 持续关注",
+      "source": "Reuters",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/asia-pacific/indonesia-says-24-killed-factory-blaze-rescuers-search-dozens-missing-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-conoco",
+      "section": "reuters",
+      "category": "能源并购",
+      "title": "康菲石油将出售挪威业务及英国码头权益",
+      "summary": "挪威油气公司 Vår Energi 同意收购康菲在挪威的业务，以及英国蒂赛德石油码头 40.25% 的权益和运营权。卖方公布的交易对价约 44.25 亿美元，计入调整及相关税务安排后，预计净现金收入约 25 亿美元。",
+      "fullBody": "挪威油气公司 Vår Energi 同意收购康菲在挪威的业务，以及英国蒂赛德石油码头 40.25% 的权益和运营权。卖方公布的交易对价约 44.25 亿美元，计入调整及相关税务安排后，预计净现金收入约 25 亿美元。\n\n对康菲而言，这是退出挪威业务。对 Vår Energi 而言，收购扩大了其在北海的产量和储量基础。\n\n报道时间（11 月 23 日 UTC）：06:38。",
+      "why": "",
+      "tag": "盘中增补",
+      "source": "Reuters",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/legal/transactional/norways-vaar-energi-buy-conocophillips-business-443-billion-2026-11-23/"
+        },
+        {
+          "label": "康菲公告",
+          "url": "https://www.conocophillips.com/news-media/story/conocophillips-announces-agreement-to-sell-norway-business-and-teesside-asset-to-var-energi-2/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-abb",
+      "section": "reuters",
+      "category": "工业与数据中心",
+      "title": "ABB 收购德国冷却设备商，扩大数据中心热管理业务",
+      "summary": "瑞士工业集团 ABB 同意收购生产风机、电机和通风设备的 Ziehl-Abegg。路透强调 26.5 亿美元企业价值，彭博突出约 22.2 亿美元股权价值，两种口径均可在 ABB 公告中核对。",
+      "fullBody": "瑞士工业集团 ABB 同意收购生产风机、电机和通风设备的 Ziehl-Abegg。路透强调 26.5 亿美元企业价值，彭博突出约 22.2 亿美元股权价值，两种口径均可在 ABB 公告中核对。\n\n数据中心扩建会带来额外散热需求，这笔收购让 ABB 能提供更多风机和控制设备。公司预计 2027 年下半年交割，仍需监管批准。\n\n报道时间（11 月 23 日 UTC）：Reuters 06:19。",
+      "why": "",
+      "tag": "盘中增补",
+      "source": "Reuters · Bloomberg",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/legal/transactional/abb-acquire-germanys-ziehl-abegg-265-billion-2026-11-23/"
+        },
+        {
+          "label": "Bloomberg 署名转载",
+          "url": "https://www.swissinfo.ch/eng/abb-buys-german-data-center-cooling-firm-for-%242.2-billion/92422021"
+        },
+        {
+          "label": "ABB 公告",
+          "url": "https://www.abb.com/global/en/news/140614/abb-to-acquire-ziehl-abegg-expanding-offering-for-hvac-and-industrial-cooling-applications"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-dymer",
+      "section": "reuters",
+      "category": "俄乌战争",
+      "title": "基辅州住宅遇袭后，救援人员救出两名幸存者",
+      "summary": "迪梅尔一栋住宅在 11 月 22 日遇袭。次日，搜救人员从废墟中救出一名 7 岁男孩和一名 79 岁女性。地方官员称死亡人数已升至 11 人，仍有两人失踪。",
+      "fullBody": "迪梅尔一栋住宅在 11 月 22 日遇袭。次日，搜救人员从废墟中救出一名 7 岁男孩和一名 79 岁女性。地方官员称死亡人数已升至 11 人，仍有两人失踪。\n\n报道时间（11 月 23 日 UTC）：06:24。",
+      "why": "",
+      "tag": "盘中增补 · 持续关注",
+      "source": "Reuters",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/world/russian-attack-ukraines-dymer-kyiv-region-kills-11-official-says-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-cop31",
+      "section": "reuters",
+      "category": "气候外交",
+      "title": "COP31 散会后，欧盟和中国分别表态支持继续谈判",
+      "summary": "欧盟委员会发言人表示，欧盟仍将推动多边进程，并解释了欧盟为何没有支持最终草案。中国外交部同日对大会结果表示失望，呼吁维持对多边进程的信心。",
+      "fullBody": "欧盟委员会发言人表示，欧盟仍将推动多边进程，并解释了欧盟为何没有支持最终草案。中国外交部同日对大会结果表示失望，呼吁维持对多边进程的信心。\n\n两项表态延续了谈判意愿，减排承诺和资金安排仍需后续磋商。\n\n报道时间（11 月 23 日 UTC）：欧盟 11:48，各方回应 06:12。",
+      "why": "",
+      "tag": "盘中增补 · 持续关注",
+      "source": "Reuters",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters｜欧盟回应",
+          "url": "https://www.reuters.com/sustainability/cop/eu-urges-multilateral-talks-continue-after-cop31-collapse-2026-11-23/"
+        },
+        {
+          "label": "Reuters｜中国、澳大利亚及太平洋国家回应",
+          "url": "https://www.reuters.com/sustainability/cop/cop-flop-triggers-backlash-australia-pacific-nations-express-despair-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-marlowe",
+      "section": "bloomberg",
+      "category": "AI 与融资",
+      "title": "Marlowe 获 2.77 亿美元种子轮融资，开发替代算力工具",
+      "summary": "彭博报道，这轮融资由 Accel 领投，对应公司估值 11.5 亿美元。Marlowe 初期拟使用 AMD 和 Etched 芯片，也开发管理、优化这类芯片的工具。",
+      "fullBody": "彭博报道，这轮融资由 Accel 领投，对应公司估值 11.5 亿美元。Marlowe 初期拟使用 AMD 和 Etched 芯片，也开发管理、优化这类芯片的工具。\n\n据其 CEO 对彭博的说法，一些客户已买了 AMD 芯片，需要有人帮助提高利用率。公司瞄准的问题是，客户买到替代芯片后，怎样把硬件变成真正可用的算力。彭博原文访问受限，依据公开索引及转述。",
+      "why": "",
+      "tag": "盘中增补 · 公开转述",
+      "source": "Bloomberg",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Bloomberg 原文｜访问受限",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-23/marlowe-raises-277-million-to-bolster-alternatives-to-nvidia-chips"
+        },
+        {
+          "label": "公开转述",
+          "url": "https://www.investing.com/news/stock-market-news/marlowe-raises-277-million-for-nvidia-chip-alternatives--bloomberg-93CH-5045596"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-gold",
+      "section": "bloomberg",
+      "category": "贸易与黄金",
+      "title": "中国大量进口黄金，压低了账面贸易顺差",
+      "summary": "彭博根据贸易数据梳理，今年前十个月，中国非货币黄金进口金额约 2,090 亿美元，约占同期进口总额的 8%。贸易顺差是出口额减进口额，即使其他商品进出口没有变化，黄金进口增加也会压低这个差额。",
+      "fullBody": "彭博根据贸易数据梳理，今年前十个月，中国非货币黄金进口金额约 2,090 亿美元，约占同期进口总额的 8%。贸易顺差是出口额减进口额，即使其他商品进出口没有变化，黄金进口增加也会压低这个差额。\n\n要判断中国对外国商品的需求是否普遍回暖，还应单独看剔除黄金后的进口以及实际进口量。这是 11 月 23 日发表的分析，统计期截至 10 月。",
+      "why": "",
+      "tag": "盘中增补 · 数据分析",
+      "source": "Bloomberg",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Bloomberg｜Swissinfo 署名转载",
+          "url": "https://www.swissinfo.ch/eng/gold-deluge-keeps-chinas-%241-trillion-trade-surplus-in-check/92421298"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-oil",
+      "section": "brief",
+      "category": "能源",
+      "title": "利比亚沙拉拉油田输油管道恢复运行",
+      "summary": "利比亚国家石油公司负责人称，原油已开始流入储罐。路透报道，管道重启和中东供应增加给油价带来下行压力。",
+      "fullBody": "利比亚国家石油公司负责人称，原油已开始流入储罐。路透报道，管道重启和中东供应增加给油价带来下行压力。\n\n报道时间（11 月 23 日 UTC）：02:24。",
+      "why": "",
+      "tag": "盘中增补",
+      "source": "Reuters",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/business/energy/oil-prices-fall-amid-equity-selloff-though-iran-war-attacks-limit-losses-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-lilly",
+      "section": "brief",
+      "category": "医药与并购",
+      "title": "礼来拟以最高 7.25 亿美元收购亨廷顿病药物开发商 LoQus23",
+      "summary": "标的公司的药物项目仍处于临床前阶段。7.25 亿美元是交易上限，未来实际支付额取决于交易条款。",
+      "fullBody": "标的公司的药物项目仍处于临床前阶段。7.25 亿美元是交易上限，未来实际支付额取决于交易条款。",
+      "why": "",
+      "tag": "盘中增补",
+      "source": "Reuters",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters 原文",
+          "url": "https://www.reuters.com/legal/litigation/lilly-acquire-huntingtons-disease-drug-developer-loqus23-up-725-million-2026-11-23/"
+        },
+        {
+          "label": "公司公告",
+          "url": "https://rss.globenewswire.com/news-release/2026/11/23/3408071/0/en/loqus23-therapeutics-acquired-by-lilly-to-accelerate-development-of-novel-small-molecule-therapy-for-huntington-s-disease.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-23-intraday-dollar",
+      "section": "brief",
+      "category": "全球外汇",
+      "title": "美元仍接近 19 个月高位",
+      "summary": "路透报道，欧洲交易时段美元在高位附近徘徊，交易员对美联储激进加息的押注有所减弱。后续美国数据将影响这一预期。",
+      "fullBody": "路透报道，欧洲交易时段美元在高位附近徘徊，交易员对美联储激进加息的押注有所减弱。后续美国数据将影响这一预期。",
+      "why": "",
+      "tag": "盘中增补",
+      "source": "Reuters",
+      "date": "2026-11-23",
+      "links": [
+        {
+          "label": "Reuters 署名转载｜Euronext",
+          "url": "https://live.euronext.com/en/financial-news/dollar-steadies-traders-take-breather-ai-wobbles"
+        }
+      ]
+    },
     {
       "id": "2026-11-23-1",
       "section": "top",
@@ -404,6 +762,21 @@
   ],
   "trends": [
     {
+      "title": "AI 股票可能一起涨跌，算力生意有不同的增长路径",
+      "body": "英伟达换帅风波缓和后，买盘迅速扩展到芯片板块。同一天，ABB 签约补充冷却产品，Marlowe 获得资金帮助客户使用替代芯片。股市在交易头部公司的预期，企业在投入各自面临的实际瓶颈。",
+      "watch": "分别看英伟达的订单、冷却设备需求，以及替代芯片能否获得持续的客户使用。"
+    },
+    {
+      "title": "油价下跌时，海湾航运风险依然值得跟踪",
+      "body": "利比亚管道重启增加了可用供应，伊朗封锁争端影响原油能否安全、稳定地运出。供应改善可以在当天压低油价，运输风险仍可能通过油轮运费、保险和交付时间影响最终成本。",
+      "watch": "实际出口量与航运恢复情况。"
+    },
+    {
+      "title": "美国和欧洲的总体数字都可能掩盖内部变化",
+      "body": "纳指大涨时，英伟达和芯片股是重要推动力量。欧元区 PMI 持平时，德国加速和法国走弱同时发生。两种数据分别衡量市场交易和企业活动，读懂总体数字都需要看内部构成。",
+      "watch": "美股上涨能否扩展到更多行业，欧洲的扩张能否反映在更多国家的订单和用工里。"
+    },
+    {
       "title": "气候外交的争议进入后续谈判",
       "body": "事实：COP31 未通过总体文本。影响：化石燃料转型和减排承诺可能需要在后续政治谈判中重新协调。",
       "watch": "跟踪各方是否重提文本，以及融资谈判的后续安排。"
@@ -419,8 +792,24 @@
       "watch": "关注船舶事故事实调查、医护安全及卫生机构能否恢复作业。"
     }
   ],
-  "disclaimer": "本刊为独立中文摘要，截稿为北京时间 08:00。两家首页均有检查，部分彭博正文受限，仅用可确认的公开资料。",
+  "disclaimer": "本刊为独立中文摘要。晨报与盘中增补各按对应窗口截稿，部分彭博正文通过公开摘要或署名转载核对。",
   "coverageChecklist": [
+    [
+      "盘中增补｜首页",
+      "已查看两家首页。路透显著呈现的英伟达、CrowdStrike 并购已纳入。部分彭博原文受限，无法确认其全部首页重点。"
+    ],
+    [
+      "盘中增补｜资本市场",
+      "已检查并购、财报和 IPO。纳入 CrowdStrike、康菲、ABB、礼来和 Marlowe。未收录经核实的新增重大 IPO，收盘和盘后财报在本稿窗口外。"
+    ],
+    [
+      "盘中增补｜地域与行业",
+      "纳入俄乌、利比亚、伊朗、欧元区经济调查和印尼火灾。拉美和公共卫生的新进展覆盖有限。"
+    ],
+    [
+      "盘中增补｜去重及核验",
+      "逐栏对照本日晨报，新增 15 条。排除无实质进展的旧闻，保留持续事件的必要背景。部分报道未取得精确更新时间，公开转述和署名转载已注明。"
+    ],
     [
       "路透社",
       "首页显著的 COP31、芬兰湾救援、印尼火灾等已纳入"
@@ -446,5 +835,5 @@
       "仅标注来源可核对的时间，部分精确更新时间无法取得"
     ]
   ],
-  "editorNote": "核验以 11 月 23 日北京时间 08:00 为截点。部分市场稿为盘中数据，机构表态和政策提案保留其原有证据级别。"
+  "editorNote": "盘中增补：本日晨报之后新增 15 条，其中头条 6 条、快讯 3 条，Reuters 涉及 13 条，Bloomberg 涉及 5 条。联合来源分别计入。截稿为纽约时间 11 月 23 日 10:15。晨报原编辑说明：核验以 11 月 23 日北京时间 08:00 为截点。部分市场稿为盘中数据，机构表态和政策提案保留其原有证据级别。"
 }
