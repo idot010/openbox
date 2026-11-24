@@ -1,0 +1,634 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-11-25",
+  "dateLabel": "2026年11月25日 · 星期三",
+  "issue": "VOL. 007",
+  "edition": "第 007 期",
+  "coverage": "纽约 11 月 23 日 17:30 至 24 日 17:30（EST） · 北京 11 月 24 日 06:30 至 25 日 06:30",
+  "updatedAt": "2026-11-25T06:30:00+08:00",
+  "headline": "全球每日新闻简报｜2026年11月25日",
+  "dek": "美国陪审团裁定华为部分刑事指控成立，赛诺菲正式签约收购 Insmed。路透和彭博披露美方准备新关税，官方细则尚待公布。美股科技板块回落，戴尔盘后上调服务器营收指引。霍尔木兹再报商船遇袭，原油结算反弹。",
+  "spotlight": [
+    [
+      "10／12",
+      "华为被裁定有罪的指控数"
+    ],
+    [
+      "410 亿美元",
+      "赛诺菲拟付现金股权对价"
+    ],
+    [
+      "1.48%",
+      "纳斯达克综合指数收盘跌幅"
+    ]
+  ],
+  "stories": [
+    {
+      "id": "2026-11-25-huawei",
+      "section": "top",
+      "category": "中美与司法",
+      "title": "美国陪审团裁定华为 12 项刑事指控中 10 项有罪",
+      "summary": "11 月 24 日，纽约布鲁克林联邦法院陪审团裁定华为在 12 项指控中 10 项有罪，包括银行和电汇欺诈、违反制裁规定及共谋窃取商业秘密。陪审团认定敲诈勒索共谋和妨碍司法共谋两项不成立。",
+      "fullBody": "11 月 24 日，纽约布鲁克林联邦法院陪审团裁定华为在 12 项指控中 10 项有罪，包括银行和电汇欺诈、违反制裁规定及共谋窃取商业秘密。陪审团认定敲诈勒索共谋和妨碍司法共谋两项不成立。\n\n案件始于 2018 年，部分指控涉及华为如何向银行披露伊朗业务。华为律师表示预计会上诉。路透报道，量刑安排在 2027 年 9 月 14 日，具体处罚待定。\n\n报道时间与核验：Reuters 20:16 UTC；Bloomberg 官网发布，全文访问受限；美联社同日独立核对。",
+      "why": "裁决是长期案件的重要进展。它把跨境银行交易中的制裁合规与商业秘密风险放在同一案件中审视。后续看量刑、上诉以及有无与判决直接相关的新措施。",
+      "source": "Reuters · Bloomberg",
+      "tag": "陪审团裁决",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜China’s Huawei convicted in sprawling US criminal trial over Iran business",
+          "url": "https://www.reuters.com/legal/litigation/chinas-huawei-convicted-us-criminal-trial-stemming-iran-business-2026-11-24/"
+        },
+        {
+          "label": "Bloomberg｜Huawei Found Guilty of US Criminal Charges in Landmark Case（访问受限）",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/huawei-found-guilty-of-us-criminal-charges-in-landmark-case"
+        },
+        {
+          "label": "AP 交叉核对",
+          "url": "https://apnews.com/article/b39ac780e2e31140015a1be02f0329ab"
+        }
+      ],
+      "stats": [
+        [
+          "10／12",
+          "华为被裁定有罪的指控数"
+        ]
+      ]
+    },
+    {
+      "id": "2026-11-25-sanofi",
+      "section": "top",
+      "category": "医药并购",
+      "title": "赛诺菲签约以 410 亿美元现金收购 Insmed",
+      "summary": "法国药企赛诺菲与美国生物制药公司 Insmed 已于 11 月 23 日签署协议，并于 24 日对外公布。赛诺菲拟以每股 175 美元现金买下全部股份，总股权对价约 410 亿美元，较未受收购传闻影响的 11 月 18 日收盘价溢价约 46%。",
+      "fullBody": "法国药企赛诺菲与美国生物制药公司 Insmed 已于 11 月 23 日签署协议，并于 24 日对外公布。赛诺菲拟以每股 175 美元现金买下全部股份，总股权对价约 410 亿美元，较未受收购传闻影响的 11 月 18 日收盘价溢价约 46%。\n\nInsmed 已有两款用于慢性肺病的商业化药物，其中 Brinsupri 用于治疗非囊性纤维化支气管扩张症。交易仍需股东批准及监管许可。上一期剔除了较早的洽谈传闻，本期新增的是签署协议与明确对价。\n\n报道时间与核验：Reuters 06:36 UTC；赛诺菲公告与 SEC 文件交叉核验。",
+      "why": "赛诺菲可借这笔交易获得已有销售的呼吸药物，扩大相对依赖 Dupixent 的产品组合。后续看审批和交割，以及收购标的收入能否支撑支付的溢价。",
+      "source": "Reuters",
+      "tag": "公司正式签约",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Sanofi’s $41 billion Insmed bet charts life beyond Dupixent",
+          "url": "https://www.reuters.com/legal/litigation/sanofi-acquire-insmed-41-billion-deal-2026-11-24/"
+        },
+        {
+          "label": "赛诺菲｜Sanofi to acquire Insmed",
+          "url": "https://www.sanofi.com/en/media-room/press-releases/2026/2026-11-24-06-30-00-3409002"
+        },
+        {
+          "label": "SEC｜并购协议披露",
+          "url": "https://www.sec.gov/Archives/edgar/data/1104506/000114036126045364/ef20086426_8-k.htm"
+        }
+      ],
+      "stats": [
+        [
+          "410 亿美元",
+          "现金股权对价"
+        ],
+        [
+          "175 美元",
+          "每股对价"
+        ],
+        [
+          "约 46%",
+          "较 11 月 18 日收盘价溢价"
+        ]
+      ]
+    },
+    {
+      "id": "2026-11-25-tariffs",
+      "section": "top",
+      "category": "贸易政策",
+      "title": "两家媒体称美国拟针对中欧等经济体提出新关税",
+      "summary": "路透和彭博 11 月 24 日分别引述知情人士称，美国政府准备公布针对所谓工业产能过剩的调查结果，并提出新进口关税。路透称调查涉及 16 个贸易伙伴，拟用美国《贸易法》第 301 条作为依据。彭博称中国、欧盟及十多个其他经济体可能受到影响。",
+      "fullBody": "路透和彭博 11 月 24 日分别引述知情人士称，美国政府准备公布针对所谓工业产能过剩的调查结果，并提出新进口关税。路透称调查涉及 16 个贸易伙伴，拟用美国《贸易法》第 301 条作为依据。彭博称中国、欧盟及十多个其他经济体可能受到影响。\n\n消息人士称税率会按贸易伙伴区分，并可能保留现有协议的税率上限。截至纽约 17:30，未查到能确认本轮措施已正式公布或生效的官方文本。\n\n报道时间与核验：Bloomberg Law 16:16 UTC，Reuters 16:19 UTC；已查公开官方资料。",
+      "why": "如果措施落地，影响取决于具体商品、原有关税与新增税率如何叠加，以及协议豁免。下一步以美国贸易代表办公室公布的清单和生效日期为准。",
+      "source": "Reuters · Bloomberg",
+      "tag": "知情人士 · 尚待官宣",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Trump administration set to unveil new tariffs after probe on excess factory capacity, sources say",
+          "url": "https://www.reuters.com/world/us/trump-administration-set-unveil-new-tariffs-after-probe-on-excess-factory-2026-11-24/"
+        },
+        {
+          "label": "Bloomberg｜US Readies Tariff Hike on China, EU Goods as Soon as Tuesday（公开摘要）",
+          "url": "https://news.bloomberglaw.com/tariff-news/us-readies-tariff-hike-on-china-eu-goods-as-soon-as-tuesday"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-markets",
+      "section": "top",
+      "category": "全球市场",
+      "title": "纳综指收跌 1.48%，道指逆势收在 5 万点上方",
+      "summary": "美股 11 月 24 日收盘分化：纳斯达克综合指数跌 1.48% 至 23,733.54 点，标普 500 跌 0.50% 至 7,201.09 点，道指涨约 0.9%，收在 5 万点上方。英伟达和其他 AI 股票回吐前一天的部分涨幅。",
+      "fullBody": "美股 11 月 24 日收盘分化：纳斯达克综合指数跌 1.48% 至 23,733.54 点，标普 500 跌 0.50% 至 7,201.09 点，道指涨约 0.9%，收在 5 万点上方。英伟达和其他 AI 股票回吐前一天的部分涨幅。\n\n彭博强调权重科技股下跌之际，美债获得买盘。其市场综述中的纳斯达克 100 与此处的纳斯达克综合指数是不同指标，前者更集中于大型非金融公司。\n\n报道时间与核验：美东 16:00 收盘；路透滚动稿页面标示 10:52 UTC，采用收盘更新；彭博官网指数与美联社交叉核对。",
+      "why": "同一天道指和纳指方向相反，说明市场在重新给科技与其他板块定价。后续看涨跌是否扩大到更多股票，以及企业财报能否稳住预期。",
+      "source": "Reuters · Bloomberg",
+      "tag": "持续关注 · 正式收盘",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Nasdaq, S&P 500 slip following Monday’s Nvidia-fueled rally",
+          "url": "https://www.reuters.com/business/wall-st-futures-dip-chip-stocks-cool-after-nvidia-fueled-rally-2026-11-24/"
+        },
+        {
+          "label": "Bloomberg｜Nasdaq 100 Sinks as AI Rout Fuels Gains in Bonds（署名转载）",
+          "url": "https://www.swissinfo.ch/eng/nasdaq-100-sinks-as-ai-rout-fuels-gains-in-bonds%3A-markets-wrap/92426361"
+        },
+        {
+          "label": "Bloomberg｜官网收盘行情",
+          "url": "https://www.bloomberg.com/"
+        }
+      ],
+      "stats": [
+        [
+          "−1.48%",
+          "纳斯达克综合指数"
+        ],
+        [
+          "−0.50%",
+          "标普 500"
+        ],
+        [
+          "约 +0.9%",
+          "道琼斯工业平均指数"
+        ]
+      ]
+    },
+    {
+      "id": "2026-11-25-dell",
+      "section": "top",
+      "category": "财报与人工智能",
+      "title": "戴尔季度营收达 549 亿美元，上调 AI 服务器全年指引",
+      "summary": "戴尔 11 月 24 日盘后发布 2027 财年第三季度业绩，总营收达 549 亿美元。它把全年营收指引从 1,920 亿美元上调至 2,020 亿美元，把全年 AI 优化服务器营收指引从 740 亿美元上调至 780 亿美元。",
+      "fullBody": "戴尔 11 月 24 日盘后发布 2027 财年第三季度业绩，总营收达 549 亿美元。它把全年营收指引从 1,920 亿美元上调至 2,020 亿美元，把全年 AI 优化服务器营收指引从 740 亿美元上调至 780 亿美元。\n\n季度收入与全年预测的口径不同。上一期慧与的财报已显示服务器收入快速上升，戴尔的数据提供了来自另一家硬件供应商的新增证据。\n\n报道时间与核验：Reuters 21:06 UTC；Bloomberg 首页头条核对方向，数字以戴尔公告为准。",
+      "why": "两家服务器企业的财报都显示算力投资正在转化为硬件销售。未来仍需看出货、成本和利润率，以及采购规模是否持续。",
+      "source": "Reuters · Bloomberg",
+      "tag": "公司财报",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Dell lifts annual forecasts after record quarter on surging AI server demand",
+          "url": "https://www.reuters.com/business/dell-lifts-annual-forecasts-after-record-quarter-surging-ai-server-demand-2026-11-24/"
+        },
+        {
+          "label": "Bloomberg｜Dell Raises Annual Sales Forecast Again on AI Server Demand（访问受限）",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/dell-ups-annual-sales-forecast-again-on-rising-ai-server-demand"
+        },
+        {
+          "label": "戴尔｜第三财季财报",
+          "url": "https://investors.delltechnologies.com/news-events/press-releases/detail/1665/dell-technologies-delivers-third-quarter-fiscal-2027-financial-results"
+        }
+      ],
+      "stats": [
+        [
+          "549 亿美元",
+          "季度总收入"
+        ],
+        [
+          "780 亿美元",
+          "全年 AI 优化服务器营收指引"
+        ]
+      ]
+    },
+    {
+      "id": "2026-11-25-hormuz",
+      "section": "top",
+      "category": "海湾与能源",
+      "title": "霍尔木兹海峡再报商船遇袭，布伦特结算回升至 91.40 美元",
+      "summary": "英国海上贸易行动办公室 11 月 24 日称，前一天有三艘船经过霍尔木兹海峡时被不明物体击中，三船继续航行，船员均有下落。路透报道，布伦特期货结算上涨 2.27% 至每桶 91.40 美元，WTI 上涨 2.35% 至 82.05 美元。",
+      "fullBody": "英国海上贸易行动办公室 11 月 24 日称，前一天有三艘船经过霍尔木兹海峡时被不明物体击中，三船继续航行，船员均有下落。路透报道，布伦特期货结算上涨 2.27% 至每桶 91.40 美元，WTI 上涨 2.35% 至 82.05 美元。\n\n上一期原油因供应改善创约三个月结算低位，本期新增海事事件通报及油价回升。公开通报未确认三起事件的施袭方。\n\n报道时间与核验：Reuters 滚动稿页面标示 02:56 UTC，采用当日结算更新。",
+      "why": "市场会区分航行风险上升与实际货流中断。后续看保险、船舶通行和装卸记录是否变化，以及 OPEC+ 会议对供给的影响。",
+      "source": "Reuters",
+      "tag": "持续关注 · 海事通报",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Oil settles up $2 as traders weigh continued Hormuz ship attacks",
+          "url": "https://www.reuters.com/business/energy/oil-holds-near-three-month-low-rising-supply-offsets-hormuz-threat-2026-11-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-shenzhou",
+      "section": "top",
+      "category": "航天与亚洲",
+      "title": "神舟二十四号公布乘组，巴基斯坦航天员拟首次登上中国空间站",
+      "summary": "中国载人航天部门 11 月 24 日公布神舟二十四号乘组，其中包括巴基斯坦航天员穆罕默德·齐尚·阿里。按公布计划，飞船于北京时间 11 月 25 日 08:18 自酒泉发射。若任务按计划完成，阿里将成为首位登上中国空间站的外国航天员。",
+      "fullBody": "中国载人航天部门 11 月 24 日公布神舟二十四号乘组，其中包括巴基斯坦航天员穆罕默德·齐尚·阿里。按公布计划，飞船于北京时间 11 月 25 日 08:18 自酒泉发射。若任务按计划完成，阿里将成为首位登上中国空间站的外国航天员。\n\n此次合作还包括来自巴基斯坦的科学实验。截稿时尚未到计划发射时间，实际升空、入轨与对接需分别确认。\n\n报道时间与核验：Reuters 页面显示 02:49 UTC，Nature 同日交叉核对。",
+      "why": "这个任务把中巴航天合作从人员选训推进到正式乘组与任务安排，后续看对接确认及在轨实验进度。",
+      "source": "Reuters",
+      "tag": "官方公布乘组 · 待发射",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Pakistani pilot to become first foreigner to fly to China’s space station",
+          "url": "https://www.reuters.com/science/china-launch-shenzhou-24-spaceship-with-first-foreign-astronaut-2026-11-24/"
+        },
+        {
+          "label": "Nature｜任务与科研背景",
+          "url": "https://www.nature.com/articles/d41586-026-03829-y"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-nvidia",
+      "section": "reuters",
+      "category": "科技治理",
+      "title": "黄仁勋回任后向员工道歉，治理问题仍待回应",
+      "summary": "彭博报道，黄仁勋在 11 月 24 日的员工大会上向员工道歉。路透引述知情人士称，他在会上表示自己违反了公司部分行为守则。路透另报，他拟于下周出席美国参议院公开听证。",
+      "fullBody": "彭博报道，黄仁勋在 11 月 24 日的员工大会上向员工道歉。路透引述知情人士称，他在会上表示自己违反了公司部分行为守则。路透另报，他拟于下周出席美国参议院公开听证。\n\n前一期已写回任与股价反应。员工大会和拟举行的公开听证是本期新增信息，董事会对其行为的最终调查结论尚未公布。\n\n报道时间与核验：Reuters 页面标示 11:50 UTC，为更新后的滚动稿；Bloomberg Law 19:01 UTC。",
+      "why": "",
+      "source": "Reuters · Bloomberg",
+      "tag": "持续关注 · 知情人士",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Nvidia’s Huang said he violated code of conduct, source says",
+          "url": "https://www.reuters.com/business/retail-consumer/nvidia-slips-investors-assess-risks-surrounding-huangs-return-ceo-2026-11-24/"
+        },
+        {
+          "label": "Bloomberg｜Jensen Huang Apologizes to Nvidia Staff in Employee Meeting（公开摘要）",
+          "url": "https://news.bloomberglaw.com/artificial-intelligence/nvidias-huang-to-host-all-hands-meeting-a-day-after-his-return"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-anthropic",
+      "section": "reuters",
+      "category": "AI 与资本市场",
+      "title": "Anthropic 盘中跌破 83 美元发行价",
+      "summary": "路透在 11 月 24 日盘中记录，Anthropic 股价跌约 12.6% 至 76.60 美元，低于首次公开发行（IPO）每股 83 美元的定价。上一期写的是期权首日交易，本期新增的是普通股跌破发行价。",
+      "fullBody": "路透在 11 月 24 日盘中记录，Anthropic 股价跌约 12.6% 至 76.60 美元，低于首次公开发行（IPO）每股 83 美元的定价。上一期写的是期权首日交易，本期新增的是普通股跌破发行价。\n\n报道提到的近 2,000 亿美元是按当时股价估算的一日市值变化规模，与公司融资额或现金流出属于不同口径。\n\n报道时间与核验：Reuters 页面标示 11:17 UTC，引用稿内盘中报价，不作收盘数字。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "持续关注 · 盘中数据",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Anthropic shares tumble below $83 IPO price, on track to lose nearly $200 billion in value",
+          "url": "https://www.reuters.com/business/anthropic-breaks-below-83-ipo-price-debut-rally-unravels-2026-11-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-ukraine",
+      "section": "reuters",
+      "category": "欧洲安全",
+      "title": "泽连斯基确认乌方袭击芬兰湾俄货轮，挪威呼吁谨慎",
+      "summary": "泽连斯基 11 月 24 日确认，乌方袭击俄罗斯货轮 Sparta II，并称袭击发生在俄罗斯水域。挪威国防部长同日表示，挪威正与乌方沟通附近海域保持稳定的需要。",
+      "fullBody": "泽连斯基 11 月 24 日确认，乌方袭击俄罗斯货轮 Sparta II，并称袭击发生在俄罗斯水域。挪威国防部长同日表示，挪威正与乌方沟通附近海域保持稳定的需要。\n\n前一期报道过货轮救援，本期新增的是乌方公开确认及挪威表态。俄方水域的说法由泽连斯基提出，报道未独立判定。\n\n报道时间与核验：Reuters 11 月 24 日。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "持续关注 · 当事方声明",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Zelenskiy confirms Ukraine hit Russian ship in Gulf of Finland, ally Norway urges caution",
+          "url": "https://www.reuters.com/world/europe/norway-says-there-is-dialogue-with-ukraine-regarding-need-stability-our-near-2026-11-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-microsoft",
+      "section": "reuters",
+      "category": "数字基础设施",
+      "title": "路透独家：微软将重大宕机预防和响应列为最高优先级",
+      "summary": "路透查阅内部备忘录后报道，微软启动内部称为 Code Red 的整改。11 月 12 至 13 日的故障曾影响政府机构、交易公司和航空通信。",
+      "fullBody": "路透查阅内部备忘录后报道，微软启动内部称为 Code Red 的整改。11 月 12 至 13 日的故障曾影响政府机构、交易公司和航空通信。\n\n新增的是内部整改与响应目标。备忘录把未来全球恢复目标定为一小时内。微软称此前故障与网络攻击或 AI 智能体无关。整改成效仍要看后续演练与真实故障表现。\n\n报道时间与核验：Reuters 16:11 UTC，基于内部备忘录，整改目标与完成状态区分。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "独家 · 内部文件",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Microsoft declares Code Red after historic outage, internal memos show",
+          "url": "https://www.reuters.com/business/microsoft-declares-code-red-after-historic-outage-internal-memos-show-2026-11-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-cuba",
+      "section": "reuters",
+      "category": "拉美与公共卫生",
+      "title": "世卫组织呼吁美国解除对古巴的燃料封锁",
+      "summary": "世卫组织总干事谭德塞 11 月 24 日呼吁美国解除燃料限制，并警告停电和物资短缺危及医疗服务。他在访问期间表示，世卫将提供 200 万美元以支持免疫项目和基本医疗设备。",
+      "fullBody": "世卫组织总干事谭德塞 11 月 24 日呼吁美国解除燃料限制，并警告停电和物资短缺危及医疗服务。他在访问期间表示，世卫将提供 200 万美元以支持免疫项目和基本医疗设备。\n\n古巴政府把长期停电和药品短缺归因于美方制裁。美国表示食品和药品出口有法律豁免。豁免是否能减轻供电和运输瓶颈，要看实际燃料与医疗物资通行。\n\n报道时间与核验：Reuters 19:26 UTC。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "官方表态",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜WHO chief calls on US to lift oil blockade on Cuba, citing health impact",
+          "url": "https://www.reuters.com/legal/government/who-chief-calls-us-lift-oil-blockade-cuba-citing-health-impact-2026-11-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-confidence",
+      "section": "reuters",
+      "category": "美国宏观",
+      "title": "美国消费者信心指数由 91.9 升至 103.3",
+      "summary": "美国经济咨商会公布，11 月消费者信心指数升至 103.3，为 2025 年 1 月以来最高。认为工作机会充足的人增多，一年通胀预期中值降至 4.5%，仍处较高水平。",
+      "fullBody": "美国经济咨商会公布，11 月消费者信心指数升至 103.3，为 2025 年 1 月以来最高。认为工作机会充足的人增多，一年通胀预期中值降至 4.5%，仍处较高水平。\n\n这是对家庭预期的调查。假日消费是否同步转强，仍要看之后的零售和实际消费数据。\n\n报道时间与核验：Reuters 15:23 UTC；经济咨商会同日发布。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "调查数据",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜US consumer confidence jumps to highest level in nearly two years",
+          "url": "https://www.reuters.com/world/us/us-consumer-confidence-surges-highest-level-nearly-two-years-2026-11-24/"
+        },
+        {
+          "label": "The Conference Board｜调查数据",
+          "url": "https://www.conference-board.org/topics/consumer-confidence/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-iraq",
+      "section": "reuters",
+      "category": "中东与石油",
+      "title": "伊拉克总理要求联邦接管四省部分油田管理，库区反对",
+      "summary": "伊拉克总理扎伊迪宣布，联邦机构将管理库尔德方面控制的四个省份的油田，库区领导人反对。路透称命令与巴格达打击涉嫌石油走私的行动有关。",
+      "fullBody": "伊拉克总理扎伊迪宣布，联邦机构将管理库尔德方面控制的四个省份的油田，库区领导人反对。路透称命令与巴格达打击涉嫌石油走私的行动有关。\n\n争议关系到石油收入由谁管理。实际控制是否转移，以及是否影响出口，仍取决于命令如何执行和双方后续谈判。\n\n报道时间与核验：Reuters 08:11 UTC。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "政府命令 · 执行待核",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Iraqi PM cracks down on Kurds’ control of oilfields, Kurds reject risky move",
+          "url": "https://www.reuters.com/world/middle-east/iraqi-pm-orders-takeover-kurdistan-regions-border-crossings-after-oil-smuggling-2026-11-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-cobalt",
+      "section": "reuters",
+      "category": "非洲与矿产",
+      "title": "刚果（金）钴出口暂停安排发酵，中国钴期货升至三个月高位",
+      "summary": "刚果（金）监管方此前表示，自 11 月 30 日起暂停钴出口，以应对供应过剩等问题。路透 11 月 24 日报道，中国钴期货升至三个多月高位。",
+      "fullBody": "刚果（金）监管方此前表示，自 11 月 30 日起暂停钴出口，以应对供应过剩等问题。路透 11 月 24 日报道，中国钴期货升至三个多月高位。\n\n出口安排首报在本期窗口之前。新增的是中国市场的反应。下游采购是否受影响取决于暂停时长、在途货物和可用库存。\n\n报道时间与核验：Reuters 11 月 24 日市场稿经 Kitco 署名转载；11 月 23 日监管决定报道只作背景。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "持续关注 · 市场反应",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜China cobalt prices surge to three-month high as Congo bans exports（署名转载）",
+          "url": "https://www.kitco.com/news/off-the-wire/2026-11-24/china-cobalt-prices-surge-three-month-high-congo-bans-exports"
+        },
+        {
+          "label": "Reuters｜Congo halts cobalt exports again to tackle oversupply, support prices, industry regulator says",
+          "url": "https://www.reuters.com/world/africa/congo-halts-cobalt-exports-again-tackle-oversupply-support-prices-industry-2026-11-23/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-citadel",
+      "section": "bloomberg",
+      "category": "金融交易",
+      "title": "彭博称 Citadel Securities 前九个月净交易收入已超过上年全年纪录",
+      "summary": "彭博报道，这家做市商 2026 年前九个月净交易收入逾 150 亿美元，超过其 2025 年全年纪录。做市商持续提供买卖报价，在交易中的收入来源与资产管理公司的收费模式不同。",
+      "fullBody": "彭博报道，这家做市商 2026 年前九个月净交易收入逾 150 亿美元，超过其 2025 年全年纪录。做市商持续提供买卖报价，在交易中的收入来源与资产管理公司的收费模式不同。\n\n数字来自彭博及公开转述，未以公司财报独立核实。可观察全年数据以及成交活动降温后收入能否维持。\n\n报道时间与核验：11 月 24 日，彭博官网标题及 Investing.com 转述。",
+      "why": "",
+      "source": "Bloomberg",
+      "tag": "首页报道 · 公开转述",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Bloomberg｜Citadel Securities Trading Revenue Already Tops Full-Year Record（访问受限）",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/citadel-securities-trading-revenue-already-tops-full-year-record"
+        },
+        {
+          "label": "Investing.com｜公开转述",
+          "url": "https://ng.investing.com/news/stock-market-news/citadel-securities-tops-2025-revenue-record-in-9-months-2827452"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-pension",
+      "section": "bloomberg",
+      "category": "养老金与私募",
+      "title": "彭博称纽约州退休基金考虑打包部分私募基金权益融资",
+      "summary": "彭博报道，纽约州公共退休基金考虑把包括 Blue Owl 和 Blackstone 在内的基金权益打包。公开摘要显示，方案涉及以基金权益支持融资。",
+      "fullBody": "彭博报道，纽约州公共退休基金考虑把包括 Blue Owl 和 Blackstone 在内的基金权益打包。公开摘要显示，方案涉及以基金权益支持融资。\n\n这种安排可以在相关基金尚未退出投资时提前获得流动性，也会把底层资产估值和分配时间传导到融资工具。未核到最终定价或交割。\n\n报道时间与核验：Bloomberg Law 15:38 UTC，未按正式交易写入。",
+      "why": "",
+      "source": "Bloomberg",
+      "tag": "公开摘要 · 方案待定",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Bloomberg｜Blue Owl, Blackstone Fund Stakes Bundled by Pension in Rare Deal（公开摘要）",
+          "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/blue-owl-blackstone-fund-stakes-bundled-by-pension-in-rare-deal"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-hp",
+      "section": "bloomberg",
+      "category": "科技财报",
+      "title": "惠普预计下一财年调整后每股盈利为 3.15 至 3.45 美元",
+      "summary": "惠普公司（HP Inc.）公布第四财季业绩及下一财年指引，预计调整后每股盈利为 3.15 至 3.45 美元。彭博把这份利润展望与内存成本联系起来。",
+      "fullBody": "惠普公司（HP Inc.）公布第四财季业绩及下一财年指引，预计调整后每股盈利为 3.15 至 3.45 美元。彭博把这份利润展望与内存成本联系起来。\n\n调整后口径排除部分费用。指引是企业预测，内存成本能否转嫁以及电脑销量，是理解盈利区间的两个变量。\n\n报道时间与核验：Bloomberg Law 21:21 UTC，惠普同日公告。",
+      "why": "",
+      "source": "Bloomberg",
+      "tag": "公司财报 · 盈利指引",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Bloomberg｜HP Gives Profit Forecast Signaling Better Handle on Memory Costs（公开摘要）",
+          "url": "https://news.bloomberglaw.com/international-trade/hp-gives-profit-forecast-signaling-better-handle-on-memory-costs"
+        },
+        {
+          "label": "惠普｜第四财季公告",
+          "url": "https://www.hp.com/us-en/newsroom/press-releases/2026/hp-inc-reports-fiscal-2026-full-year-and-fourth-quarter-results.html"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-netflix",
+      "section": "bloomberg",
+      "category": "媒体与地产",
+      "title": "Netflix 宣布购入洛杉矶 Radford 制片园区",
+      "summary": "Netflix 11 月 24 日确认购入 Radford Studio Center，该园区曾用于制作《宋飞正传》。彭博把这笔交易放在高盛收回抵押物的背景下报道。",
+      "fullBody": "Netflix 11 月 24 日确认购入 Radford Studio Center，该园区曾用于制作《宋飞正传》。彭博把这笔交易放在高盛收回抵押物的背景下报道。\n\nNetflix 公告未披露价格，《洛杉矶时报》报道约 3.8 亿美元。该资产为 Netflix 提供自有拍摄场地，后续看改造和使用安排。\n\n报道时间与核验：11 月 24 日，彭博官网标题、公司公告及《洛杉矶时报》交叉核对。",
+      "why": "",
+      "source": "Bloomberg",
+      "tag": "公司确认 · 媒体报道对价",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Bloomberg｜Netflix Buys Seinfeld Studio Lot After Goldman Forecloses（访问受限）",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/netflix-buys-seinfeld-la-studio-lot-after-goldman-forecloses"
+        },
+        {
+          "label": "Netflix 公告",
+          "url": "https://about.netflix.com/en/news/netflix-purchases-radford-studio-center"
+        },
+        {
+          "label": "Los Angeles Times｜交易金额",
+          "url": "https://www.latimes.com/entertainment-arts/business/story/2026-11-24/netflix-to-buy-radford-studio-center-in-380-million-deal"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-tides",
+      "section": "bloomberg",
+      "category": "气候与城市",
+      "title": "旧金山湾区面临连续高潮位与沿岸积水风险",
+      "summary": "彭博报道，旧金山湾区接下来数天高潮位预计偏高，厄尔尼诺可能加重潮位异常。美国国家气象局湾区预报及当地媒体均提示低洼沿岸存在洪涝风险。",
+      "fullBody": "彭博报道，旧金山湾区接下来数天高潮位预计偏高，厄尔尼诺可能加重潮位异常。美国国家气象局湾区预报及当地媒体均提示低洼沿岸存在洪涝风险。\n\n预测水位和实测灾情应分开。后续看验潮站读数和道路、机场等设施实际受影响情况。\n\n报道时间与核验：11 月 24 日，彭博官网摘要及 NWS 湾区预报。",
+      "why": "",
+      "source": "Bloomberg",
+      "tag": "天气预报 · 官方交叉核对",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Bloomberg｜San Francisco Faces Onslaught of Tidal Floods Juiced by El Niño（访问受限）",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-24/san-francisco-faces-onslaught-of-tidal-floods-juiced-by-el-nino"
+        },
+        {
+          "label": "美国国家气象局｜湾区预报",
+          "url": "https://forecast.weather.gov/product.php?format=TXT&glossary=0&highlight=off&issuedby=MTR&product=AFD&site=NWS&version=1"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-gaza",
+      "section": "brief",
+      "category": "中东安全",
+      "title": "哈马斯消息人士称加沙一名高级安全官员在空袭中死亡",
+      "summary": "路透援引哈马斯方面消息人士称，纳伊姆·阿布·纳赫勒在 11 月 24 日的以色列空袭中死亡。消息归属为哈马斯方面，未作独立确认。",
+      "fullBody": "路透援引哈马斯方面消息人士称，纳伊姆·阿布·纳赫勒在 11 月 24 日的以色列空袭中死亡。消息归属为哈马斯方面，未作独立确认。\n\n报道时间与核验：Reuters 11 月 24 日。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "当事方消息",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Israeli airstrike kills senior Hamas security official in Gaza, Hamas sources say",
+          "url": "https://www.reuters.com/world/middle-east/israeli-airstrike-kills-senior-hamas-security-official-gaza-hamas-sources-say-2026-11-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-faa",
+      "section": "brief",
+      "category": "美国航空",
+      "title": "美国议员要求联邦航空局解释全国推广 AI 工具的决定",
+      "summary": "议员要求 FAA 说明安全验证和推广依据。FAA 已在华盛顿地区试用用于航班管理的预测工具，并表示将直接回复议员。",
+      "fullBody": "议员要求 FAA 说明安全验证和推广依据。FAA 已在华盛顿地区试用用于航班管理的预测工具，并表示将直接回复议员。\n\n报道时间与核验：Reuters 16:07 UTC。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "国会问询",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜US lawmakers raise alarm at FAA decision to deploy aviation AI tool nationally",
+          "url": "https://www.reuters.com/legal/government/us-lawmakers-raise-alarm-faa-decision-deploy-aviation-ai-tool-nationally-2026-11-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-vw",
+      "section": "brief",
+      "category": "欧洲劳工",
+      "title": "大众汽车首轮薪资谈判后面临罢工预警",
+      "summary": "大众提出冻结工资两年并延长工时，工会称工人最快可能自 1 月 1 日起罢工。谈判仍在进行。",
+      "fullBody": "大众提出冻结工资两年并延长工时，工会称工人最快可能自 1 月 1 日起罢工。谈判仍在进行。\n\n报道时间与核验：Reuters 页面标示 05:32 UTC。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "谈判进展",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Coffin-carrying Volkswagen workers threaten strikes after first wage talks",
+          "url": "https://www.reuters.com/business/world-at-work/volkswagen-confronts-union-over-costs-face-strike-threat-2026-11-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-colombia",
+      "section": "brief",
+      "category": "拉美治安",
+      "title": "哥伦比亚卡塔赫纳发生人质事件，机场曾短暂停止降落",
+      "summary": "哥伦比亚总统称当地一起运钞车抢劫未遂演变为超市人质事件，最初 30 人中已释放 5 人。机场曾暂停降落约 45 分钟。其余人员的最终情况仍待更新。",
+      "fullBody": "哥伦比亚总统称当地一起运钞车抢劫未遂演变为超市人质事件，最初 30 人中已释放 5 人。机场曾暂停降落约 45 分钟。其余人员的最终情况仍待更新。\n\n报道时间与核验：Reuters 16:59 UTC。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "官方通报",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Reuters｜Hostages held in Cartagena, Colombia, supermarket after failed armored car hijacking",
+          "url": "https://www.reuters.com/world/americas/colombias-cartagena-airport-briefly-suspends-landings-due-security-incident-2026-11-24/"
+        }
+      ]
+    },
+    {
+      "id": "2026-11-25-workday",
+      "section": "brief",
+      "category": "软件财报",
+      "title": "Workday 第三财季营收 27.05 亿美元，同比增 11.2%",
+      "summary": "截至 10 月 31 日的季度中，订阅收入达 25.32 亿美元，同比增 12.8%。公司把全年订阅营收指引上调至 99.58 亿美元。",
+      "fullBody": "截至 10 月 31 日的季度中，订阅收入达 25.32 亿美元，同比增 12.8%。公司把全年订阅营收指引上调至 99.58 亿美元。\n\n报道时间与核验：11 月 24 日，公司公告。",
+      "why": "",
+      "source": "公司公告",
+      "tag": "盘后财报",
+      "date": "2026-11-24",
+      "links": [
+        {
+          "label": "Workday｜Fiscal 2027 Third Quarter Financial Results",
+          "url": "https://newsroom.workday.com/2026-11-24-Workday-Announces-Fiscal-2027-Third-Quarter-Financial-Results"
+        }
+      ]
+    }
+  ],
+  "trends": [
+    {
+      "title": "AI 设备销售强劲，相关股票仍在消化估值和治理风险",
+      "body": "戴尔盘后上调 AI 服务器营收指引，惠普则给出受到内存成本影响的盈利展望。同期纳指回落，Anthropic 盘中跌破发行价。设备订单、供应商利润和股票估值对同一轮技术投资的反应可以不同。",
+      "watch": "服务器订单兑现率、内存成本、硬件毛利率及科技股涨跌覆盖范围。"
+    },
+    {
+      "title": "跨境企业仍需管理两类政策风险：商品关税与银行合规",
+      "body": "两家媒体披露美国拟推新关税，华为案则在联邦法院作出陪审团裁决。关税影响跨境货物的到岸价格，银行和制裁合规影响交易能否获得金融服务。两类新闻涉及不同法律程序，但都可能改变企业的供应链与交易安排。",
+      "watch": "美国贸易代表办公室官方税则、适用商品和生效时间，以及华为案量刑与上诉。"
+    },
+    {
+      "title": "原材料的可交付性可以比短期总供应变化更快影响价格",
+      "body": "霍尔木兹再报商船遇袭后，原油结算反弹。刚果（金）钴出口暂停计划引发中国钴期货上涨。两者的触发原因不同，都会使买方重新衡量在途货物、库存和未来交付。",
+      "watch": "实际货运及保险变化、钴出口暂停时长、下游库存和 OPEC+ 会议。"
+    }
+  ],
+  "coverageChecklist": [
+    [
+      "Reuters 官网",
+      "截稿后复查可见首页，覆盖华为、英伟达、收盘、Anthropic、赛诺菲及微软等报道。"
+    ],
+    [
+      "Bloomberg 官网",
+      "核对可见首页、Latest 及商业版块：英伟达、华为、市场、关税、戴尔与惠普已纳入。部分正文访问受限，注明对应核查依据。"
+    ],
+    [
+      "资本市场与政策",
+      "检查 IPO、并购、盘后财报、贸易和宏观数据。未找到需要单列的已确认新增重大 IPO，Anthropic 仅写盘中价格新变化。"
+    ],
+    [
+      "地域与主题",
+      "覆盖美国、中国、欧洲、俄乌、中东、非洲、拉美、亚洲其他地区，纳入太空、气候、公共卫生、航运与矿产；未对所有地区或行业逐一穷尽。"
+    ],
+    [
+      "跨期去重",
+      "逐条比对上期 22 条及趋势，省略黄仁勋回任、前日收盘、慧与首份财报及上期公开调查等已发事实，延续事项突出新增证明或数据。"
+    ]
+  ],
+  "disclaimer": "本刊为独立中文新闻简报。收盘、盘中快照、官方公告、匿名消息及预测按不同证据状态标注。",
+  "editorNote": "共收录 25 条，含头条 7 条、快讯 5 条。Reuters 涉及 19 条，Bloomberg 涉及 10 条，联合来源分别计入。部分媒体未给出可独立确认的精确更新时间。"
+}
