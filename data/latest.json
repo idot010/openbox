@@ -1,699 +1,689 @@
 {
   "schemaVersion": 1,
-  "date": "2026-11-27",
-  "dateLabel": "2026年11月27日 · 星期五",
-  "issue": "VOL. 009",
-  "edition": "第 009 期",
-  "coverage": "纽约 11 月 25 日 17:30 至 26 日 17:30（EST） · 北京 11 月 26 日 06:30 至 27 日 06:30",
-  "updatedAt": "2026-11-27T06:30:00+08:00",
-  "headline": "全球每日新闻简报｜2026年11月27日",
-  "dek": "欧元区国家选定德科斯接任欧洲央行行长，基辅遇袭后乌方发出新预警。贸易伙伴回应美国拟议关税，巴航工业准备游说。跨境并购方面，奥驰亚研究收购英国帝国品牌，意大利裕信银行通过取得德国商业银行控制权的最后一项监管审批。美国感恩节风暴已造成大范围停电和航班中断。",
+  "date": "2026-11-28",
+  "dateLabel": "2026年11月28日 · 星期六",
+  "issue": "VOL. 010",
+  "edition": "第 010 期",
+  "coverage": "纽约 11 月 26 日 17:30 至 27 日 17:30（EST） · 北京 11 月 27 日 06:30 至 28 日 06:30",
+  "updatedAt": "2026-11-28T06:30:00+08:00",
+  "headline": "全球每日新闻简报｜2026年11月28日",
+  "dek": "美国 10 月货物贸易逆差扩大至 1,495 亿美元，美股黑色星期五提前收盘并显著反弹。路透披露美方此前曾推动两国考虑退出欧佩克，同时报道美军在阿曼湾拦截商船。联合国将粮食危机热点增至 16 处。Norse Atlantic 主营挪威子公司因筹资失败启动破产申请。",
   "spotlight": [
     [
-      "2027 年 2 月 7 日",
-      "拉加德预定离任日"
+      "1,495 亿美元",
+      "美国 10 月货物贸易逆差"
     ],
     [
-      "96.57 美元／桶",
-      "布伦特原油结算价"
+      "16 处",
+      "联合国粮食危机预警热点"
     ],
     [
-      "逾 83.6 万",
-      "美国无电用电客户快照"
+      "+2.31%",
+      "纳综指提前收盘涨幅"
     ]
   ],
   "stories": [
     {
-      "id": "2026-11-27-ecb",
+      "id": "2026-11-28-trade",
       "section": "top",
-      "category": "央行",
-      "title": "欧元区选定德科斯接任欧洲央行行长，仍待最终确认",
-      "summary": "欧元区国家 11 月 26 日选定西班牙前央行行长巴勃罗·埃尔南德斯·德科斯接任欧洲央行行长。现任行长拉加德将于 2027 年 2 月 7 日提前离任。路透报道称，德科斯如获最终确认，将主持次年 3 月 18 日的议息会议。",
-      "fullBody": "欧元区国家 11 月 26 日选定西班牙前央行行长巴勃罗·埃尔南德斯·德科斯接任欧洲央行行长。现任行长拉加德将于 2027 年 2 月 7 日提前离任。路透报道称，德科斯如获最终确认，将主持次年 3 月 18 日的议息会议。\n\n德科斯目前担任国际清算银行总经理。国际清算银行是各国央行协作并开展金融研究的机构。荷兰当天转而支持他，为提名扫清了一道障碍。法国的洛朗丝·布恩和德国的马库斯·布伦纳迈尔也获提名进入欧洲央行执行委员会。\n\n新班子将面对通胀与融资成本的双重压力。路透报道，欧元区通胀在其报道时约为 4%，达到央行目标的两倍。同日公布的 10 月会议纪要显示，不少决策者当时已愿意支持加息。接班仍要经过审议，重要任命预计在 12 月峰会上最终确认。\n\n新闻分析\n\n欧洲央行换帅之际，通胀已经成为新班子首先要处理的问题。\n\n报道时间与核验　11 月 26 日 Reuters 页面 14:14 UTC。Bloomberg 官网头条和 AP 同日交叉核对，纪要见另稿。",
+      "category": "美国经济",
+      "title": "美国 10 月货物贸易逆差扩大至 1,495 亿美元，进口创纪录",
+      "summary": "美国人口普查局 11 月 27 日公布初值，10 月货物贸易逆差较 9 月增加 144 亿美元，扩大 10.7% 至 1,495 亿美元。货物进口增长 6.1% 至 3,653 亿美元，创这项序列自 1992 年以来的最高纪录。出口增长 3.2% 至 2,158 亿美元。",
+      "fullBody": "美国人口普查局 11 月 27 日公布初值，10 月货物贸易逆差较 9 月增加 144 亿美元，扩大 10.7% 至 1,495 亿美元。货物进口增长 6.1% 至 3,653 亿美元，创这项序列自 1992 年以来的最高纪录。出口增长 3.2% 至 2,158 亿美元。\n\n货物贸易逆差是货物进口额减去出口额，对应的是实物商品，服务贸易另行统计。路透报道，进口增加主要由资本品推动，该类商品进口按月增 8.5%。资本品包括厂商用于生产的设备，路透指出人工智能相关设备需求是增长背景之一。\n\n数据反映的是 10 月，因此早于本周新一轮关税提案。美国统计 GDP 时会扣除已计入国内支出但在海外生产的进口，一项货物初值只能提供线索。后续还须看完整贸易报告和四季度其他支出。\n\n新闻分析\n\n企业设备进口增长，是本次货物逆差扩大的一个直接因素。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 13:44 UTC，人口普查局 13:30 UTC 初值交叉核对。",
       "why": "",
-      "source": "Reuters · Bloomberg",
+      "source": "Reuters",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Spain's De Cos to take over as ECB president from Lagarde",
-          "url": "https://www.reuters.com/world/europe/spains-de-cos-set-be-nominated-by-eu-leaders-new-head-ecb-2026-11-26/"
+          "url": "https://www.reuters.com/business/us-goods-trade-deficit-widens-sharply-october-2026-11-27/",
+          "label": "Reuters｜US goods trade deficit deteriorates further as AI helps to lift imports to record high"
         },
         {
-          "label": "Bloomberg｜De Cos Gets Leaders’ Nod for ECB Presidency in Post-Lagarde Era（官网摘要）",
-          "url": "https://www.bloomberg.com/"
-        },
-        {
-          "label": "AP｜领导人选定欧洲央行接班人",
-          "url": "https://apnews.com/article/d308b6cfbe6399b131255f2a678b10e4"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-ukraine",
-      "section": "top",
-      "category": "俄乌与外交",
-      "title": "基辅夜间遭袭，乌方警告可能再有打击，美方与北约呼吁避免扩大冲突",
-      "summary": "11 月 26 日，基辅市长克利奇科说，当地遭遇夜间导弹袭击，七人受伤，一处购物中心及另外两栋建筑受损。俄方说袭击针对无人机相关设施。泽连斯基当天晚间称，乌方掌握俄方正在准备新一轮大规模袭击的信息。袭击预警来自乌方，所指的后续行动仍待核实。",
-      "fullBody": "11 月 26 日，基辅市长克利奇科说，当地遭遇夜间导弹袭击，七人受伤，一处购物中心及另外两栋建筑受损。俄方说袭击针对无人机相关设施。泽连斯基当天晚间称，乌方掌握俄方正在准备新一轮大规模袭击的信息。袭击预警来自乌方，所指的后续行动仍待核实。\n\n外交上，美国总统特朗普和北约秘书长吕特在佛罗里达会面后发表联合声明，呼吁俄罗斯避免有意或无意扩大乌克兰战争。北约是跨大西洋集体防务联盟。声明是外交表态，未公布新的停火安排。特朗普 26 日还公开称，自己上周已向普京提出希望俄方收缩在欧洲的军事行动。\n\n本期新增的是基辅受袭情况、乌方预警及联合声明。民用建筑受损的细节来自基辅市长，俄方对打击目标有不同表述。后续可看地方伤亡通报、双方是否就停火机制提出具体安排。\n\n新闻分析\n\n外交呼吁能否缓和冲突，取决于后续是否出现可执行的安排。\n\n报道时间与核验　11 月 26 日 Reuters 页面分别标示 20:36、04:20 和 15:47 UTC。联合声明内容与交战方各自说法分别标明。",
-      "why": "",
-      "source": "Reuters",
-      "tag": "持续关注",
-      "date": "2026-11-26",
-      "links": [
-        {
-          "label": "Reuters｜Zelenskiy says Russia preparing new mass strike in coming days",
-          "url": "https://www.reuters.com/world/zelenskiy-says-russia-preparing-new-mass-strike-coming-days-2026-11-26/"
-        },
-        {
-          "label": "Reuters｜Trump and NATO chief urge Russia to avoid actions that widen Ukraine war",
-          "url": "https://www.reuters.com/world/china/trump-nato-chief-urge-russia-avoid-actions-that-widen-ukraine-war-2026-11-26/"
-        },
-        {
-          "label": "Reuters｜Trump says he asked Putin to pull back military aggression throughout Europe",
-          "url": "https://www.reuters.com/world/europe/trump-says-hed-like-see-putin-pull-back-military-aggression-europe-2026-11-26/"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-hormuz",
-      "section": "top",
-      "category": "能源与航运",
-      "title": "伊朗称两艘油轮在霍尔木兹附近触雷，布伦特结算升至 96.57 美元",
-      "summary": "伊朗革命卫队 11 月 26 日称，两艘油轮在阿曼海塞卜港以北试图通过霍尔木兹海峡时触雷并起火，其中一艘据称载有超过 200 万桶原油。该说法经伊朗半官方媒体发布，船舶身份、事故细节和实际损失仍待独立确认。",
-      "fullBody": "伊朗革命卫队 11 月 26 日称，两艘油轮在阿曼海塞卜港以北试图通过霍尔木兹海峡时触雷并起火，其中一艘据称载有超过 200 万桶原油。该说法经伊朗半官方媒体发布，船舶身份、事故细节和实际损失仍待独立确认。\n\n霍尔木兹海峡是波斯湾原油出口的重要通道。船东和保险商如果认为通过海峡的风险升高，可能提高运费或保费，个别航次也可能推迟。本期新增的是伊方有关两艘油轮的声明及当天价格变化。上一期沙特炼油厂遇袭的说法只作背景。\n\n布伦特原油期货当天结算价为每桶 96.57 美元，较上一交易日结算价高 1.96 美元。美国西得克萨斯中质原油期货在纽约 13:21 报 84.84 美元，感恩节当天没有正式结算。后续可用船舶通报、实际装运与海峡通航量判断供应影响。\n\n新闻分析\n\n海运风险是否已造成供应收缩，要看实际通过海峡的原油量。\n\n报道时间与核验　11 月 26 日 Reuters 伊方声明稿页面 11:05 UTC，油市滚动稿页面 03:08 UTC，采用当日结算更新。布伦特涨幅仅列可对照的美元差额。",
-      "why": "",
-      "source": "Reuters",
-      "tag": "持续关注",
-      "date": "2026-11-26",
-      "links": [
-        {
-          "label": "Reuters｜Iran’s Revolutionary Guards say two oil tankers hit sea mines near Oman’s Khasab",
-          "url": "https://www.reuters.com/world/middle-east/irans-revolutionary-guards-say-two-oil-tankers-hit-sea-mines-near-omans-khasab-2026-11-26/"
-        },
-        {
-          "label": "Reuters｜Brent settles higher as mine strikes, refinery attack stoke Middle East supply concerns",
-          "url": "https://www.reuters.com/business/energy/oil-rises-supply-concerns-iran-claims-mine-strikes-ships-2026-11-26/"
+          "url": "https://www.census.gov/econ/indicators/2026/advance_report2610.pdf",
+          "label": "美国人口普查局｜Advance Economic Indicators Report: October 2026"
         }
       ],
       "stats": [
         [
-          "96.57 美元／桶",
-          "布伦特期货结算价"
+          "1,495 亿美元",
+          "美国 10 月货物贸易逆差"
         ]
       ]
     },
     {
-      "id": "2026-11-27-tariffs",
+      "id": "2026-11-28-opec",
       "section": "top",
-      "category": "贸易",
-      "title": "中国保留反制权，巴航工业就美国飞机关税提案准备游说",
-      "summary": "美国公布针对 14 个贸易伙伴的制造业关税提案后，中国 11 月 26 日表示保留采取必要措施的权利，新加坡呼吁美方重新考虑。彭博梳理了贸易伙伴抗议和寻求谈判的反应。对巴西飞机的 10% 拟议关税属于另一起调查，巴西航空工业公司同日公开反对并准备游说。",
-      "fullBody": "美国公布针对 14 个贸易伙伴的制造业关税提案后，中国 11 月 26 日表示保留采取必要措施的权利，新加坡呼吁美方重新考虑。彭博梳理了贸易伙伴抗议和寻求谈判的反应。对巴西飞机的 10% 拟议关税属于另一起调查，巴西航空工业公司同日公开反对并准备游说。\n\n巴航工业首席执行官表示，美国客户购买约半数该公司的商用飞机。按他的说法，在美国广泛使用的 E175 支线客机有逾 40% 的内容来自美国供应商。成品飞机的进口成本若上升，影响可能沿着采购合同传到美国航司，并反过来影响零部件供应商。\n\n新关税仍处提案阶段，机票上涨是巴航工业对可能成本变化的判断。公司表示，预计 2026 年交付计划不受影响，因为最终决定预计要到次年。\n\n新闻分析\n\n巴航工业的案例显示，对进口整机加税也可能波及美国供应商。\n\n报道时间与核验　11 月 26 日 Reuters 巴航工业稿页面 14:15 UTC，市场滚动稿采用当天更新，Bloomberg Law 摘要 07:02 UTC。",
+      "category": "石油供应",
+      "title": "路透独家称美方曾推动委内瑞拉和伊拉克考虑退出欧佩克",
+      "summary": "路透 11 月 27 日引述知情人士报道，美方今年曾敦促委内瑞拉和伊拉克考虑退出石油输出国组织，也就是欧佩克。消息人士说，沙特王储今年夏天介入后，美方没有继续向委内瑞拉施压。伊拉克方面，知情人士称总理曾讨论退会，但石油部门主张留在组织内并争取更高配额。",
+      "fullBody": "路透 11 月 27 日引述知情人士报道，美方今年曾敦促委内瑞拉和伊拉克考虑退出石油输出国组织，也就是欧佩克。消息人士说，沙特王储今年夏天介入后，美方没有继续向委内瑞拉施压。伊拉克方面，知情人士称总理曾讨论退会，但石油部门主张留在组织内并争取更高配额。\n\n欧佩克通过协调成员产量影响全球供应。产量配额是成员被允许生产的目标额度，退出会改变该国与组织协调产量的方式。消息人士把美方接触与美国企业可能在两国投资扩产联系起来。\n\n美国国务院官员说，委内瑞拉退会并非高层提出的议题，与伊拉克的会谈重点是能源基础设施。此次新增的是对往昔接触的独家报道，双方均无已退出的公告。\n\n新闻分析\n\n眼下更能影响石油供应的是伊拉克能否争取到更高产量配额。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 06:02 UTC，历史接触依据匿名消息，并列美国国务院回应。",
       "why": "",
-      "source": "Reuters · Bloomberg",
-      "tag": "持续关注",
-      "date": "2026-11-26",
-      "links": [
-        {
-          "label": "Reuters｜Brazil’s Embraer criticizes new US tariffs, warns of air travel inflation",
-          "url": "https://www.reuters.com/business/aerospace-defense/brazils-embraer-ceo-says-us-aircraft-tariff-will-hurt-airlines-2026-11-26/"
-        },
-        {
-          "label": "Reuters｜Stocks rally, Europe sizes up next ECB chief",
-          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-26/"
-        },
-        {
-          "label": "Bloomberg｜US Partners Respond to Tariffs With Anger, Protest and Diplomacy",
-          "url": "https://news.bloomberglaw.com/daily-tax-report/us-partners-respond-to-tariffs-with-anger-protest-and-diplomacy"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-imperial",
-      "section": "top",
-      "category": "并购",
-      "title": "奥驰亚研究全现金收购帝国品牌，后者股价收涨 13.8%",
-      "summary": "美国烟草集团奥驰亚 11 月 26 日确认，正研究以现金收购英国烟草集团帝国品牌，也与另一方讨论涉及帝国品牌部分业务的安排。彭博援引消息称，日本烟草在评估参与交易及拆分资产的可能。帝国品牌称，尚未收到奥驰亚或第三方接洽。",
-      "fullBody": "美国烟草集团奥驰亚 11 月 26 日确认，正研究以现金收购英国烟草集团帝国品牌，也与另一方讨论涉及帝国品牌部分业务的安排。彭博援引消息称，日本烟草在评估参与交易及拆分资产的可能。帝国品牌称，尚未收到奥驰亚或第三方接洽。\n\n奥驰亚经营美国万宝路业务，帝国品牌拥有跨国烟草业务。潜在拆分意味着不同买家可能分别获得某些市场或业务，实际结构仍未确定。帝国品牌盘中最多涨 17.6%，收涨 13.8%，收盘市值约 259 亿英镑。市值是股价乘以总股数，可随交易变化，正式收购价要等报价公布。\n\n按英国收购规则，路透报道奥驰亚须在 12 月 24 日前宣布正式报价或退出。若有方案，仍需看报价条件、哪些资产将被纳入及竞争监管审查。\n\n新闻分析\n\n股价已反映收购预期，下一步要看奥驰亚是否按期报价。\n\n报道时间与核验　11 月 26 日 Reuters 页面 12:42 UTC，采用稿内收盘数据。Bloomberg Law 索引 17:34 UTC。奥驰亚及标的公司说法可核，日本烟草部分来自彭博匿名消息。",
-      "why": "",
-      "source": "Reuters · Bloomberg",
+      "source": "Reuters",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜US Marlboro maker Altria explores Imperial cash bid, possible carve-up",
-          "url": "https://www.reuters.com/markets/europe/japan-tobacco-explores-potential-deal-uks-imperial-brands-bloomberg-news-reports-2026-11-26/"
-        },
-        {
-          "label": "Bloomberg｜Altria, Japan Tobacco Explore Takeover of Imperial Brands",
-          "url": "https://news.bloomberglaw.com/antitrust/altria-studies-deal-for-cigarette-maker-imperial-brands"
+          "url": "https://www.reuters.com/business/energy/us-pushed-venezuela-iraq-consider-leaving-opec-sources-say-2026-11-27/",
+          "label": "Reuters｜Exclusive: US pushed Venezuela, Iraq to consider leaving OPEC, sources say"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-unicredit",
+      "id": "2026-11-28-iran",
       "section": "top",
-      "category": "银行并购",
-      "title": "裕信获最后一项监管许可，拟更换德国商业银行九名股东代表",
-      "summary": "意大利裕信银行 11 月 26 日完成取得德国商业银行控制权所需的最后一个监管步骤，波兰金融监管机构给出许可。同日，裕信要求德国商业银行召开股东大会，拟由裕信首席执行官安德烈亚·奥尔切尔出任监事会主席。",
-      "fullBody": "意大利裕信银行 11 月 26 日完成取得德国商业银行控制权所需的最后一个监管步骤，波兰金融监管机构给出许可。同日，裕信要求德国商业银行召开股东大会，拟由裕信首席执行官安德烈亚·奥尔切尔出任监事会主席。\n\n德国商业银行说，裕信提议更换监事会十名股东代表中的九名。德式双层管理结构下，监事会监督经营管理层，并能对管理层任命发挥作用。路透报道，裕信 7 月结束约 390 亿欧元的收购要约，每份应约的德国商业银行股票对应 0.485 股裕信股票。\n\n当前新增的是最终监管许可与换人提案。完成监管步骤之后，人事安排仍需股东表决。路透引述知情人士称，表决预计在次年 1 月。\n\n新闻分析\n\n这笔收购的焦点已从监管审批转向董事会控制权。\n\n报道时间与核验　11 月 26 日 Reuters 页面 06:53 UTC，彭博官网视频与公司披露内容相互印证，表决日期来自知情人士。",
+      "category": "中东与航运",
+      "title": "美军称使驶离伊朗的商船失去动力，布伦特周涨约 3%",
+      "summary": "美军中央司令部 11 月 27 日称，一艘商船前一天离开伊朗后在阿曼湾被美方拦截并失去动力，船员未受伤。美国称船只试图绕过其对伊朗的海上封锁。伊朗最高领袖的一名顾问则称，伊方将继续限制霍尔木兹海峡通行。有关船只情况和政策表述来自双方。",
+      "fullBody": "美军中央司令部 11 月 27 日称，一艘商船前一天离开伊朗后在阿曼湾被美方拦截并失去动力，船员未受伤。美国称船只试图绕过其对伊朗的海上封锁。伊朗最高领袖的一名顾问则称，伊方将继续限制霍尔木兹海峡通行。有关船只情况和政策表述来自双方。\n\n与上期伊朗声称两艘油轮触雷的报道相比，本期新增美国对另一艘船的公开通报。路透另引述沙特能源部称，吉赞炼厂遭袭后部分运营暂时中断，一名工作人员死亡。这是不同于此前拉斯坦努拉炼厂的设施。\n\n布伦特原油期货周五结算为每桶 95.44 美元，日跌约 1.2%，全周涨约 3%。美国西得克萨斯中质原油期货报每桶 83.08 美元，较周三结算低 60 美分，因为周四感恩节没有结算。运输风险是否持续影响供应，需要看后续装运和炼厂恢复。\n\n新闻分析\n\n实际装运量比一日油价更能说明海上封锁对供应的影响。\n\n报道时间与核验　11 月 27 日 Reuters 海事稿页面 17:56 UTC，油市稿页面 01:55 UTC，采用收盘更新。",
       "why": "",
-      "source": "Reuters · Bloomberg",
-      "tag": "",
-      "date": "2026-11-26",
-      "links": [
-        {
-          "label": "Reuters｜UniCredit pushes for Commerzbank management shake-up with CEO Orcel as chair",
-          "url": "https://www.reuters.com/business/finance/unicredit-seeks-commerzbank-shareholder-vote-it-completes-process-take-control-2026-11-26/"
-        },
-        {
-          "label": "Bloomberg｜UniCredit Clears Final Hurdle to Take Over Commerzbank（官网视频摘要）",
-          "url": "https://www.bloomberg.com/"
-        },
-        {
-          "label": "FT｜UniCredit to propose Andrea Orcel as chair of Commerzbank",
-          "url": "https://www.ft.com/content/d10e7600-2f98-42d6-8262-19f0a57d1112"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-storm",
-      "section": "top",
-      "category": "天气与交通",
-      "title": "感恩节风暴袭击美国东部，逾 83.6 万用电户停电",
-      "summary": "美国东部 11 月 26 日遭遇感恩节风暴。截至纽约时间 16:06，路透引述停电追踪网站统计称，全美逾 83.6 万用电客户断电。弗吉尼亚、马里兰和宾夕法尼亚都受到较大影响。航班追踪网站当天下午记录 417 班涉美航班取消、约 1,800 班延误。",
-      "fullBody": "美国东部 11 月 26 日遭遇感恩节风暴。截至纽约时间 16:06，路透引述停电追踪网站统计称，全美逾 83.6 万用电客户断电。弗吉尼亚、马里兰和宾夕法尼亚都受到较大影响。航班追踪网站当天下午记录 417 班涉美航班取消、约 1,800 班延误。\n\n强风和降雨使树木及电线倒塌。美国国家气象局称，部分沿海低洼地带还出现积水，由向岸强风与特别高的潮位共同促成。纽约和华盛顿地区机场受影响较重。\n\n上一期已报道纽约梅西游行因预报改期。本期新增的是实际停电、航班中断与沿岸积水。用电客户数包含住户和企业等账户。气象部门预计强雨和强风逐渐向新英格兰移动，停电和航班数字会随抢修和调度变化。\n\n新闻分析\n\n风暴过去后，供电恢复速度仍会影响居民和机场运营。\n\n报道时间与核验　11 月 26 日 Reuters 页面 19:54 UTC，停电采用 21:06 UTC 快照。彭博 11:26 EST 稿经 Yahoo Finance 署名转载。",
-      "why": "",
-      "source": "Reuters · Bloomberg",
+      "source": "Reuters",
       "tag": "持续关注",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Thanksgiving storm knocks out power, disrupts flights on US East Coast",
-          "url": "https://www.reuters.com/business/environment/thanksgiving-storm-knocks-out-power-disrupts-flights-us-east-coast-2026-11-26/"
+          "url": "https://www.reuters.com/world/middle-east/us-disables-ship-trying-leave-iran-tehran-vows-confront-blockade-2026-11-27/",
+          "label": "Reuters｜US disables ship trying to leave Iran, as Tehran vows to confront blockade"
         },
         {
-          "label": "Bloomberg｜Thanksgiving Storm Sweeps East Coast, Delays Macy’s 100th Parade（署名转载）",
-          "url": "https://finance.yahoo.com/economy/articles/thanksgiving-storm-sweeps-east-coast-162626760.html"
+          "url": "https://www.reuters.com/business/energy/brent-trades-near-months-high-mideast-conflict-threatens-supply-2026-11-27/",
+          "label": "Reuters｜Oil notches first weekly gain in November on supply fears"
         }
       ],
       "stats": [
         [
-          "逾 83.6 万",
-          "美国无电用电客户快照"
+          "95.44 美元／桶",
+          "布伦特周五结算价"
         ]
       ]
     },
     {
-      "id": "2026-11-27-sap",
+      "id": "2026-11-28-hunger",
       "section": "top",
-      "category": "科技与就业",
-      "title": "彭博独家称 SAP 考虑削减至少 1 万个岗位",
-      "summary": "彭博 11 月 26 日援引知情人士报道，德国企业软件公司 SAP 正准备重组方案，考虑削减至少 1 万个岗位。按报道口径，规模相当于全球员工约 9% 或更多。裁减总数仍可能因劳资磋商而改变。",
-      "fullBody": "彭博 11 月 26 日援引知情人士报道，德国企业软件公司 SAP 正准备重组方案，考虑削减至少 1 万个岗位。按报道口径，规模相当于全球员工约 9% 或更多。裁减总数仍可能因劳资磋商而改变。\n\nSAP 的企业软件帮助客户管理财务、采购和人员等业务。知情人士称，重组是为了调整公司在人工智能时代的软件业务。报道没有确认裁员将在何处执行，也没有给出已确定的岗位分布和进度。\n\n要判断影响，可以继续看公司是否公布正式重组方案、职工代表谈判结果，以及 SAP 会把哪些岗位和预算转向人工智能产品。\n\n新闻分析\n\n劳资磋商将决定这项重组对就业的实际影响。\n\n报道时间与核验　11 月 26 日彭博署名转载 11:15 EST，Reuters 16:32 UTC 转述彭博。规模与动机来自彭博匿名信源。",
+      "category": "非洲与人道援助",
+      "title": "联合国将粮食危机热点从 13 处增至 16 处",
+      "summary": "联合国粮农组织和世界粮食计划署 11 月 27 日联合发布预警，预计 2026 年 12 月至 2027 年 5 月，有 16 个热点的急性粮食不安全状况可能明显恶化，6 月评估为 13 个。苏丹、南苏丹、索马里、尼日利亚北部和也门面临最严重风险。",
+      "fullBody": "联合国粮农组织和世界粮食计划署 11 月 27 日联合发布预警，预计 2026 年 12 月至 2027 年 5 月，有 16 个热点的急性粮食不安全状况可能明显恶化，6 月评估为 13 个。苏丹、南苏丹、索马里、尼日利亚北部和也门面临最严重风险。\n\n急性粮食不安全指家庭短期内无法正常取得足够食物，可能需要紧急援助。预警名单用于识别风险和分配资源。报告指出，冲突和流离失所影响粮食供应，食品、能源和运输成本上升也削弱家庭购买力。厄尔尼诺造成的天气异常使南部非洲和中美洲干旱走廊进入名单。\n\n联合国报告说，缩减的人道资金使及时预警和救援更困难。接下来可观察当地粮价和收成、援助能否到达及资金是否落实。\n\n新闻分析\n\n新增预警地区能否及时获得粮食援助，将影响风险是否演变为灾情。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 09:02 UTC，两家联合国机构同日发布报告。",
       "why": "",
-      "source": "Bloomberg · Reuters",
+      "source": "Reuters",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Bloomberg｜SAP Weighs Cutting at Least 10,000 Positions in AI Restructuring（署名转载）",
-          "url": "https://ca.finance.yahoo.com/news/sap-weighs-cutting-least-10-161548594.html"
+          "url": "https://www.reuters.com/business/environment/un-warns-famine-risks-rising-hunger-hotspots-increase-2026-11-27/",
+          "label": "Reuters｜UN warns famine risks rising as hunger hotspots increase"
         },
         {
-          "label": "Reuters｜SAP considers at least 10,000 job cuts in AI restructuring, Bloomberg reports",
-          "url": "https://www.reuters.com/technology/sap-considers-least-10000-job-cuts-ai-restructuring-bloomberg-reports-2026-11-26/"
+          "url": "https://www.wfp.org/news/el-nino-adds-new-hunger-hotspots-conflict-continues-drive-risk-famine-warn-fao-and-wfp",
+          "label": "WFP / FAO｜El Niño Adds New Hunger Hotspots"
         }
       ],
-      "stats": []
+      "stats": [
+        [
+          "16 处",
+          "预计粮食不安全恶化的热点"
+        ]
+      ]
     },
     {
-      "id": "2026-11-27-eu-budget",
-      "section": "reuters",
-      "category": "欧洲财政",
-      "title": "欧盟讨论七年预算和 450 亿欧元对乌贷款，力争 12 月达成协议",
-      "summary": "欧盟领导人 11 月 26 日在布鲁塞尔讨论 2028 至 2034 年预算。最新提案总额为 1.582 万亿欧元，包含约 1,400 亿欧元用于偿还疫情期间借款。领导人还讨论为 2027 年对乌贷款共同举债 450 亿欧元。七年预算需 27 个成员国一致同意，本次峰会未达成协议。",
-      "fullBody": "欧盟领导人 11 月 26 日在布鲁塞尔讨论 2028 至 2034 年预算。最新提案总额为 1.582 万亿欧元，包含约 1,400 亿欧元用于偿还疫情期间借款。领导人还讨论为 2027 年对乌贷款共同举债 450 亿欧元。七年预算需 27 个成员国一致同意，本次峰会未达成协议。\n\n报道时间与核验　11 月 26 日 Reuters 滚动稿页面 05:02 UTC，金额为提案口径。",
-      "why": "",
-      "source": "Reuters",
-      "tag": "",
-      "date": "2026-11-26",
-      "links": [
-        {
-          "label": "Reuters｜EU leaders wrestle to ‘Le Pen-proof’ budget and lock in Ukraine funding",
-          "url": "https://www.reuters.com/world/eu-leaders-wrestle-with-seven-year-budget-ukraine-financing-they-seek-december-2026-11-26/"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-norse",
-      "section": "reuters",
-      "category": "航空与财务",
-      "title": "Norse Atlantic 暂停航班，董事会称若筹资失败将申请破产",
-      "summary": "挪威长途廉航 Norse Atlantic 11 月 26 日表示，已暂停航班，董事会打算在紧急短期融资无法落实时申请破产。上一期报道的是融资紧张和股价大跌，本期出现了实际停飞和有条件的破产警示。公司仍与投资方接洽，截稿所引报道未确认已提交破产申请。",
-      "fullBody": "挪威长途廉航 Norse Atlantic 11 月 26 日表示，已暂停航班，董事会打算在紧急短期融资无法落实时申请破产。上一期报道的是融资紧张和股价大跌，本期出现了实际停飞和有条件的破产警示。公司仍与投资方接洽，截稿所引报道未确认已提交破产申请。\n\n报道时间与核验　11 月 26 日 Reuters 页面 08:03 UTC，停飞和筹资说明来自公司。",
-      "why": "",
-      "source": "Reuters",
-      "tag": "持续关注",
-      "date": "2026-11-26",
-      "links": [
-        {
-          "label": "Reuters｜Airline Norse Atlantic flags bankruptcy risk as flights suspended",
-          "url": "https://www.reuters.com/business/aerospace-defense/airline-norse-atlantic-suspends-flights-warns-possible-bankruptcy-2026-11-26/"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-myanmar",
-      "section": "reuters",
-      "category": "国际司法",
-      "title": "缅甸当局称不会完全执行国际法院针对罗兴亚人案的命令",
-      "summary": "缅甸军方支持的总统敏昂莱表示，当局不会遵从国际法院命令中的全部要求。这是上周法院裁定缅甸安全部队对罗兴亚人实施种族灭绝后，他首次作出公开回应。国际法院审理国家间争端，命令要求缅甸在两年内报告已采取措施，包括拟议赔偿。",
-      "fullBody": "缅甸军方支持的总统敏昂莱表示，当局不会遵从国际法院命令中的全部要求。这是上周法院裁定缅甸安全部队对罗兴亚人实施种族灭绝后，他首次作出公开回应。国际法院审理国家间争端，命令要求缅甸在两年内报告已采取措施，包括拟议赔偿。\n\n报道时间与核验　11 月 26 日 Reuters 页面 07:35 UTC，讲话发生于 11 月 25 日，依据缅甸官方媒体。",
-      "why": "",
-      "source": "Reuters",
-      "tag": "",
-      "date": "2026-11-26",
-      "links": [
-        {
-          "label": "Reuters｜Myanmar says it will not fully comply with ICJ genocide orders",
-          "url": "https://www.reuters.com/world/asia-pacific/myanmar-says-it-will-not-fully-comply-with-icj-genocide-orders-2026-11-26/"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-spacex",
-      "section": "reuters",
-      "category": "企业与股权",
-      "title": "马斯克承诺向美国儿童赠送两股 SpaceX 股票",
-      "summary": "马斯克宣布拟向美国儿童赠送两股 SpaceX 股票，并表示未来年份还打算继续赠股。按约 7,200 万名儿童及前一交易日每股 127.44 美元估算，路透给出的规模约为 180 亿美元。公司披露具体涉及现有活跃的 Trump Accounts，一股由公司新发行，另一股由马斯克配赠。实际覆盖人数、转入时间和最终市值仍要看执行。",
-      "fullBody": "马斯克宣布拟向美国儿童赠送两股 SpaceX 股票，并表示未来年份还打算继续赠股。按约 7,200 万名儿童及前一交易日每股 127.44 美元估算，路透给出的规模约为 180 亿美元。公司披露具体涉及现有活跃的 Trump Accounts，一股由公司新发行，另一股由马斯克配赠。实际覆盖人数、转入时间和最终市值仍要看执行。\n\n报道时间与核验　11 月 26 日 Reuters 页面 04:15 UTC，彭博官网标题交叉核对。金额为估算的股票价值。",
+      "id": "2026-11-28-wall-street",
+      "section": "top",
+      "category": "股票市场",
+      "title": "美股黑色星期五提前收盘，纳指涨 2.31%",
+      "summary": "纽约时间 11 月 27 日 13:00，感恩节后缩短交易时段结束，纳斯达克综合指数涨 2.31% 至 24,129.50 点，标普 500 指数涨 1.60% 至 7,297.49 点，道指涨 1.18% 至 50,774.94 点。随着美股恢复交易，本期有了正式收盘数据。",
+      "fullBody": "纽约时间 11 月 27 日 13:00，感恩节后缩短交易时段结束，纳斯达克综合指数涨 2.31% 至 24,129.50 点，标普 500 指数涨 1.60% 至 7,297.49 点，道指涨 1.18% 至 50,774.94 点。随着美股恢复交易，本期有了正式收盘数据。\n\n科技硬件股反弹较大，美光涨 7.6%，迈威尔涨 7.3%，费城半导体指数涨 4.7%。路透采访的投资人把反弹部分归于买入此前跌幅较大的股票。彭博的市场报道也关注本周人工智能交易大幅波动。\n\n本周标普 500 上涨 5.6%，据路透为 2025 年 4 月以来最大周涨幅。单周涨跌包含全周各交易日变化，周末仍需观察买盘能否延续到正常交易时段。\n\n新闻分析\n\n假期后最值得观察的是科技股买盘能否延续到正常交易时段。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 07:34 UTC，采用 13:00 EST 提前收盘更新。彭博欧洲版市场专题核对议题。",
       "why": "",
       "source": "Reuters · Bloomberg",
-      "tag": "持续关注",
-      "date": "2026-11-26",
+      "tag": "",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Musk pledges two SpaceX shares for every US child in $18 billion AI charm offensive",
-          "url": "https://www.reuters.com/business/media-telecom/musk-says-every-child-us-will-get-two-spacex-shares-2026-11-26/"
+          "url": "https://www.reuters.com/business/wall-st-futures-surge-investors-return-holiday-2026-11-27/",
+          "label": "Reuters｜Wall Street ends higher as battered AI stocks gain in volatile week"
         },
         {
-          "label": "Bloomberg｜Musk Says He’ll Give US Children Another SpaceX Share Every Year（官网摘要）",
-          "url": "https://www.bloomberg.com/"
+          "url": "https://www.bloomberg.com/europe",
+          "label": "Bloomberg｜Trump’s AI Gambit Fuels Wild Thanksgiving Week on Wall Street（首页摘要）"
+        }
+      ],
+      "stats": [
+        [
+          "+2.31%",
+          "纳综指周五收盘涨幅"
+        ]
+      ]
+    },
+    {
+      "id": "2026-11-28-openai",
+      "section": "top",
+      "category": "科技与司法",
+      "title": "OpenAI 在加州法院对苹果提起反诉，指控对方取得商业秘密",
+      "summary": "OpenAI 11 月 27 日在加州一宗现有诉讼中对苹果提起反诉。根据路透对诉状的报道，OpenAI 称苹果重新聘用曾在 OpenAI 工作的员工后获得其未公开硬件计划。彭博还报道，OpenAI 指称苹果向供应商施压，使供应商回避为其设备提供零件。",
+      "fullBody": "OpenAI 11 月 27 日在加州一宗现有诉讼中对苹果提起反诉。根据路透对诉状的报道，OpenAI 称苹果重新聘用曾在 OpenAI 工作的员工后获得其未公开硬件计划。彭博还报道，OpenAI 指称苹果向供应商施压，使供应商回避为其设备提供零件。\n\n反诉是被告在现有诉讼中向原告提出自己的请求。苹果此前指控 OpenAI 和相关员工涉及苹果机密。OpenAI 和员工否认相关指控。商业秘密通常指具有商业价值、企业采取保护措施的非公开信息，如未公开的产品设计。\n\n两方主张目前仍处诉讼阶段，法院还需审查证据及各项请求。接下来有待核实的是相关信息如何取得、是否被使用及法院如何裁决。\n\n新闻分析\n\n双方争议已从人员流动扩大到硬件供应链。\n\n报道时间与核验　11 月 27 日 Reuters 页面 18:28 UTC，Bloomberg 署名转载 14:02 EST。两方说法均为诉讼主张。",
+      "why": "",
+      "source": "Reuters · Bloomberg",
+      "tag": "",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://www.reuters.com/technology/openai-countersues-apple-stealing-trade-secrets-ft-reports-2026-11-27/",
+          "label": "Reuters｜OpenAI countersues Apple for stealing trade secrets"
+        },
+        {
+          "url": "https://uk.finance.yahoo.com/news/openai-says-apple-pressured-suppliers-190210134.html",
+          "label": "Bloomberg｜OpenAI Says Apple Pressured Suppliers to Shun Its Devices（署名转载）"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-argentina",
-      "section": "reuters",
-      "category": "拉美政治",
-      "title": "阿根廷参议院批准暂停初选，法案仍待众议院审议",
-      "summary": "阿根廷参议院 11 月 26 日通过暂停初选的法案。初选让选民从同一政治阵营的候选人中作出选择，暂停后，各阵营可能更依赖内部程序决定提名。法案仍需众议院批准，路透采访的分析人士认为该调整可能影响反对派整合候选人的过程。",
-      "fullBody": "阿根廷参议院 11 月 26 日通过暂停初选的法案。初选让选民从同一政治阵营的候选人中作出选择，暂停后，各阵营可能更依赖内部程序决定提名。法案仍需众议院批准，路透采访的分析人士认为该调整可能影响反对派整合候选人的过程。\n\n报道时间与核验　11 月 26 日 Reuters 滚动稿页面 10:05 UTC，采用参议院通过后的内容。",
+      "id": "2026-11-28-canada",
+      "section": "top",
+      "category": "加拿大司法",
+      "title": "加拿大最高法院维持魁北克部分公职人员宗教标志禁令",
+      "summary": "加拿大最高法院 11 月 27 日判定魁北克禁止部分公职人员佩戴宗教标志的法律有效。受约束者包括部分公立学校教师。宗教团体和人权组织表示，判决会限制佩戴头巾的穆斯林女性从事相关职业。",
+      "fullBody": "加拿大最高法院 11 月 27 日判定魁北克禁止部分公职人员佩戴宗教标志的法律有效。受约束者包括部分公立学校教师。宗教团体和人权组织表示，判决会限制佩戴头巾的穆斯林女性从事相关职业。\n\n魁北克把相关立法作为维持国家机构世俗性的措施。争议涉及省级立法权与加拿大《权利与自由宪章》保障的权利。魁北克执政党欢迎裁决，联邦总理卡尼称他的政府将继续保护少数群体权利。\n\n法院裁决确定了法律在本案中的效力。它的实际影响仍要通过学校招聘、现有员工适用范围和省政府执行办法来观察。\n\n新闻分析\n\n受影响最直接的是必须在宗教服饰与职业资格之间作选择的求职者。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 11:03 UTC，采用裁决后的报道。",
       "why": "",
       "source": "Reuters",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Argentina Senate approves suspension of primaries, boosting Milei’s reelection bid",
-          "url": "https://www.reuters.com/world/americas/argentinas-senate-poised-suspend-primaries-boosting-mileis-re-election-bid-2026-11-26/"
+          "url": "https://www.reuters.com/legal/government/canadas-supreme-court-rule-quebecs-law-religious-symbols-test-canadian-unity-2026-11-27/",
+          "label": "Reuters｜Canada’s top court upholds Quebec law banning religious symbols in test of unity"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-china-ai",
+      "id": "2026-11-28-norse",
+      "section": "top",
+      "category": "航空与破产",
+      "title": "Norse Atlantic 主营挪威子公司启动破产申请，航班全部取消",
+      "summary": "长途廉航 Norse Atlantic 11 月 27 日表示，已取消所有航班并停止售票，将向挪威阿格德尔地区法院为主营挪威运营子公司提出破产申请。公司未能找到满足近期现金需求的新资金。当天，拥有其 12 架飞机的租赁商也通知终止合同，航空公司对终止通知的有效性提出异议。",
+      "fullBody": "长途廉航 Norse Atlantic 11 月 27 日表示，已取消所有航班并停止售票，将向挪威阿格德尔地区法院为主营挪威运营子公司提出破产申请。公司未能找到满足近期现金需求的新资金。当天，拥有其 12 架飞机的租赁商也通知终止合同，航空公司对终止通知的有效性提出异议。\n\n租赁商拥有飞机并出租给航司。合同若终止，即使航空公司另找到现金，也需要重新解决机队来源。路透报道，公司此前已在燃油成本上涨和客运网络压力下缩减运力。上一期报道已停飞并预警可能破产，本期新增主营子公司的申请安排和租约争议。\n\n本案指向挪威运营子公司。英国民航局说，母公司仍在寻找能让英国子公司继续运营的方案。两个司法辖区的乘客安排和后续运营要看各自公告。\n\n新闻分析\n\n失去机队租约使这家航空公司即使找到资金也更难恢复运营。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 07:39 UTC，采用公司披露申请安排后的版本。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "持续关注",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://www.reuters.com/business/aerospace-defense/norse-atlantic-says-lessors-terminate-aircraft-agreements-2026-11-27/",
+          "label": "Reuters｜Norse Atlantic files for bankruptcy, halts flights as Iran war drives up fuel costs"
+        }
+      ],
+      "stats": []
+    },
+    {
+      "id": "2026-11-28-brazil",
       "section": "reuters",
-      "category": "独家与科技",
-      "title": "路透称美国算力限制可能拖慢中国模型迭代",
-      "summary": "路透 11 月 26 日援引知情人士称，智谱的下一代旗舰模型已落后于原计划。知情人士还说，月之暗面如果失去境外算力，新一代模型发布间隔可能延长。美国 11 月 19 日生效的规则限制中国公司大量使用境外数据中心的先进美国芯片算力，本期新增的是具体研发团队面对的进度变化和风险判断。",
-      "fullBody": "路透 11 月 26 日援引知情人士称，智谱的下一代旗舰模型已落后于原计划。知情人士还说，月之暗面如果失去境外算力，新一代模型发布间隔可能延长。美国 11 月 19 日生效的规则限制中国公司大量使用境外数据中心的先进美国芯片算力，本期新增的是具体研发团队面对的进度变化和风险判断。\n\n报道时间与核验　11 月 26 日 Reuters 页面 07:19 UTC，内部时间表来自匿名人士。",
+      "category": "巴西财政",
+      "title": "卢拉提名银行家特拉布科掌管财政，巴西雷亚尔收涨约 4%",
+      "summary": "巴西总统卢拉提名布拉德斯科银行董事长路易斯·卡洛斯·特拉布科出任财长。11 月 27 日，巴西雷亚尔现货收盘约为 5.51 雷亚尔兑 1 美元，较上个交易日升值约 4%，基准股指盘中一度涨 3.9% 后回吐。接下来市场将看新财长如何处理财政支出和公共债务。",
+      "fullBody": "巴西总统卢拉提名布拉德斯科银行董事长路易斯·卡洛斯·特拉布科出任财长。11 月 27 日，巴西雷亚尔现货收盘约为 5.51 雷亚尔兑 1 美元，较上个交易日升值约 4%，基准股指盘中一度涨 3.9% 后回吐。接下来市场将看新财长如何处理财政支出和公共债务。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 16:53 UTC，采用其收盘更新。",
       "why": "",
       "source": "Reuters",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Exclusive: US chip curbs, distillation crackdown threaten Chinese AI model development, sources say",
-          "url": "https://www.reuters.com/world/china/us-chip-curbs-distillation-crackdown-threaten-chinese-ai-model-development-2026-11-26/"
+          "url": "https://www.reuters.com/world/americas/brazilian-markets-rally-after-lula-taps-bradesco-chairman-finance-chief-2026-11-27/",
+          "label": "Reuters｜Brazilian markets rally after Lula taps Bradesco chairman for finance chief"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-binance",
+      "id": "2026-11-28-taiwan",
       "section": "reuters",
-      "category": "数字资产",
-      "title": "币安称恢复提现，此前报告约 63 亿美元资产遭盗",
-      "summary": "币安 11 月 26 日称，提现恢复工作完成，已解除提现暂停。路透报道，该平台上月遭遇约 63 亿美元资产被盗。恢复提现是当天的运营进展，客户损失处置和资产追回结果仍需分别核对。",
-      "fullBody": "币安 11 月 26 日称，提现恢复工作完成，已解除提现暂停。路透报道，该平台上月遭遇约 63 亿美元资产被盗。恢复提现是当天的运营进展，客户损失处置和资产追回结果仍需分别核对。\n\n报道时间与核验　11 月 26 日 Reuters 页面 19:05 UTC，恢复状态来自平台声明。",
+      "category": "东亚政治",
+      "title": "台湾地方选举结束竞选，投票前台方通报解放军活动",
+      "summary": "台湾 11 月 27 日举行多场选前集会，次日投票选出地方首长及代表。台湾防务部门当天称侦测到 30 架次解放军军机，26 架次越过其所称海峡中线，并有军舰参与活动。地方选举结果仍待投票，军事活动数据来源为台方。",
+      "fullBody": "台湾 11 月 27 日举行多场选前集会，次日投票选出地方首长及代表。台湾防务部门当天称侦测到 30 架次解放军军机，26 架次越过其所称海峡中线，并有军舰参与活动。地方选举结果仍待投票，军事活动数据来源为台方。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 06:07 UTC，Bloomberg 欧洲版官网有选前视频。",
+      "why": "",
+      "source": "Reuters · Bloomberg",
+      "tag": "",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://www.reuters.com/world/china/taiwan-candidates-campaign-key-local-elections-final-day-2026-11-27/",
+          "label": "Reuters｜Packed rallies close Taiwan election campaign; China sends warplanes"
+        },
+        {
+          "url": "https://www.bloomberg.com/europe",
+          "label": "Bloomberg｜Taiwan Gears Up for Local Elections（官网视频）"
+        }
+      ],
+      "stats": []
+    },
+    {
+      "id": "2026-11-28-libya",
+      "section": "reuters",
+      "category": "独家与欧洲非洲",
+      "title": "路透称俄军运输船队在俄舰于利比亚遇袭后折返",
+      "summary": "路透 11 月 27 日援引三名军事和安全部门消息人士称，运送军用车辆前往利比亚的俄罗斯船队已在地中海折返。消息人士将折返与 11 月 22 日俄舰在班加西遇袭相联系，乌方此前声称实施该次袭击。本期新增的是船队折返的独家披露，其去向和物资最终用途仍不确定。",
+      "fullBody": "路透 11 月 27 日援引三名军事和安全部门消息人士称，运送军用车辆前往利比亚的俄罗斯船队已在地中海折返。消息人士将折返与 11 月 22 日俄舰在班加西遇袭相联系，乌方此前声称实施该次袭击。本期新增的是船队折返的独家披露，其去向和物资最终用途仍不确定。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 17:47 UTC，事件发生于此前，折返依据消息人士。",
       "why": "",
       "source": "Reuters",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Binance lifts withdrawal suspension after $6.3 billion crypto heist",
-          "url": "https://www.reuters.com/technology/binance-lifts-withdrawal-suspension-after-63-billion-crypto-heist-2026-11-26/"
+          "url": "https://www.reuters.com/world/europe/russian-military-flotilla-bound-libya-turns-around-after-warship-sunk-nov-22-2026-11-27/",
+          "label": "Reuters｜Exclusive: Russian military flotilla bound for Libya turns around after warship sunk on November 22, sources say"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-bangladesh",
+      "id": "2026-11-28-puig",
       "section": "reuters",
-      "category": "南亚与劳工",
-      "title": "孟加拉国制衣工人再次抗议最低工资方案",
-      "summary": "孟加拉国警方称，11 月 26 日驱散了试图封堵主要公路的制衣工人。前一天，六人小组批准把行业最低工资上调 36%，部分工人要求翻倍，劳工权益团体认为上调幅度仍不足以覆盖生活开支。该行业雇用逾 400 万人，抗议已影响部分工厂生产。",
-      "fullBody": "孟加拉国警方称，11 月 26 日驱散了试图封堵主要公路的制衣工人。前一天，六人小组批准把行业最低工资上调 36%，部分工人要求翻倍，劳工权益团体认为上调幅度仍不足以覆盖生活开支。该行业雇用逾 400 万人，抗议已影响部分工厂生产。\n\n报道时间与核验　11 月 26 日 Reuters 页面 08:00 UTC，警方、工资小组和劳工团体的说法分别归属。",
+      "category": "消费品交易",
+      "title": "普伊格推进两家香水品牌控股收购，路透报对价约 12 亿欧元",
+      "summary": "西班牙美妆集团普伊格拟向私募投资机构 Advent 收购香水集团 Artessence 的控股权，标的旗下有 Parfums de Marly 和 Initio。路透报道拟购股权为 75%，对价约 12 亿欧元。Advent 官方公告将交易表述为进入独家磋商，交割和最终安排仍待确认。",
+      "fullBody": "西班牙美妆集团普伊格拟向私募投资机构 Advent 收购香水集团 Artessence 的控股权，标的旗下有 Parfums de Marly 和 Initio。路透报道拟购股权为 75%，对价约 12 亿欧元。Advent 官方公告将交易表述为进入独家磋商，交割和最终安排仍待确认。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 19:22 UTC，Advent 同日公告核对交易阶段。",
       "why": "",
       "source": "Reuters",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Police use tear gas to disperse fresh Bangladesh garment worker protests",
-          "url": "https://www.reuters.com/business/world-at-work/police-use-tear-gas-disperse-fresh-bangladesh-garment-worker-protests-2026-11-26/"
+          "url": "https://www.reuters.com/world/puig-agrees-buy-75-stake-perfume-group-artessence-deal-valuing-it-19-billion-2026-11-27/",
+          "label": "Reuters｜Puig to buy Parfums de Marly owner from Advent in €1.2 billion deal"
+        },
+        {
+          "url": "https://www.adventinternational.com/news/advent-enters-into-exclusive-negotiations-with-a-view-to-selling-parfums-de-marly-and-initio-parfums-prives-to-puig/",
+          "label": "Advent｜进入独家磋商"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-japan-dc",
+      "id": "2026-11-28-verizon",
       "section": "reuters",
-      "category": "深度报道与基础设施",
-      "title": "日本数据中心建设引发部分城市居民反对",
-      "summary": "路透采访东京周边居民后报道，数据中心附近的部分居民担忧噪音、建筑体量和选址。路透指出，日本约六成数据中心集中在东京都市圈及周边地区。围绕部分项目的反对意见使选址规则受到重新审视，实际审批和工程计划仍需逐项核对。",
-      "fullBody": "路透采访东京周边居民后报道，数据中心附近的部分居民担忧噪音、建筑体量和选址。路透指出，日本约六成数据中心集中在东京都市圈及周边地区。围绕部分项目的反对意见使选址规则受到重新审视，实际审批和工程计划仍需逐项核对。\n\n报道时间与核验　11 月 25 日 Reuters 页面 23:02 UTC，属于本期窗口内发布的专题。",
+      "category": "通信并购",
+      "title": "《金融时报》称 Verizon 就约 60 亿美元收购 Fidium 进行谈判",
+      "summary": "路透转述《金融时报》报道，美国电信集团 Verizon 正与光纤宽带运营商 Fidium 的股东磋商潜在收购。报道给出的交易规模约 60 亿美元，这笔潜在交易将帮助 Verizon 扩大光纤覆盖。谈判尚在进行，截稿前未见公司签约公告。",
+      "fullBody": "路透转述《金融时报》报道，美国电信集团 Verizon 正与光纤宽带运营商 Fidium 的股东磋商潜在收购。报道给出的交易规模约 60 亿美元，这笔潜在交易将帮助 Verizon 扩大光纤覆盖。谈判尚在进行，截稿前未见公司签约公告。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 18:24 UTC，转述《金融时报》匿名信源。",
       "why": "",
       "source": "Reuters",
       "tag": "",
-      "date": "2026-11-25",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Japan’s data centre boom faces growing revolt from urban residents",
-          "url": "https://www.reuters.com/sustainability/society-equity/japans-data-centre-boom-faces-growing-revolt-urban-residents-2026-11-25/"
+          "url": "https://www.reuters.com/business/media-telecom/verizon-talks-over-6-billion-deal-fidium-ft-reports-2026-11-27/",
+          "label": "Reuters｜Verizon in talks over $6 billion deal for Fidium, FT reports"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-airbaltic",
+      "id": "2026-11-28-angola",
       "section": "reuters",
-      "category": "独家与航空",
-      "title": "波罗的海航空就人员安排讨论离职、降职或外派",
-      "summary": "路透 11 月 26 日报道，已进入美国第 11 章破产重组程序的波罗的海航空正在调整人手，部分机组人员面临离职、降职或外派。公司称，飞行员可自愿参与与巴布亚新几内亚航空的合作，员工沟通仍在继续。工会对咨询程序提出异议，公司表示遵守适用劳动法规。",
-      "fullBody": "路透 11 月 26 日报道，已进入美国第 11 章破产重组程序的波罗的海航空正在调整人手，部分机组人员面临离职、降职或外派。公司称，飞行员可自愿参与与巴布亚新几内亚航空的合作，员工沟通仍在继续。工会对咨询程序提出异议，公司表示遵守适用劳动法规。\n\n报道时间与核验　11 月 26 日 Reuters 页面 06:01 UTC，依据公司、工会和知情人士。",
+      "category": "非洲融资",
+      "title": "非洲进出口银行拟签 14.5 亿美元安哥拉化肥厂融资",
+      "summary": "项目开发商称，非洲进出口银行拟在下周一签署 14.5 亿美元融资协议，支持安哥拉首座大型化肥厂。加上股东已承诺的 11.9 亿美元股权资金，项目计划总投资约 26 亿美元。银行贷款、股权承诺和项目总投资是三个口径，融资仍待签署。",
+      "fullBody": "项目开发商称，非洲进出口银行拟在下周一签署 14.5 亿美元融资协议，支持安哥拉首座大型化肥厂。加上股东已承诺的 11.9 亿美元股权资金，项目计划总投资约 26 亿美元。银行贷款、股权承诺和项目总投资是三个口径，融资仍待签署。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 18:46 UTC，依据项目开发商公告。",
       "why": "",
       "source": "Reuters",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Exclusive: AirBaltic offers crew exit, demotion or Papua New Guinea secondment",
-          "url": "https://www.reuters.com/world/airbaltic-offers-crew-exit-demotion-or-papua-new-guinea-secondment-2026-11-26/"
+          "url": "https://www.reuters.com/business/energy/afreximbank-sign-145-billion-financing-deal-angola-fertiliser-plant-2026-11-27/",
+          "label": "Reuters｜Afreximbank to sign $1.45 billion financing deal for Angola fertiliser plant"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-asml",
+      "id": "2026-11-28-south-africa",
+      "section": "reuters",
+      "category": "非洲信用",
+      "title": "标普将南非长期外币主权评级从 BB 上调至 BB+",
+      "summary": "标普 11 月 27 日上调南非长期外币主权评级。路透援引评级机构称，南非财政走势正在改善，预计 2026 年将连续第四年录得基本财政盈余，也就是扣除债务利息后的财政余额为正。BB+ 仍低于标普投资级最低档 BBB−。",
+      "fullBody": "标普 11 月 27 日上调南非长期外币主权评级。路透援引评级机构称，南非财政走势正在改善，预计 2026 年将连续第四年录得基本财政盈余，也就是扣除债务利息后的财政余额为正。BB+ 仍低于标普投资级最低档 BBB−。\n\n报道时间与核验　11 月 27 日标普纽约时间 16:06 公布，路透索引标示 21:52 UTC。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://www.reuters.com/world/africa/sp-lifts-south-africa-ratings-improving-fiscal-position-2026-11-27/",
+          "label": "Reuters｜S&P lifts South Africa ratings on improving fiscal position"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/regulatory/ratings-actions?app=sp&id=1498020",
+          "label": "S&P Global Ratings｜Ratings Actions"
+        }
+      ],
+      "stats": []
+    },
+    {
+      "id": "2026-11-28-airasia",
+      "section": "reuters",
+      "category": "东南亚航空",
+      "title": "亚航暂将部分员工发薪日推至月底，菲律宾子公司削减岗位",
+      "summary": "亚航 11 月 27 日称将暂把发薪日延后以保留现金，路透查阅的邮件显示计划涉及马来西亚员工。公司表示薪资仍会足额发放，菲律宾子公司另因成本压力缩减人手，未公布人数。两项调整影响的是不同员工群体。",
+      "fullBody": "亚航 11 月 27 日称将暂把发薪日延后以保留现金，路透查阅的邮件显示计划涉及马来西亚员工。公司表示薪资仍会足额发放，菲律宾子公司另因成本压力缩减人手，未公布人数。两项调整影响的是不同员工群体。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 06:24 UTC，依据公司声明和内部邮件。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://www.reuters.com/world/airasia-delays-staff-salary-payments-end-month-internal-email-shows-2026-11-27/",
+          "label": "Reuters｜AirAsia delays staff salary payments to end of month"
+        }
+      ],
+      "stats": []
+    },
+    {
+      "id": "2026-11-28-vw",
+      "section": "reuters",
+      "category": "独家与印度税务",
+      "title": "大众在印度 12 亿美元税务争议中援引竞争对手进口做法",
+      "summary": "路透查阅法院文件后报道，大众在印度争议一笔约 12 亿美元的税款追索，称部分竞争对手也按较低税率进口零件。印度税务部门此前认为一些货物应按成套车辆组件适用较高税率。大众否认违规，最终分类和税务责任由法院处理。",
+      "fullBody": "路透查阅法院文件后报道，大众在印度争议一笔约 12 亿美元的税款追索，称部分竞争对手也按较低税率进口零件。印度税务部门此前认为一些货物应按成套车辆组件适用较高税率。大众否认违规，最终分类和税务责任由法院处理。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 10:45 UTC，新披露法院文件日期为 11 月 10 日。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://www.reuters.com/world/india/volkswagen-drags-rivals-mercedes-bmw-into-12-billion-india-tax-fight-2026-11-27/",
+          "label": "Reuters｜Exclusive: Volkswagen drags rivals Mercedes, BMW into $1.2 billion India tax fight"
+        }
+      ],
+      "stats": []
+    },
+    {
+      "id": "2026-11-28-richemont",
+      "section": "reuters",
+      "category": "意大利用工",
+      "title": "意大利法院要求历峰恢复六名外包工人的工作",
+      "summary": "意大利法院裁定六名工人与历峰旗下企业存在雇佣关系，并要求恢复工作。工人是在历峰下属企业结束与承包商合作后失去工作的。历峰不同意判决并考虑上诉，此案涉及采购企业在外包用工中的责任。",
+      "fullBody": "意大利法院裁定六名工人与历峰旗下企业存在雇佣关系，并要求恢复工作。工人是在历峰下属企业结束与承包商合作后失去工作的。历峰不同意判决并考虑上诉，此案涉及采购企业在外包用工中的责任。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 18:22 UTC，依据法院裁决和企业回应。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://www.reuters.com/business/retail-consumer/italian-court-orders-richemont-reinstate-workers-landmark-ruling-2026-11-27/",
+          "label": "Reuters｜Italian court orders Richemont to reinstate workers, in landmark ruling"
+        }
+      ],
+      "stats": []
+    },
+    {
+      "id": "2026-11-28-france-rating",
       "section": "bloomberg",
-      "category": "科技与监管",
-      "title": "荷兰政府反对美国拟扩大 ASML 对华设备销售限制",
-      "summary": "荷兰贸易部长 11 月 26 日在议会表示，荷兰将抵制美国拟对先进芯片制造设备实施的更多限制。美国相关法案拟推动荷兰等盟友加强出口管制，涉及荷兰半导体设备商 ASML。荷方反对美国规则的域外适用，最终影响取决于法案和各国执行。",
-      "fullBody": "荷兰贸易部长 11 月 26 日在议会表示，荷兰将抵制美国拟对先进芯片制造设备实施的更多限制。美国相关法案拟推动荷兰等盟友加强出口管制，涉及荷兰半导体设备商 ASML。荷方反对美国规则的域外适用，最终影响取决于法案和各国执行。\n\n报道时间与核验　11 月 26 日 Bloomberg Law 索引 12:23 UTC，另见标示 16:54 UTC 的公开版本。",
+      "category": "欧洲主权信用",
+      "title": "标普将法国评级展望调至负面，维持 A+",
+      "summary": "标普 11 月 27 日维持法国 A+ 主权信用评级，把展望从稳定调为负面。展望描述未来评级可能的方向，欧元区投资者随后会观察政治分歧是否妨碍法国削减财政赤字。",
+      "fullBody": "标普 11 月 27 日维持法国 A+ 主权信用评级，把展望从稳定调为负面。展望描述未来评级可能的方向，欧元区投资者随后会观察政治分歧是否妨碍法国削减财政赤字。\n\n报道时间与核验　11 月 27 日 Bloomberg 欧洲版首页摘要，标普记录及《金融时报》21:34 UTC 核对。",
       "why": "",
       "source": "Bloomberg",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Bloomberg｜Netherlands to Fight Rollout of Proposed US Curbs on ASML",
-          "url": "https://news.bloomberglaw.com/tech-and-telecom-law/netherlands-plans-to-fight-rollout-of-proposed-us-curbs-on-asml"
+          "url": "https://www.bloomberg.com/europe",
+          "label": "Bloomberg｜France Outlook Cut to Negative by S&P in Pre-Election Warning（官网摘要）"
+        },
+        {
+          "url": "https://www.spglobal.com/ratings/en/regulatory/ratings-actions?app=sp&id=3226784",
+          "label": "S&P Global Ratings｜Ratings Actions"
+        },
+        {
+          "url": "https://www.ft.com/content/4e16110a-9604-4455-8557-4edece5df01a",
+          "label": "FT｜S&P cuts France outlook to negative（订阅）"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-gdp-dispute",
+      "id": "2026-11-28-nvidia",
       "section": "bloomberg",
-      "category": "美国与经济统计",
-      "title": "特朗普质疑选前 GDP 并要求调查，未提供操纵数据的证据",
-      "summary": "特朗普 11 月 26 日把选前公布的美国 GDP 数字称为造假，并要求调查商务部。彭博和美联社均报道了他的说法。经济分析局前一天按常规程序公布第二次估算，把三季度增长年化率由 3.4% 上修到 4.3%。截至截稿，未看到支持其操纵指控的公开证据，也未确认已启动调查。",
-      "fullBody": "特朗普 11 月 26 日把选前公布的美国 GDP 数字称为造假，并要求调查商务部。彭博和美联社均报道了他的说法。经济分析局前一天按常规程序公布第二次估算，把三季度增长年化率由 3.4% 上修到 4.3%。截至截稿，未看到支持其操纵指控的公开证据，也未确认已启动调查。\n\n报道时间与核验　11 月 26 日彭博署名转载 10:03 EST，美联社 16:08 UTC，GDP 第二次估算经经济分析局文件核对。",
+      "category": "独家与半导体",
+      "title": "彭博称在与 Alice Huang 有关的中国项目发现英伟达 Blackwell 设备",
+      "summary": "彭博称查阅了中国监管申报和贷款文件，并据硬件序列号将一套 GB300 NVL72 计算设备与该数据中心项目联系起来。报道还称一家企业以硬件为抵押获取 9,600 万元人民币贷款。设备最初如何采购、经过哪些授权及是否违反规定，仍需更多证据。",
+      "fullBody": "彭博称查阅了中国监管申报和贷款文件，并据硬件序列号将一套 GB300 NVL72 计算设备与该数据中心项目联系起来。报道还称一家企业以硬件为抵押获取 9,600 万元人民币贷款。设备最初如何采购、经过哪些授权及是否违反规定，仍需更多证据。\n\n报道时间与核验　11 月 27 日 Bloomberg Law 公开索引 11:45 UTC，核验范围为官网标题和可见摘要。",
+      "why": "",
+      "source": "Bloomberg",
+      "tag": "",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://news.bloomberglaw.com/ip-law/nvidia-blackwell-chips-turn-up-at-china-site-tied-to-alice-huang",
+          "label": "Bloomberg｜Nvidia Blackwell Chips Turn Up at China Site Tied to Alice Huang"
+        }
+      ],
+      "stats": []
+    },
+    {
+      "id": "2026-11-28-france-curbs",
+      "section": "bloomberg",
+      "category": "独家与出口政策",
+      "title": "法国加入荷兰，反对美国拟扩大设备出口限制",
+      "summary": "法国贸易部长在接受彭博采访时表示正密切跟进相关美国法案，并称欧盟仍可动用其政策工具。上期已报道荷兰反对，本期新增法国公开表态。现阶段仍是围绕提案的磋商，实际出口要求取决于最终条文和各国执行。",
+      "fullBody": "法国贸易部长在接受彭博采访时表示正密切跟进相关美国法案，并称欧盟仍可动用其政策工具。上期已报道荷兰反对，本期新增法国公开表态。现阶段仍是围绕提案的磋商，实际出口要求取决于最终条文和各国执行。\n\n报道时间与核验　11 月 27 日纽约时间 14:09 左右，Mint 彭博署名转载标示印度时间 11 月 28 日 00:39。",
       "why": "",
       "source": "Bloomberg",
       "tag": "持续关注",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Bloomberg｜Trump Says Revised GDP Numbers Fake, Calls for Investigation（署名转载）",
-          "url": "https://uk.finance.yahoo.com/news/trump-says-revised-gdp-numbers-150335514.html/"
-        },
-        {
-          "label": "AP｜特朗普要求调查商务部",
-          "url": "https://apnews.com/article/4fd800b44005ae11f950f96ff62f876e"
-        },
-        {
-          "label": "BEA｜GDP 第二次估算",
-          "url": "https://www.bea.gov/news/2026/gdp-second-estimate-and-corporate-profits-3rd-quarter-2026"
+          "url": "https://www.livemint.com/politics/france-joins-the-dutch-in-opposing-proposed-us-export-curbs-11795806545216.html",
+          "label": "Bloomberg｜France Joins the Dutch in Opposing Proposed US Export Curbs（署名转载）"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-global-stocks",
+      "id": "2026-11-28-anthropic",
       "section": "bloomberg",
-      "category": "全球市场",
-      "title": "亚洲和欧洲股市反弹，美股感恩节休市",
-      "summary": "11 月 26 日亚洲和欧洲股市上涨，科技股买盘回升。路透在当日稿中记录泛欧股指反弹接近 2%，标普 500 和纳斯达克股指期货一度上涨约 0.7%。美国股票现货市场因感恩节休市，期货数字反映当时交易快照。",
-      "fullBody": "11 月 26 日亚洲和欧洲股市上涨，科技股买盘回升。路透在当日稿中记录泛欧股指反弹接近 2%，标普 500 和纳斯达克股指期货一度上涨约 0.7%。美国股票现货市场因感恩节休市，期货数字反映当时交易快照。\n\n报道时间与核验　11 月 26 日 Bloomberg 市场稿经 Swissinfo 署名转载，Reuters 滚动稿页面 01:35 UTC，采用当日更新。",
+      "category": "人工智能市场",
+      "title": "Anthropic 在黑色星期五收于 83 美元发行价之上",
+      "summary": "彭博 11 月 27 日报道，Anthropic 股价在上市后经历较大波动，当天午间升回每股 83 美元发行价以上。彭博日本版首页随后显示收盘也高于发行价。发行价是首次发售时的价格，上市后股价由二级市场交易形成。",
+      "fullBody": "彭博 11 月 27 日报道，Anthropic 股价在上市后经历较大波动，当天午间升回每股 83 美元发行价以上。彭博日本版首页随后显示收盘也高于发行价。发行价是首次发售时的价格，上市后股价由二级市场交易形成。\n\n报道时间与核验　11 月 27 日彭博署名转载为纽约时间 12:08 午间版，收盘方向经彭博日本版首页标题核对。",
+      "why": "",
+      "source": "Bloomberg",
+      "tag": "",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://finance.yahoo.com/technology/ai/articles/anthropic-shares-jump-volatile-first-170808947.html",
+          "label": "Bloomberg｜Anthropic Shares Jump After Volatile First Week Since IPO（署名转载）"
+        },
+        {
+          "url": "https://www.bloomberg.com/jp/news/articles/2026-11-27/TP6BCWT96OSI00?srnd=jp-homepage",
+          "label": "Bloomberg 日本版｜收盘标题，正文访问受限"
+        }
+      ],
+      "stats": []
+    },
+    {
+      "id": "2026-11-28-black-friday",
+      "section": "bloomberg",
+      "category": "美国零售",
+      "title": "黑色星期五客流由即时监测追踪，消费者仍看重折扣",
+      "summary": "彭博欧洲版首页报道，一些商场相对冷清，部分购物者预算收紧。路透援引 Passby 说，纽约时间 15:30 过后，实地商店访问量约落后上年同期 2%。客流是追踪机构的阶段估计，全年或假日季销售额仍需用支付、零售商和政府统计核对。",
+      "fullBody": "彭博欧洲版首页报道，一些商场相对冷清，部分购物者预算收紧。路透援引 Passby 说，纽约时间 15:30 过后，实地商店访问量约落后上年同期 2%。客流是追踪机构的阶段估计，全年或假日季销售额仍需用支付、零售商和政府统计核对。\n\n报道时间与核验　11 月 27 日 Bloomberg 官网摘要，Reuters 滚动稿页面标示 00:03 UTC，采用截稿前客流更新。",
       "why": "",
       "source": "Bloomberg · Reuters",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Bloomberg｜Global Stocks Climb as AI Trade Mounts a Comeback（署名转载）",
-          "url": "https://www.swissinfo.ch/eng/global-stocks-climb-as-ai-trade-mounts-a-comeback%3A-markets-wrap/92439307"
+          "url": "https://www.bloomberg.com/europe",
+          "label": "Bloomberg｜Quiet Malls, Smaller Budgets Lead to Subdued Black Friday（官网摘要）"
         },
         {
-          "label": "Reuters｜Stocks rally, Europe sizes up next ECB chief",
-          "url": "https://www.reuters.com/world/china/global-markets-global-markets-2026-11-26/"
+          "url": "https://www.reuters.com/business/retail-consumer/cautious-consumers-gear-up-black-friday-inflation-woes-bite-2026-11-27/",
+          "label": "Reuters｜US shoppers confront uphill battle in Black Friday discount quest"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-copper",
+      "id": "2026-11-28-aluminum",
       "section": "bloomberg",
-      "category": "大宗商品",
-      "title": "彭博称铜价一度从近 11 个月低点反弹逾 3%",
-      "summary": "彭博市场稿称，铜价一度从约 11 个月低位反弹逾 3%，同期科技股回暖。数据中心、输电和其他工业活动都是铜需求的来源。铜价与科技股同时反弹，仍需用订单和库存数据判断工业需求是否改善。",
-      "fullBody": "彭博市场稿称，铜价一度从约 11 个月低位反弹逾 3%，同期科技股回暖。数据中心、输电和其他工业活动都是铜需求的来源。铜价与科技股同时反弹，仍需用订单和库存数据判断工业需求是否改善。\n\n报道时间与核验　11 月 25 日 21:01 EST 的彭博署名转载，采用稿内当时的行情。",
-      "why": "",
-      "source": "Bloomberg",
-      "tag": "",
-      "date": "2026-11-25",
-      "links": [
-        {
-          "label": "Bloomberg｜Copper Rebounds From Lowest This Year as Volatility Hits Metals（署名转载）",
-          "url": "https://finance.yahoo.com/markets/commodities/articles/copper-rebounds-lowest-volatility-hits-020110032.html"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-uk-migration",
-      "section": "bloomberg",
-      "category": "英国人口",
-      "title": "英国截至 6 月的年度长期净移民暂估降至 7.7 万",
-      "summary": "英国国家统计局 11 月 26 日发布暂估数据，截至 2026 年 6 月的一年内，长期净移民为 7.7 万。净移民等于长期移入人数减去长期移出人数，该期长期移入约 73.8 万。统计局称，排除国际旅行受限的疫情时期，这一净值是 1997 年以来最低估计，部分时期的统计方法有所变化。",
-      "fullBody": "英国国家统计局 11 月 26 日发布暂估数据，截至 2026 年 6 月的一年内，长期净移民为 7.7 万。净移民等于长期移入人数减去长期移出人数，该期长期移入约 73.8 万。统计局称，排除国际旅行受限的疫情时期，这一净值是 1997 年以来最低估计，部分时期的统计方法有所变化。\n\n报道时间与核验　11 月 26 日英国国家统计局公告，彭博官网视频核对报道议题，数据为暂估。",
-      "why": "",
-      "source": "Bloomberg",
-      "tag": "",
-      "date": "2026-11-26",
-      "links": [
-        {
-          "label": "Bloomberg｜UK Set To Record Lowest Net Migration Since 1997（官网视频）",
-          "url": "https://www.bloomberg.com/"
-        },
-        {
-          "label": "ONS｜Long-term international migration, provisional",
-          "url": "https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/internationalmigration/bulletins/longterminternationalmigrationprovisional/latest"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-disney",
-      "section": "bloomberg",
-      "category": "美国媒体监管",
-      "title": "迪士尼就 ABC 电视台执照续期取得初步法院救济",
-      "summary": "彭博报道，迪士尼取得法院命令，暂停联邦通信委员会针对旗下 ABC 电视台执照的续期程序。临时措施改变近期程序安排，最终争议仍待继续审理。",
-      "fullBody": "彭博报道，迪士尼取得法院命令，暂停联邦通信委员会针对旗下 ABC 电视台执照的续期程序。临时措施改变近期程序安排，最终争议仍待继续审理。\n\n报道时间与核验　11 月 26 日 Bloomberg Law 02:43 UTC 公开索引和官网条目，全文访问受限。",
-      "why": "",
-      "source": "Bloomberg",
-      "tag": "",
-      "date": "2026-11-26",
-      "links": [
-        {
-          "label": "Bloomberg｜Disney Scores Early Win in Showdown With Trump Over ABC Licenses",
-          "url": "https://news.bloomberglaw.com/daily-labor-report/disney-wins-order-pausing-fcc-renewal-process-for-abc-licenses"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-ecb-minutes",
-      "section": "bloomberg",
-      "category": "欧洲货币政策",
-      "title": "欧洲央行纪要显示，10 月已有不少委员愿意支持加息",
-      "summary": "欧洲央行 11 月 26 日公开 10 月会议纪要。路透引述纪要称，有多名决策者认为数据已经支持进一步收紧，并愿意当时上调利率。纪要记录过去会议的讨论，12 月是否行动仍由下一次会议决定。",
-      "fullBody": "欧洲央行 11 月 26 日公开 10 月会议纪要。路透引述纪要称，有多名决策者认为数据已经支持进一步收紧，并愿意当时上调利率。纪要记录过去会议的讨论，12 月是否行动仍由下一次会议决定。\n\n报道时间与核验　11 月 26 日 Reuters 页面 12:44 UTC，彭博官网摘要交叉核对。",
+      "category": "工业金属",
+      "title": "彭博追踪伦敦金属交易所铝现货紧张",
+      "summary": "彭博 11 月 27 日的专题关注伦敦金属交易所铝市场近期供应吃紧。路透此前曾报道，现货合约相对三个月期合约的溢价扩大，交易所收紧规则。溢价上升体现现在交付的合约相对更贵，接下来可看库存和近月价差能否恢复。",
+      "fullBody": "彭博 11 月 27 日的专题关注伦敦金属交易所铝市场近期供应吃紧。路透此前曾报道，现货合约相对三个月期合约的溢价扩大，交易所收紧规则。溢价上升体现现在交付的合约相对更贵，接下来可看库存和近月价差能否恢复。\n\n报道时间与核验　11 月 27 日 Bloomberg 官网专题及公开索引标示 15:01 UTC。路透 11 月 25 日规则报道只作背景。",
       "why": "",
       "source": "Bloomberg · Reuters",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Bloomberg｜ECB Officials Saw More Tightening With Inflation Outlook Worse（官网摘要）",
-          "url": "https://www.bloomberg.com/"
+          "url": "https://www.bloomberg.com/europe",
+          "label": "Bloomberg｜How an Aluminum Squeeze Brought the LME to the Brink of Crisis Again（官网专题）"
         },
         {
-          "label": "Reuters｜ECB already had large support for rate hike in Oct, accounts show",
-          "url": "https://www.reuters.com/markets/europe/ecb-already-had-large-support-rate-hike-oct-accounts-show-2026-11-26/"
+          "url": "https://www.reuters.com/business/davos/lme-tightens-rules-response-aluminium-squeeze-2026-11-25/",
+          "label": "Reuters｜LME tightens rules in response to aluminium squeeze（背景）"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-hk-fire",
+      "id": "2026-11-28-eu-inflation",
       "section": "bloomberg",
-      "category": "香港与社会",
-      "title": "香港宏福苑火灾一周年，遇难者家属和居民举行悼念",
-      "summary": "香港 11 月 26 日迎来宏福苑火灾一周年。美联社报道，当地有人献花祈祷，一座教堂逐一念出 168 名遇难者姓名。彭博周年报道聚焦幸存者及家属对问责的关注，本期收录当天实际悼念及持续安置情况。",
-      "fullBody": "香港 11 月 26 日迎来宏福苑火灾一周年。美联社报道，当地有人献花祈祷，一座教堂逐一念出 168 名遇难者姓名。彭博周年报道聚焦幸存者及家属对问责的关注，本期收录当天实际悼念及持续安置情况。\n\n报道时间与核验　11 月 26 日 Bloomberg 专题官网摘要，AP 06:09 UTC 现场报道。",
+      "category": "欧洲通胀",
+      "title": "彭博报道法国和西班牙通胀放缓超过预期",
+      "summary": "彭博 11 月 27 日报道，法国和西班牙最新通胀读数放缓幅度超过预期。两国数据为之后公布的欧元区总体数据提供线索。各国价格构成和权重不同，欧洲央行还要结合全区数据判断是否调整利率。",
+      "fullBody": "彭博 11 月 27 日报道，法国和西班牙最新通胀读数放缓幅度超过预期。两国数据为之后公布的欧元区总体数据提供线索。各国价格构成和权重不同，欧洲央行还要结合全区数据判断是否调整利率。\n\n报道时间与核验　11 月 27 日彭博署名转载标示纽约时间 04:00。",
       "why": "",
       "source": "Bloomberg",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Bloomberg｜A Year After Deadly Hong Kong Fire, Victims Still Seek Answers（官网专题）",
-          "url": "https://www.bloomberg.com/"
-        },
-        {
-          "label": "AP｜Hong Kong marks deadly fire anniversary",
-          "url": "https://apnews.com/article/98fa6c7d0db5ea7089f6dce02142b509"
+          "url": "https://uk.finance.yahoo.com/news/inflation-slows-much-more-expected-090000375.html",
+          "label": "Bloomberg｜Inflation Slows Much More Than Expected in France and Spain（署名转载）"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-india-labels",
+      "id": "2026-11-28-canaries",
       "section": "brief",
-      "category": "食品与监管",
-      "title": "印度最高法院要求分别标示高盐、高糖和高脂",
-      "summary": "印度最高法院 11 月 26 日要求收紧食品包装正面营养警示拟议规则，为高盐、高糖和高脂分别使用独立警示符号。",
-      "fullBody": "印度最高法院 11 月 26 日要求收紧食品包装正面营养警示拟议规则，为高盐、高糖和高脂分别使用独立警示符号。\n\n报道时间与核验　11 月 26 日 Reuters 页面 05:59 UTC。",
+      "category": "航海救援",
+      "title": "西班牙加那利群岛附近移民船上发现至少八人死亡",
+      "summary": "西班牙海上救援部门 11 月 27 日称，一艘载约百人的船在耶罗岛附近获救，发现至少八人死亡，另有六人情况严重并送医。",
+      "fullBody": "西班牙海上救援部门 11 月 27 日称，一艘载约百人的船在耶罗岛附近获救，发现至少八人死亡，另有六人情况严重并送医。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 16:08 UTC，依据海上救援部门。",
       "why": "",
       "source": "Reuters",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Indian court tightens food labelling proposal, asks global food firms to end double standards",
-          "url": "https://www.reuters.com/world/india/india-tightens-food-warning-labels-proposal-new-setback-industry-2026-11-26/"
+          "url": "https://www.reuters.com/world/least-eight-found-dead-migrant-boat-off-spains-canary-islands-2026-11-27/",
+          "label": "Reuters｜At least eight found dead on migrant boat off Spain’s Canary Islands"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-nz",
+      "id": "2026-11-28-kenya",
+      "section": "brief",
+      "category": "非洲司法",
+      "title": "肯尼亚法院就 123 人死亡案裁定宗教团体领袖过失杀人",
+      "summary": "肯尼亚法院 11 月 27 日判定保罗·麦肯齐在涉及 123 人死亡的一案中犯过失杀人罪。他此前不认罪，其律师称将于量刑后上诉。",
+      "fullBody": "肯尼亚法院 11 月 27 日判定保罗·麦肯齐在涉及 123 人死亡的一案中犯过失杀人罪。他此前不认罪，其律师称将于量刑后上诉。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 14:27 UTC。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://www.reuters.com/world/africa/kenyan-starvation-cult-leader-guilty-manslaughter-123-deaths-latest-conviction-2026-11-27/",
+          "label": "Reuters｜Kenyan starvation cult leader guilty of manslaughter for 123 deaths in latest conviction"
+        }
+      ],
+      "stats": []
+    },
+    {
+      "id": "2026-11-28-mexico",
+      "section": "brief",
+      "category": "拉美外交",
+      "title": "墨西哥就美国缉毒局举报热线向美方提出正式抗议",
+      "summary": "墨西哥总统辛鲍姆说，外交部长已就美国缉毒局征集贩毒及墨西哥官员腐败线索的热线向美国大使提出抗议。",
+      "fullBody": "墨西哥总统辛鲍姆说，外交部长已就美国缉毒局征集贩毒及墨西哥官员腐败线索的热线向美国大使提出抗议。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 15:19 UTC，依据总统简报。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://www.reuters.com/world/americas/mexico-files-complaint-with-us-over-dea-tip-line-alleged-drug-traffickers-2026-11-27/",
+          "label": "Reuters｜Mexico files complaint with US over DEA tip line on alleged traffickers, official corruption"
+        }
+      ],
+      "stats": []
+    },
+    {
+      "id": "2026-11-28-uk-pensions",
+      "section": "brief",
+      "category": "英国公共服务",
+      "title": "英国养老金部门因网络事件暂停部分服务",
+      "summary": "英国工作和养老金部表示，一起严重网络事件使部分服务下线，日常福利和养老金支付继续。截至通报时，该部门未发现个人数据遭泄露的证据。",
+      "fullBody": "英国工作和养老金部表示，一起严重网络事件使部分服务下线，日常福利和养老金支付继续。截至通报时，该部门未发现个人数据遭泄露的证据。\n\n报道时间与核验　11 月 27 日 Reuters 页面标示 09:00 UTC，依据部门说明。",
+      "why": "",
+      "source": "Reuters",
+      "tag": "",
+      "date": "2026-11-27",
+      "links": [
+        {
+          "url": "https://www.reuters.com/legal/litigation/uk-pensions-department-hit-by-cyber-incident-2026-11-27/",
+          "label": "Reuters｜UK pensions department hit by serious cyber incident, minister says"
+        }
+      ],
+      "stats": []
+    },
+    {
+      "id": "2026-11-28-nz",
       "section": "brief",
       "category": "新西兰政治",
-      "title": "新西兰等待最终点票，初步结果显示执政联盟仅领先两席",
-      "summary": "路透 11 月 26 日预告，最终点票将确认议会席位分布。11 月 7 日大选的初步结果显示，国家党领导的三党执政联盟拥有两席多数。",
-      "fullBody": "路透 11 月 26 日预告，最终点票将确认议会席位分布。11 月 7 日大选的初步结果显示，国家党领导的三党执政联盟拥有两席多数。\n\n报道时间与核验　11 月 26 日 Reuters 页面 21:01 UTC，最终点票结果未纳入此稿。",
+      "title": "新西兰正式计票后，执政三党合计 65 席，失去单独多数",
+      "summary": "新西兰选举委员会 11 月 27 日公布正式点票，国家党从选举夜的 42 席减至 40 席，连同行动党 13 席和新西兰优先党 12 席，原执政三党合计 65 席。130 席议会的过半门槛为 66 席，结果仍受司法重新点票程序约束。",
+      "fullBody": "新西兰选举委员会 11 月 27 日公布正式点票，国家党从选举夜的 42 席减至 40 席，连同行动党 13 席和新西兰优先党 12 席，原执政三党合计 65 席。130 席议会的过半门槛为 66 席，结果仍受司法重新点票程序约束。\n\n报道时间与核验　新西兰选举委员会 11 月 27 日公告，议席根据公布结果计算。",
       "why": "",
-      "source": "Reuters",
-      "tag": "",
-      "date": "2026-11-26",
+      "source": "",
+      "tag": "持续关注",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Final New Zealand election vote count to confirm parliament make up",
-          "url": "https://www.reuters.com/world/asia-pacific/final-new-zealand-election-vote-count-confirm-parliament-make-up-2026-11-26/"
+          "url": "https://elections.nz/media-and-news/2026/2026-general-election-official-results",
+          "label": "新西兰选举委员会｜2026 General Election official results"
         }
       ],
       "stats": []
     },
     {
-      "id": "2026-11-27-spain-vote",
-      "section": "brief",
-      "category": "欧洲政治",
-      "title": "西班牙提前选举在即，银行税和住房政策受市场关注",
-      "summary": "路透 11 月 26 日梳理提前选举对市场的潜在影响。政府本周批准把银行税延长一年，预计筹集 14 亿欧元用于住房政策，后续政策取决于选举和组阁。",
-      "fullBody": "路透 11 月 26 日梳理提前选举对市场的潜在影响。政府本周批准把银行税延长一年，预计筹集 14 亿欧元用于住房政策，后续政策取决于选举和组阁。\n\n报道时间与核验　11 月 26 日 Reuters 页面 05:04 UTC，属于选前分析。",
+      "id": "2026-11-28-taiwan-gdp",
+      "section": "bloomberg",
+      "category": "东亚经济",
+      "title": "台湾第三季度实际 GDP 同比增长 14.39%，上修 2027 年增长预测",
+      "summary": "台湾主计总处 11 月 27 日发布初值，第三季度实际 GDP 同比增长 14.39%。该机构对 2026 年和 2027 年的全年预测分别为增长 13.28% 和 6.51%。彭博日本版关注 2027 年增长预测上修，实际增速仍会受到外需和科技投资影响。",
+      "fullBody": "台湾主计总处 11 月 27 日发布初值，第三季度实际 GDP 同比增长 14.39%。该机构对 2026 年和 2027 年的全年预测分别为增长 13.28% 和 6.51%。彭博日本版关注 2027 年增长预测上修，实际增速仍会受到外需和科技投资影响。\n\n报道时间与核验　11 月 27 日台湾主计总处公告，Bloomberg 日本版官网摘要交叉核对。",
       "why": "",
-      "source": "Reuters",
+      "source": "Bloomberg",
       "tag": "",
-      "date": "2026-11-26",
+      "date": "2026-11-27",
       "links": [
         {
-          "label": "Reuters｜Spain’s snap election: Five key questions for financial markets",
-          "url": "https://www.reuters.com/business/finance/spains-snap-election-five-key-questions-financial-markets-2026-11-26/"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-india-straw",
-      "section": "brief",
-      "category": "环境与农业",
-      "title": "印度旁遮普农户出售稻草以减少露天焚烧",
-      "summary": "路透 11 月 26 日的专题采访发现，部分农户把收割后的稻草卖给生物质企业。地方数据表明焚烧火点比前两年减少，德里今年 11 月中旬仍出现危险空气质量。",
-      "fullBody": "路透 11 月 26 日的专题采访发现，部分农户把收割后的稻草卖给生物质企业。地方数据表明焚烧火点比前两年减少，德里今年 11 月中旬仍出现危险空气质量。\n\n报道时间与核验　11 月 26 日 Reuters 页面 01:05 UTC，专题区分历史统计与近期空气监测。",
-      "why": "",
-      "source": "Reuters",
-      "tag": "",
-      "date": "2026-11-26",
-      "links": [
+          "url": "https://www.bloomberg.com/jp",
+          "label": "Bloomberg｜台湾、27年のGDP成長率見通し上方修正（日本版首页摘要）"
+        },
         {
-          "label": "Reuters｜Indian farmers sell paddy stubble to biomass firms, reduce burning",
-          "url": "https://www.reuters.com/business/environment/indian-farmers-sell-paddy-stubble-biomass-firms-reduce-burning-2026-11-26/"
-        }
-      ],
-      "stats": []
-    },
-    {
-      "id": "2026-11-27-cop31",
-      "section": "brief",
-      "category": "气候与非洲",
-      "title": "气候谈判遇阻之际，部分国家和企业推进电气化",
-      "summary": "路透 11 月 26 日报道，联合国气候大会讨论进展受阻，一些国家和企业把精力转向电气化项目。国际能源署署长在会上指出，撒哈拉以南非洲约半数人口仍无电力供应。",
-      "fullBody": "路透 11 月 26 日报道，联合国气候大会讨论进展受阻，一些国家和企业把精力转向电气化项目。国际能源署署长在会上指出，撒哈拉以南非洲约半数人口仍无电力供应。\n\n报道时间与核验　11 月 26 日 Reuters 页面 14:54 UTC，关于电力可及性的说法归于国际能源署署长。",
-      "why": "",
-      "source": "Reuters",
-      "tag": "",
-      "date": "2026-11-26",
-      "links": [
-        {
-          "label": "Reuters｜As COP31 stalls, countries and companies rally around electrification",
-          "url": "https://www.reuters.com/sustainability/climate-energy/cop31-stalls-countries-companies-rally-around-electrification--ecmii-2026-11-26/"
+          "url": "https://eng.dgbas.gov.tw/News_Content.aspx?n=4438&s=236907",
+          "label": "台湾主计总处｜GDP: Preliminary Estimate for 2026Q3, Outlook for 2026-27"
         }
       ],
       "stats": []
@@ -701,43 +691,39 @@
   ],
   "trends": [
     {
-      "title": "跨境交易下一步取决于报价、表决和监管的先后进程",
-      "body": "奥驰亚的潜在收购仍待报价，裕信银行通过最后一项监管审批后已提出监事会换人。两个案例表明，股价可以在正式交易前反映预期，交割后治理也要依赖公司程序。",
-      "watch": "12 月 24 日奥驰亚报价时限、裕信的股东大会通知和表决。"
+      "title": "设备需求同时反映在进口与股市，但两种数据回答不同问题",
+      "body": "美国资本品进口增长，美光和迈威尔带动半导体板块反弹。进口衡量实际货物流入，股价还反映未来利润和估值预期。短期股价反弹无法推断设备投资会以同样速度增长。",
+      "watch": "美国完整贸易报告、资本开支指引和恢复正常交易后的半导体股走势。"
     },
     {
-      "title": "芯片限制开始同时影响设备供应与人工智能研发进度",
-      "body": "荷兰反对扩大 ASML 对华销售限制，路透另报智谱和月之暗面的训练时间表面临压力。一端是制造设备能否出口，另一端是开发者能否取得现有芯片算力，两种限制经由不同供应链传导。",
-      "watch": "美国法案最终文本、荷兰执行立场、模型公司正式发布和算力安排。"
+      "title": "海上供应风险与航司现金压力通过燃油成本相连",
+      "body": "霍尔木兹附近的新事件及沙特炼厂中断伴随布伦特周线反弹。Norse Atlantic 筹资失败，亚航推迟发薪以保留现金。各家公司还面临租赁、汇率和客运网络等因素，燃油属于共同成本压力。",
+      "watch": "海峡装运量、炼厂恢复、航油价格、航班与租约公告。"
     },
     {
-      "title": "欧洲在高通胀时期同步处理央行换帅与预算谈判",
-      "body": "欧洲央行换届提名推进，10 月纪要显示多名决策者已愿意加息。欧盟各国同时谈七年预算和对乌融资。政策利率会影响融资价格，预算则决定成员国共同承担哪些开支。两项决策由不同机构处理。",
-      "watch": "12 月欧洲央行决议、任命最终确认及欧盟预算协议。"
+      "title": "科技竞争同时受到出口政策和供应商选择影响",
+      "body": "法国加入荷兰反对美国拟议出口限制，彭博报道在中国项目发现 Blackwell 设备，OpenAI 和苹果的诉讼也涉及零件供应商。前两项涉及跨境设备流通，后一项是未经裁决的私人诉讼主张。",
+      "watch": "出口法案文本、设备采购与授权的可验证记录、法院文件和裁决。"
     }
   ],
   "coverageChecklist": [
     [
       "Reuters 官网",
-      "截稿后复查可见首页及市场、世界、科技、航空等版块，纳入风暴、欧洲央行、俄乌、能源航运、贸易及并购。"
+      "截稿后复查首页和世界、市场、产业报道，纳入欧佩克独家、魁北克裁决、股市、油市、贸易数据和航空破产。"
     ],
     [
       "Bloomberg 官网",
-      "截稿后复查可见首页，纳入帝国品牌、SAP、感恩节风暴、欧洲央行、关税反应、ASML 及市场。独立 Latest 页面未能核实。"
+      "可见入口先后跳转至欧洲版和日本版，两版头条已核。美国版及独立 Latest 页面未能完整验证。部分条目通过公开索引、署名转载或官方数据核对。"
     ],
     [
-      "资本与行业",
-      "检查 IPO、收购、融资、企业停飞和潜在破产、评级、宏观与市场；本窗口未核到可单列的重大新 IPO。"
+      "资本市场与公共议题",
+      "检查收购、融资、财报、主权评级、央行、就业、气候与公共卫生。收录谈判、融资筹备和破产申请阶段，未核到需单列的重大新 IPO 或新的重大科研成果。"
     ],
     [
-      "地域与公共议题",
-      "覆盖欧洲、美国、俄乌、中东、中国、日本、新西兰、南亚及巴西和阿根廷，纳入气候议题和撒哈拉以南非洲电力信息。未核到适合单列的新增重大公共卫生或科学事件。"
-    ],
-    [
-      "跨期去重",
-      "对照 11 月 26 日归档的 33 条正文和 3 条趋势。保留关税回应、霍尔木兹新通报、感恩节实况、Norse 停飞和 SpaceX 赠股。省略前期已发的关税提案细节、沙特炼厂原声明、上一期的 SpaceX 卫星许可及英伟达评级名单原消息，以及超出窗口的报道。"
+      "地域与去重",
+      "逐条对照上一期 31 条新闻和 3 项趋势。保留 Norse 破产新进展、霍尔木兹新通报、法国反对出口管制及新西兰正式点票。省略欧洲央行接班原消息、帝国品牌前一日洽谈和无新进展的风暴预警。"
     ]
   ],
-  "disclaimer": "本刊为独立中文新闻简报。页面时间可能为滚动稿起始时间。未独立确认的声明、匿名消息、提案和市场快照均按证据说明。",
-  "editorNote": "共收录 31 条，含头条 8 条、快讯 5 条。Reuters 涉及 25 条，Bloomberg 涉及 15 条，联合来源分别计入。部分原文及精确更新时间受访问限制。"
+  "disclaimer": "本刊为独立中文新闻简报。滚动报道的页面时间可能是起始发布时间。盘中、收盘、估算、政策提案和未经裁决的指控均标明口径。",
+  "editorNote": "本期 31 条，含头条 8 条、快讯 5 条。Reuters 涉及 24 条，Bloomberg 涉及 11 条，联合来源分别计入。"
 }
